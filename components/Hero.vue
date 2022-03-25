@@ -12,7 +12,7 @@ Fresh Salt Agency is a multidisciplinary group of creatives and strategists work
     class="px-5 py-3 font-bold border-2 rounded-l-md hover:z-10 focus:outline-none focus:border-indigo-600 focus:z-10 hover:bg-gray-50 active:opacity-75"
     type="button"
   >
-    What We Do? 
+  <NuxtLink to="services">  What We Do?</NuxtLink> 
   </button>
 
   <button
