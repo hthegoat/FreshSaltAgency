@@ -10,7 +10,10 @@
     <!-- text - end -->
 
     <!-- form - start -->
-    <form class="max-w-screen-md grid sm:grid-cols-2 gap-4 mx-auto">
+    <form class="max-w-screen-md grid sm:grid-cols-2 gap-4 mx-auto"
+    action="https://getform.io/f/18e19d2f-ebd0-49b8-a8fa-541dc8c3f69e"
+    method="POST"
+    >
       <div>
         <label for="first-name" class="inline-block text-gray-800 text-sm sm:text-base mb-2">First name*</label>
         <input name="first-name" class="w-full bg-gray-50 text-gray-800 border-4 focus:ring ring-indigo-300 rounded outline-none transition duration-100 px-3 py-2" />
@@ -33,7 +36,7 @@
       </div>
 
       <div class="sm:col-span-2 flex justify-between items-center">
-        <button class="inline-block bg-primary border-4 hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Send</button>
+        <button type="submit" class="inline-block bg-primary border-4 hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Send</button>
 
         <span class="text-gray-500 text-sm">*Required</span>
       </div>
