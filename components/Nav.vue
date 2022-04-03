@@ -26,7 +26,7 @@
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
           <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="">Kickstarter</NuxtLink></li>
-          <li><a href="https://FreshSaltAgency.com" target="_blank" class="">Articles</a></li>
+       
           <li><NuxtLink to="contact" class="">Contact</NuxtLink></li>
           <li> 
       </li>
