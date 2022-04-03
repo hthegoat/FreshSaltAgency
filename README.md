@@ -1,6 +1,8 @@
 # FreshSaltAgency
 
-## Build Setup
+## Our Marketing Agency Built With Nuxt.js, Tailwind.js, and Alpine.js. 
+
+I barely know what I am doing here but feel free to use this on your own project or as a working template. It is published with Vercel. 
 
 ```bash
 # install dependencies

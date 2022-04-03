@@ -23,6 +23,10 @@ export default {
     ]
   },
 
+  sitemap : {
+    hostname: 'https://FreshSaltAgency.com'
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
@@ -45,9 +49,20 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxtjs/google-fonts'
+    '@nuxtjs/google-fonts', '@nuxtjs/sitemap', ['@nuxtjs/gtm', { 
+      id: 'GTM-WJQ5XKJ' }],
 
-  ],
+    
+
+        ['nuxt-facebook-pixel-module', {
+          /* module options */
+          track: 'PageView',
+          pixelId: '3264404717140380',
+          autoPageView: true,
+          disabled: false
+        }],
+       
+      ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
