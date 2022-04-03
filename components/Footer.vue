@@ -66,7 +66,7 @@
       </div>
 
       <nav
-        class="relative flex flex-wrap justify-center gap-8 p-8 text-sm font-bold border-4 border-black rounded-xl"
+        class="relative flex flex-wrap justify-center gap-8 p-8 text-sm font-bold border-4 border-black rounded"
       >
         <NuxtLink
           class="hover:opacity-75"

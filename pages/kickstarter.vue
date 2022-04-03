@@ -45,7 +45,7 @@
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 						
 						<span class="text-xl font-bold md:text-2xl"> Direct Chat Discord Communication</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="mt-4 text-coolGray-700">Email is slow. We work fast. For that reason we choose to setup a direct line of communication for our Kickstarter clients using Discord.</span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
@@ -55,7 +55,7 @@
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 			
 						<span class="text-xl font-bold md:text-2xl">100% Success Rate (So Far)</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="mt-4 text-coolGray-700">Every project we have worked on so far has gotten funded (5 for 5). Yes we are new to the industry, but our results speak for themselves.</span>
 					</div>
 				</div>
 				

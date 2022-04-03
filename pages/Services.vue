@@ -8,10 +8,10 @@
       We provide digital services to both large and small businesses to make their presence known in the digital world. We deliver effective projects through great ideas, hard work, and always with a smile.
     </p>
     
-       <button
+     <NuxtLink to="contact">  <button
     class="px-5 py-3 font-bold border-2 rounded-md hover:z-10 focus:outline-none focus:border-indigo-600 focus:z-10 hover:bg-gray-50 active:opacity-75"
     type="button"
-  >Request A Proposal</button>
+  >Request A Proposal</button> </NuxtLink>
 
     <div class="flex flex-col justify-start mb-3 mt-3 space-x-0 space-y-2 text-xs text-gray-600 md:flex-row md:justify-center md:space-x-8 md:space-y-0">
       <div class="flex items-center">

@@ -55,8 +55,8 @@
 					</div>
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 						<span class="text-xs tracking-wider uppercase text-violet-600">Step 1 - Nihil</span>
-						<span class="text-xl font-bold md:text-2xl">Veritatis dolores</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="text-xl font-bold md:text-2xl">Access & Communications</span>
+						<span class="mt-4 text-coolGray-700">Communication is the foundation of every relationship. We listen and ask questions before we proceed. We consult with you on key decisions. Our goal is to ensure that you have a solid understanding of everything we are working on so you're able to both learn and help us iterate.</span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
@@ -67,9 +67,9 @@
 						</svg>
 					</div>
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-						<span class="text-xs tracking-wider uppercase text-violet-600">Step 2 - Explicabo</span>
-						<span class="text-xl font-bold md:text-2xl">Iure incidunt labore</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="text-xs tracking-wider uppercase text-violet-600">Step 2</span>
+						<span class="text-xl font-bold md:text-2xl">Keyword Planning</span>
+						<span class="mt-4 text-coolGray-700">Keyword Planning is a process for getting keyword metrics and forecasts as well as searching for new keywords to add to campaigns. </span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
@@ -80,9 +80,9 @@
 						</svg>
 					</div>
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-						<span class="text-xs tracking-wider uppercase text-violet-600">Step 3 - Facilis</span>
-						<span class="text-xl font-bold md:text-2xl">Dolorem praesentium</span>
-						<span class="mt-4 bg-coolGray-100 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="text-xs tracking-wider uppercase text-violet-600">Step 3</span>
+						<span class="text-xl font-bold md:text-2xl">Campaign Setup</span>
+						<span class="mt-4 bg-coolGray-100 text-coolGray-700">This self explanatory step is where we launch your campaigns. We keep things tight and efficient.</span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
@@ -94,9 +94,9 @@
 						</svg>
 					</div>
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-						<span class="text-xs tracking-wider uppercase text-violet-600">Step 4 - Aperiam</span>
-						<span class="text-xl font-bold md:text-2xl">Explicabo eaque</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="text-xs tracking-wider uppercase text-violet-600">Step 4</span>
+						<span class="text-xl font-bold md:text-2xl">Optimize & Scale</span>
+						<span class="mt-4 text-coolGray-700">Optimize the performance of your ads to open more doors for you. </span>
 					</div>
 				</div>
 			</div>

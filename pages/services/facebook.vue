@@ -44,7 +44,7 @@
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 						<span class="text-xs tracking-wider uppercase text-violet-600">Step 1</span>
 						<span class="text-xl font-bold md:text-2xl"> Access & Communications</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="mt-4 text-coolGray-700">Communication is the foundation of every relationship. We listen and ask questions before we proceed. We consult with you on key decisions. Our goal is to ensure that you have a solid understanding of everything we are working on so you're able to both learn and help us iterate.</span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
@@ -54,7 +54,7 @@
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 						<span class="text-xs tracking-wider uppercase text-violet-600">Step 2</span>
 						<span class="text-xl font-bold md:text-2xl">Audit & Strategize</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="mt-4 text-coolGray-700">A good marketing strategy sets out your business goals and helps you focus on who your ideal customer is and how you intend to reach them. It should be easy to read, and set out clearly what you need to achieve, who will achieve it, and when they will do it.</span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
@@ -64,7 +64,7 @@
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 						<span class="text-xs tracking-wider uppercase text-violet-600">Step 3</span>
 						<span class="text-xl font-bold md:text-2xl">Run Ads & Test Creative</span>
-						<span class="mt-4 bg-coolGray-100 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="mt-4 bg-coolGray-100 text-coolGray-700">Facebook advertising can turn your Facebook Page into a powerful lead-generating machine. The user base is massive and the targeting options are unrivaled, which means you have the potential to reach almost anyone interested in your product or service. The vast amount of analytics tools and insights means that you'll be able to see who's interested in what you're selling, what's working for your competitors, and which creative ad images and headlines convert at the highest rates.</span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
@@ -74,7 +74,7 @@
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 						<span class="text-xs tracking-wider uppercase text-violet-600">Step 4</span>
 						<span class="text-xl font-bold md:text-2xl">Optimize & Scale</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
+						<span class="mt-4 text-coolGray-700">Optimize the performance of your ads to open more doors for you. </span>
 					</div>
 				</div>
 			</div>
