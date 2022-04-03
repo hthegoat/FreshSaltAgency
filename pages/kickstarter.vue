@@ -1,12 +1,11 @@
+
 <template>
-    <div>
-        <template>
     <section> 
 <div class="bg-white pb-6 sm:pb-8 lg:pb-6">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
    
 
-    <section class="flex flex-col items-center">
+<section class="flex flex-col pb-8 items-center">
      
 
      <div class="bg-white py-6 sm:py-8 lg:py-6">
@@ -14,19 +13,19 @@
     <div class="grid md:grid-cols-2 gap-8 lg:gap-12">
       <div>
         <div class="h-64 md:h-auto bg-gray-100 overflow-hidden rounded-lg shadow-lg">
-          <img src="~/assets/kick.png" loading="lazy" alt="Photo by Martin Sanchez" class="w-full h-full object-cover object-center" />
+          <img src="~/assets/kick.png" loading="lazy" alt="Kickstarter Marketing Agency" class="w-full h-full object-cover object-center" />
         </div>
       </div>
 
       <div class="md:pt-4">
         <p class="text-indigo-500 font-bold text-center md:text-left">Launching On Kickstarter?</p>
 
-        <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-left mb-4 md:mb-6">We've Helped Crowdfund Over $450k In Crowdfunds In 2022</h1>
+        <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-left mb-4 md:mb-6">We've Helped Crowdfund Over $450k For Crowdfunding Projects In 2022</h1>
 
         <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
-        We specialize in creating attention-grabbing Facebook ads that turn social media users into qualified leads. From ad creative and strategy to analytics and landing pages, we’ll take care of everything for you.<br /><br />
+        As a Kickstarter Marketing Agency we specialize in creating attention-grabbing Facebook ads that turn social media users into qualified leads. From ad creative and strategy to analytics and landing pages, we’ll take care of everything for you.<br /><br />
 
-          It’s time to get serious about Facebook Ads. 
+          It’s time to get serious about your project. 
         </p>
 
         
@@ -34,221 +33,111 @@
     </div>
   </div>
 </div>
-    </section>
+</section>
 
-    <div class="container mx-auto flex flex-col p-6">
-			<h2 class="py-4 text-3xl font-bold text-center">Our Proccess</h2>
+    <div class="container pb-32 mx-auto flex flex-col p-6">
+			<h2 class="py-4 text-3xl font-bold text-center">Working With Us</h2>
 			<div class="divide-y divide-coolGray-300">
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
 					<div class="flex items-center justify-center lg:col-span-1 col-span-full">
-				<svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-  <path stroke-linecap="round" stroke-linejoin="round" d="M9 13h6m-3-3v6m5 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-</svg>
+				<img class="h-auto w-1/2 object-contain" src="~/assets/Discord-1.png" alt="Kickstarter Marketing Agency Communications">
 					</div>
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-						<span class="text-xs tracking-wider uppercase text-violet-600">Step 1</span>
-						<span class="text-xl font-bold md:text-2xl"> Access & Communications</span>
+						
+						<span class="text-xl font-bold md:text-2xl"> Direct Chat Discord Communication</span>
 						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
 					</div>
 				</div>
 				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
 					<div class="flex items-center justify-center lg:col-span-1 col-span-full">
-						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-16 h-16">
-							<path d="M285.177,179l15.513-3.914-7.827-31.028-15.514,3.913a176.937,176.937,0,0,0-129.3,133.557l-3.407,15.633,31.266,6.814,3.406-15.634A145.559,145.559,0,0,1,285.177,179Z"></path>
-							<path d="M363.624,147.871C343.733,72.077,274.643,16,192.7,16,95.266,16,16,95.266,16,192.7c0,82.617,57,152.163,133.735,171.4A176.769,176.769,0,0,0,320.7,496c97.431,0,176.7-79.266,176.7-176.695C497.392,238.071,441.64,167.336,363.624,147.871ZM48,192.7C48,112.91,112.91,48,192.7,48s144.7,64.91,144.7,144.7-64.911,144.7-144.7,144.7S48,272.481,48,192.7ZM320.7,464c-60.931,0-115.21-38.854-135.843-94.792,2.6.115,5.214.184,7.843.184a176.862,176.862,0,0,0,32.7-3.047l97.625,97.625C322.247,463.983,321.473,464,320.7,464Zm41.528-6.083L260.26,355.954a176.9,176.9,0,0,0,43.662-26.072L408.37,434.33A144.385,144.385,0,0,1,362.223,457.917Zm69.3-45.692L326.851,307.557a177.082,177.082,0,0,0,27.911-44.5L457.67,365.964A144.661,144.661,0,0,1,431.519,412.225Zm33.594-84.073-99.42-99.42a176.785,176.785,0,0,0,3.7-36.036c0-3.285-.1-6.547-.276-9.787a145.054,145.054,0,0,1,96.276,136.4C465.392,322.276,465.291,325.224,465.113,328.152Z"></path>
-						</svg>
+							<img class="h-auto w-1/2 object-cover" src="~/assets/target.png" alt="Kickstarter Marketing Agency Communications">
 					</div>
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-						<span class="text-xs tracking-wider uppercase text-violet-600">Step 2 - Explicabo</span>
-						<span class="text-xl font-bold md:text-2xl">Iure incidunt labore</span>
+			
+						<span class="text-xl font-bold md:text-2xl">100% Success Rate (So Far)</span>
 						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
 					</div>
 				</div>
-				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
-					<div class="flex items-center justify-center lg:col-span-1 col-span-full">
-						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-16 h-16">
-							<path d="M412.284,294.37l-12.5,15.642c-8.354,10.454-50.027,64.208-50.027,95.883,0,36.451,28.049,66.105,62.526,66.105s62.527-29.654,62.527-66.105c0-31.675-41.673-85.429-50.028-95.883Zm0,145.63c-16.832,0-30.526-15.3-30.526-34.105,0-11.662,15.485-37.883,30.531-59.2,15.043,21.3,30.522,47.509,30.522,59.2C442.811,424.7,429.116,440,412.284,440Z"></path>
-							<path d="M122.669,51.492,96.133,124.4,30.092,97.205,17.908,126.8l67.271,27.7L26.9,314.606a48.056,48.056,0,0,0,28.689,61.523l184.719,67.232a48,48,0,0,0,61.523-28.688L397.6,151.56Zm149.1,352.236a16,16,0,0,1-20.508,9.563L66.537,346.059a16,16,0,0,1-9.563-20.507L73.553,280H316.8ZM85.2,248l29.594-81.311,36.333,14.961a32.644,32.644,0,1,0,11.236-29.98l-36.615-15.077,16.046-44.085,214.79,78.177L328,249.219V248Z"></path>
-						</svg>
-					</div>
-					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-						<span class="text-xs tracking-wider uppercase text-violet-600">Step 3 - Facilis</span>
-						<span class="text-xl font-bold md:text-2xl">Dolorem praesentium</span>
-						<span class="mt-4 bg-coolGray-100 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
-					</div>
-				</div>
-				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
-					<div class="flex items-center justify-center lg:col-span-1 col-span-full">
-						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-16 h-16">
-							<polygon points="388.632 393.82 495.823 255.94 388.684 118.178 363.424 137.822 455.288 255.944 363.368 374.18 388.632 393.82"></polygon>
-							<polygon points="148.579 374.181 56.712 255.999 148.629 137.823 123.371 118.177 16.177 255.993 123.314 393.819 148.579 374.181"></polygon>
-							<polygon points="330.529 16 297.559 16 178.441 496 211.412 496 330.529 16"></polygon>
-						</svg>
-					</div>
-					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-						<span class="text-xs tracking-wider uppercase text-violet-600">Step 4 - Aperiam</span>
-						<span class="text-xl font-bold md:text-2xl">Explicabo eaque</span>
-						<span class="mt-4 text-coolGray-700">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam facilis, voluptates error alias dolorem praesentium sit soluta iure incidunt labore explicabo eaque, quia architecto veritatis dolores, enim cons equatur nihil ipsum.</span>
-					</div>
-				</div>
+				
 			</div>
 		</div>
   </div>
 </div>
 
-<div class="bg-white py-6 sm:py-8 lg:py-12">
-  <div class="max-w-screen-xl px-4 md:px-8 mx-auto">
-    <!-- text - start -->
-    <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Blog</h2>
+<!--PROJECTS 
 
-      <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>
-    </div>
-    <!-- text - end -->
-
-    <div class="grid sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-4 md:gap-6 xl:gap-8">
-      <!-- article - start -->
-      <div class="flex flex-col md:flex-row items-center border rounded-lg overflow-hidden">
-        <a href="#" class="group w-full md:w-32 lg:w-48 h-48 md:h-full block self-start shrink-0 bg-gray-100 overflow-hidden relative">
-          <img src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Minh Pham" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
-        </a>
-
-        <div class="flex flex-col gap-2 p-4 lg:p-6">
-          <span class="text-gray-400 text-sm">July 19, 2021</span>
-
-          <h2 class="text-gray-800 text-xl font-bold">
-            <a href="#" class="hover:text-indigo-500 active:text-indigo-600 transition duration-100">New trends in Tech</a>
-          </h2>
-
-          <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text.</p>
-
-          <div>
-            <a href="#" class="text-indigo-500 hover:text-indigo-600 active:text-indigo-700 font-semibold transition duration-100">Read more</a>
-          </div>
-        </div>
+<section>
+  <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
+    <div class="grid grid-cols-1 gap-8 lg:gap-16 lg:grid-cols-2">
+      <div
+        class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:h-full lg:order-last"
+      >
+        <img
+          class="absolute inset-0 object-cover w-full h-full"
+          src="~/assets/funded.png"
+          alt="Man using a computer"
+        />
       </div>
-      <!-- article - end -->
 
-      <!-- article - start -->
-      <div class="flex flex-col md:flex-row items-center border rounded-lg overflow-hidden">
-        <a href="#" class="group w-full md:w-32 lg:w-48 h-48 md:h-full block self-start shrink-0 bg-gray-100 overflow-hidden relative">
-          <img src="https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&q=75&fit=crop&w=600" loading="lazy" alt="Photo by Lorenzo Herrera" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
-        </a>
+      <div class="lg:py-24">
+        <h2 class="text-3xl font-bold text-center sm:text-4xl">We Are Not Kidding</h2>
 
-        <div class="flex flex-col gap-2 p-4 lg:p-6">
-          <span class="text-gray-400 text-sm">April 07, 2021</span>
+        <p class="mt-4 text-center text-gray-600">
+          So far every project we have had the pleasure of working with has gotten funded. We would love to take credit for all of their hardwork but we were merely a helpful strategic partner in their launch journey.
+        </p>
 
-          <h2 class="text-gray-800 text-xl font-bold">
-            <a href="#" class="hover:text-indigo-500 active:text-indigo-600 transition duration-100">Working with legacy stacks</a>
-          </h2>
-
-          <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text.</p>
-
-          <div>
-            <a href="#" class="text-indigo-500 hover:text-indigo-600 active:text-indigo-700 font-semibold transition duration-100">Read About Our Work</a>
-          </div>
-        </div>
+       
       </div>
-      <!-- article - end -->
-
-    </div>
-
-  </div>
- 
-<div class="bg-white py-6 sm:py-8 lg:py-12">
-  <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
-    <!-- text - start -->
-    <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Frequently asked questions</h2>
-
-      <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>
-    </div>
-    <!-- text - end -->
-
-    <div class="grid sm:grid-cols-2 xl:grid-cols-3 gap-8 sm:gap-y-10">
-      <!-- question - start -->
-      <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
-        <span class="w-8 h-8 inline-flex justify-center items-center bg-indigo-500 text-white rounded-full absolute -top-4 left-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
-          </svg>
-        </span>
-
-        <h3 class="text-indigo-500 text-lg md:text-xl font-semibold mb-3">How does the product work?</h3>
-        <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
-      </div>
-      <!-- question - end -->
-
-      <!-- question - start -->
-      <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
-        <span class="w-8 h-8 inline-flex justify-center items-center bg-indigo-500 text-white rounded-full absolute -top-4 left-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
-          </svg>
-        </span>
-
-        <h3 class="text-indigo-500 text-lg md:text-xl font-semibold mb-3">What are the features?</h3>
-        <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
-      </div>
-      <!-- question - end -->
-
-      <!-- question - start -->
-      <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
-        <span class="w-8 h-8 inline-flex justify-center items-center bg-indigo-500 text-white rounded-full absolute -top-4 left-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
-          </svg>
-        </span>
-
-        <h3 class="text-indigo-500 text-lg md:text-xl font-semibold mb-3">What about integrations?</h3>
-        <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
-      </div>
-      <!-- question - end -->
-
-      <!-- question - start -->
-      <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
-        <span class="w-8 h-8 inline-flex justify-center items-center bg-indigo-500 text-white rounded-full absolute -top-4 left-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
-          </svg>
-        </span>
-
-        <h3 class="text-indigo-500 text-lg md:text-xl font-semibold mb-3">Is support available?</h3>
-        <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
-      </div>
-      <!-- question - end -->
-
-      <!-- question - start -->
-      <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
-        <span class="w-8 h-8 inline-flex justify-center items-center bg-indigo-500 text-white rounded-full absolute -top-4 left-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
-          </svg>
-        </span>
-
-        <h3 class="text-indigo-500 text-lg md:text-xl font-semibold mb-3">How does one upgrage a plan?</h3>
-        <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
-      </div>
-      <!-- question - end -->
-
-      <!-- question - start -->
-      <div class="bg-gray-100 rounded-lg relative p-5 pt-8">
-        <span class="w-8 h-8 inline-flex justify-center items-center bg-indigo-500 text-white rounded-full absolute -top-4 left-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
-            <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-8-3a1 1 0 00-.867.5 1 1 0 11-1.731-1A3 3 0 0113 8a3.001 3.001 0 01-2 2.83V11a1 1 0 11-2 0v-1a1 1 0 011-1 1 1 0 100-2zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" />
-          </svg>
-        </span>
-
-        <h3 class="text-indigo-500 text-lg md:text-xl font-semibold mb-3">Which payment methods are available?</h3>
-        <p class="text-gray-500">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text.</p>
-      </div>
-      <!-- question - end -->
     </div>
   </div>
-</div>
-</div>
+</section>
+-->
+<div class="w-full mx-auto pb-4 text-left md:w-11/12 xl:w-9/12 md:text-center">
+    <h1 class="mb-6 text-3xl text-center font-extrabold leading-none tracking-normal text-gray-900 md:text-6xl md:tracking-tight">
+      You Read That Right <span class="block w-full text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-purple-500 lg:inline"></span> 
+    </h1>
+    <p class="px-6 text-center mb-6 text-lg text-gray-600 md:text-xl lg:px-24">
+     100% Success Rate. We would love to take credit where its due but this is more about the partners we work with then us. 
+    </p>
+    <div class="mb-4 space-x-0 md:space-x-2 md:mb-8">
+      <a class="inline-flex items-center justify-center w-full mb-2 btn btn-primary btn-lg sm:w-auto sm:mb-0" href="#">
+        Get Started
+        <svg class="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+          <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+        </svg>
+      </a>
+      <a class="inline-flex items-center justify-center w-full mb-2 btn btn-light btn-lg sm:w-auto sm:mb-0" href="#">
+        Book a Demo
+        <svg class="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+          <path
+            fill-rule="evenodd"
+            d="M6.672 1.911a1 1 0 10-1.932.518l.259.966a1 1 0 001.932-.518l-.26-.966zM2.429 4.74a1 1 0 10-.517 1.932l.966.259a1 1 0 00.517-1.932l-.966-.26zm8.814-.569a1 1 0 00-1.415-1.414l-.707.707a1 1 0 101.415 1.415l.707-.708zm-7.071 7.072l.707-.707A1 1 0 003.465 9.12l-.708.707a1 1 0 001.415 1.415zm3.2-5.171a1 1 0 00-1.3 1.3l4 10a1 1 0 001.823.075l1.38-2.759 3.018 3.02a1 1 0 001.414-1.415l-3.019-3.02 2.76-1.379a1 1 0 00-.076-1.822l-10-4z"
+            clip-rule="evenodd"
+          />
+        </svg>
+      </a>
+    </div>
+  </div>
+  <!--
+ <div class="h-auto md:h-auto bg-gray-100 overflow-hidden content-center rounded-lg shadow-lg">
+          <img src="~/assets/funded.png" loading="lazy" alt="Kickstarter Marketing Agency" class="w-2/3 h-2/3 object-contain object-center" />
+        </div>
+-->        
+<!--PROJECTS--> 
+<ProjectList />
+
+<!--PROJECTS--> 
+
+
+
+
+
+
 <Contact />
     </section>   
 </template>
-    </div>
-</template>
+ <script>
+ export default {
+   layout: 'kickstart',
+ }
+ </script>

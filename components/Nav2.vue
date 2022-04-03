@@ -3,8 +3,8 @@
     <div class="flex items-center justify-between">
 
       <!-- Header logo -->
-      <div class="w-16 h-auto">
-      <NuxtLink to="/"><img src="~/assets/logo.png" alt=""></NuxtLink>
+      <div class="w-auto h-auto">
+      <NuxtLink to="/"><img src="~/assets/Asset 2.png" alt=""></NuxtLink>
       </div>
 
       <!-- Mobile toggle -->
@@ -27,7 +27,7 @@
           <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="">Kickstarter</NuxtLink></li>
           <li><a href="https://FreshSaltAgency.com" target="_blank" class="">Articles</a></li>
-          <li><NuxtLink to="contact" class="">Contact</NuxtLink></li>
+          <li><a href="#contact" class="">Contact</a></li>
           <li> 
       </li>
         </ul>
@@ -48,7 +48,7 @@
       </transition>
 
       <!-- Drawer Menu -->
-      <aside class="p-5 transform top-0 left-0 w-64 bg-primary fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30" :class="isOpen ? 'translate-x-0' : '-translate-x-full'">
+     <aside class="p-5 transform top-0 left-0 w-64 bg-primary fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30" :class="isOpen ? 'translate-x-0' : '-translate-x-full'">
         
         <div class="close">
           <button class="absolute top-0 right-0 mt-4 mr-4" @click=" isOpen = false">

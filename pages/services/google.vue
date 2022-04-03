@@ -27,14 +27,12 @@
       </div>
 
       <div class="md:pt-4">
-        <p class="text-indigo-500 font-bold text-center md:text-left">Why Facebook</p>
+        <p class="text-indigo-500 font-bold text-center md:text-left">Why Google Ads</p>
 
         <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-left mb-4 md:mb-6">Our competitive advantage</h1>
 
         <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
-          This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated. It may be used to display a sample of fonts or generate text for testing. Filler text is dummy text which has no meaning however looks very similar to real text.<br /><br />
-
-          This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is <a href="#" class="text-indigo-500 hover:text-indigo-600 active:text-indigo-700 underline transition duration-100">random</a> or otherwise generated. It may be used to display a sample of fonts or generate text for testing. Filler text is dummy text which has no meaning however looks very similar to real text.
+          In a nutshell, our job is to get you more clicks and conversions while lowering your click costs. We’ve got years of experience working with big-name companies, so we understand how complicated Google AdWords can be and we’re here to help you reach your goals. Whether you’re looking to increase traffic, achieve conversions, or simply reach more target customers, we are here for you.
         </p>
 
         

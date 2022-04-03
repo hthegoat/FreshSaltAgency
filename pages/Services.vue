@@ -24,13 +24,13 @@
         <svg viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 mr-1 text-green-600">
           <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
         </svg>
-        14 days free
+        No BS Agency Pricing
       </div>
       <div class="flex items-center">
         <svg viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 mr-1 text-green-600">
           <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
         </svg>
-        Cancel anytime
+        Free Audits
       </div>
     </div>
   </div>
@@ -79,7 +79,7 @@
 
 <div class="bg-white py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
-    <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-12 md:mb-8">Trusted by the best</h2>
+    <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-12 md:mb-12">Trusted by the best</h2>
 
     <div class="sm:h-40 grid grid-cols-2 mt-6 md:grid-cols-4 sm:content-evenly bg-indigo-100 rounded-lg gap-6 p-6">
       <!-- logo - start -->
@@ -109,33 +109,7 @@
   </div>
 </div>
 <Stats />
-<!-- SERVICES --> 
-<div class="w-2/3 h-full bg-white pt-24 pb-6 sm:pb-8 lg:pb-12">
-   
 
-    <section class="h-full w-full flex justify-center items-center shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
-      <!-- image - start -->
-      <img src="~/assets/Facebook1.jpg" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center items-center justify-center opacity-60 absolute inset-0" />
-      <!-- image - end -->
-
-      <!-- overlay - start -->
-      <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
-      <!-- overlay - end -->
-
-      <!-- text start -->
-      <div class="sm:max-w-xl flex flex-col items-center relative p-4">
-     
-        <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Facebook/Instagram Advertising</h1>
-
-        <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
-          <NuxtLink to="/services/facebook" class="inline border-2 bg-glass hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Learn More</NuxtLink>
-
-          
-        </div>
-      </div>
-      <!-- text end -->
-    </section>
-  </div>
 <!-- SERVICES --> 
 <div class="w-2/3 h-full bg-white pt-4 pb-6 sm:pb-8 lg:pb-12">
    
@@ -155,7 +129,33 @@
         <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Google Ads</h1>
 
         <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
-          <a href="#" class="inline border-2 bg-glass hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Learn More</a>
+          <NuxtLink to="services/facebook" class="inline border-2 bg-glass hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Learn More</NuxtLink>
+
+          
+        </div>
+      </div>
+      <!-- text end -->
+    </section>
+  </div>
+<div class="w-2/3 h-full bg-white pt-4 pb-6 sm:pb-8 lg:pb-12">
+   
+
+    <section class="min-h-96 w-full flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
+      <!-- image - start -->
+      <img src="~/assets/Facebook1.jpg" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center opacity-60 absolute inset-0" />
+      <!-- image - end -->
+
+      <!-- overlay - start -->
+      <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
+      <!-- overlay - end -->
+
+      <!-- text start -->
+      <div class="sm:max-w-xl flex flex-col items-center relative p-4">
+     
+        <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Facebook Ads</h1>
+
+        <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
+          <NuxtLink to="services/facebook" class="inline border-2 bg-glass hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Learn More</NuxtLink>
 
           
         </div>

@@ -68,43 +68,37 @@
       <nav
         class="relative flex flex-wrap justify-center gap-8 p-8 text-sm font-bold border-4 border-black rounded-xl"
       >
-        <a
+        <NuxtLink
           class="hover:opacity-75"
-          href="https://hyperui.dev"
-          target="_blank"
+          to="/"
           rel="noopener noreferrer"
         >
           Home 
-        </a>
+        </NuxtLink>
 
         <NuxtLink
           class="hover:opacity-75"
-          to="/crowdfunding"
-          target="_blank"
-          rel="noopener noreferrer"
+          to="/kickstarter"
+          
         >
-          Crowdfunding
+          Services
         </NuxtLink>
 
-        <a
+        <NuxtLink
           class="hover:opacity-75"
-          href="/blog"
-          target="_blank"
-          rel="noopener noreferrer"
+          to="kickstarter"
         >
-          Blog
-        </a>
+          Kickstarter
+        </NuxtLink>
 
-        <a
+        <NuxtLink
           class="hover:opacity-75"
-          href="/portfolio"
-          target="_blank"
-          rel="noopener noreferrer"
+          to="contact"
         >
-          Portfolio
-        </a>
+          Contact
+        </NuxtLink>
       </nav>
-
+<!--
       <p class="max-w-lg mx-auto text-xs text-gray-500">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, natus
         tempore illo laborum nam, modi quam sequi amet quo quasi impedit iure
@@ -120,8 +114,8 @@
           External Link
         </a>
       </p>
-
-      <p class="text-xs font-medium">2022 John Doe</p>
+--> 
+      <p class="text-xs font-medium">2022 Fresh Salt Agency LLC</p>
     </div>
   </div>
 </footer>
