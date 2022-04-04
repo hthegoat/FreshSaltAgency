@@ -5,7 +5,7 @@
       "Above all, I was impressed with their ability to 
       <span class="text-accent bg-clip-text bg-gradient-to-r from-green-400 to-purple-500"> understand what I needed</span> and execute that task without the extra fluff. The Fresh Salt Team is a true asset for anyone looking for self-motivated marketing experts and it's without hesitation I recommend them.”
     </h1>
-    <div class="mx-auto mb-3 shadow-lg avatar"><img src="/placeholder.jpg" alt="Photo of Praveen Juge" /></div>
+    
     <p class="text-base font-bold text-purple-900">Gerardo Campbell</p>
     <p class="text-sm font-medium text-purple-900">CEO, S4S</p>
   </div>

@@ -24,9 +24,9 @@
       <div class="hidden md:block">
         <ul class="flex space-x-16 text-sm font-bold font-sans">
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
+          <li><NuxtLink to="/team" class="">Team</NuxtLink></li>
           <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="">Kickstarter</NuxtLink></li>
-       
           <li><NuxtLink to="contact" class="">Contact</NuxtLink></li>
           <li> 
       </li>
@@ -68,6 +68,8 @@
 
         <ul class="divide-y font-sans">
           <li><NuxtLink to="/" class="my-4 inline-block">Home</NuxtLink></li>
+                    <li><NuxtLink to="/team" class="">Team</NuxtLink></li>
+
           <li><NuxtLink to="/services" class="my-4 inline-block">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="my-4 inline-block">Kickstarter</NuxtLink></li>
          
