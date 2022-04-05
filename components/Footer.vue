@@ -70,7 +70,7 @@
 
         <NuxtLink
           class="hover:opacity-75"
-          to="/kickstarter"
+          to="/services"
           
         >
           Services
@@ -82,7 +82,12 @@
         >
           Kickstarter
         </NuxtLink>
-
+         <NuxtLink
+          class="hover:opacity-75"
+          to="team"
+        >
+        Team
+         </NuxtLink>
         <NuxtLink
           class="hover:opacity-75"
           to="contact"

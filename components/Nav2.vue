@@ -24,9 +24,9 @@
       <div class="hidden md:block">
         <ul class="flex space-x-16 text-sm font-bold font-sans">
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
+          <li><NuxtLink to="/team" class="">Team</NuxtLink></li>
           <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="">Kickstarter</NuxtLink></li>
-          <li><a href="https://FreshSaltAgency.com" target="_blank" class="">Articles</a></li>
           <li><a href="#contact" class="">Contact</a></li>
           <li> 
       </li>
@@ -70,7 +70,8 @@
           <li><NuxtLink to="/" class="my-4 inline-block">Home</NuxtLink></li>
           <li><NuxtLink to="/services" class="my-4 inline-block">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="my-4 inline-block">Kickstarter</NuxtLink></li>
-         
+          <li><NuxtLink to="/team" class="my-4 inline-block">Team</NuxtLink></li>
+          <li><NuxtLink to="/contact" class="my-4 inline-block">Contact</NuxtLink></li>
          
           <li><NuxtLink to="contact" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-accent hover:bg-blue-600 px-3 py-2 rounded text-white">Contact</NuxtLink></li>
         </ul>
