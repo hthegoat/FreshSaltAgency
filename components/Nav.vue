@@ -4,7 +4,7 @@
 
       <!-- Header logo -->
       <div class="w-16 h-auto">
-      <NuxtLink to="/"><img src="~/assets/logo.avif" alt=""></NuxtLink>
+      <NuxtLink to="/"><img src="~/assets/logo.png" alt=""></NuxtLink>
       </div>
 
       <!-- Mobile toggle -->

@@ -12,7 +12,7 @@
   >Learn More</button></NuxtLink>
     </div>
     <div class="w-full h-full py-12 bg-gray-200">
-        <img src="~/assets/hero1.avif" alt="Fresh Salt Marketing Agency">
+        <img src="~/assets/hero1.png" alt="">
     </div>
   </div>
   <div class="grid flex-col-reverse items-center grid-cols-1 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
@@ -27,7 +27,7 @@
   >Learn More</button></NuxtLink>
     </div>
     <div class="w-full h-full py-12 bg-gray-200">
-        <img src="~/assets/hero2.avif" alt="Kickstarter Marketing Agency">
+        <img src="~/assets/hero2.png" alt="">
     </div>
   </div>
 </section>
