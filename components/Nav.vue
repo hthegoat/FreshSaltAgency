@@ -68,7 +68,7 @@
 
         <ul class="divide-y font-sans">
           <li><NuxtLink to="/" class="my-4 inline-block">Home</NuxtLink></li>
-                    <li><NuxtLink to="/team" class="">Team</NuxtLink></li>
+                    <li><NuxtLink to="/team" class="my-4 inline-block">Team</NuxtLink></li>
 
           <li><NuxtLink to="/services" class="my-4 inline-block">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="my-4 inline-block">Kickstarter</NuxtLink></li>

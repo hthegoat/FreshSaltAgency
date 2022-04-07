@@ -8,19 +8,19 @@
     </div>
 
     <ul class="grid grid-cols-1 gap-8 mt-8 sm:grid-cols-2 lg:grid-cols-3">
-      <li class="p-8 shadow-xl rounded-xl">
-        <p class="text-3xl font-extrabold">5</p>
-        <p class="mt-1 text-xl font-medium">Websites live</p>
+      <li class="p-8 bg-accent border-4 shadow-xl rounded-xl">
+        <p class="text-5xl text-primary font-extrabold">$50k+ </p>
+        <p class="mt-1 text-xl font-medium">Spent In Advertising 2022</p>
       </li>
 
-      <li class="p-8 shadow-xl rounded-xl">
-        <p class="text-3xl font-extrabold">190k+</p>
-        <p class="mt-1 text-xl font-medium">Impressions</p>
+      <li class="p-8 bg-accent border-4 shadow-xl rounded-xl">
+        <p class="text-5xl text-primary font-extrabold">100% </p>
+        <p class="mt-1 text-xl font-medium">Successful KS Projects</p>
       </li>
 
-      <li class="p-8 shadow-xl rounded-xl">
-        <p class="text-3xl font-extrabold">$350k+</p>
-        <p class="mt-1 text-xl font-medium">Client Revenue Generated</p>
+      <li class="p-8 bg-accent border-4 shadow-xl rounded-xl">
+        <p class="text-5xl text-primary font-extrabold">3.7x </p>
+        <p class="mt-1 text-xl font-medium">Average ROI</p>
       </li>
 
     

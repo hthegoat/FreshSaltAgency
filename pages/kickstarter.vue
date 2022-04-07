@@ -125,7 +125,9 @@
 -->        
 <!--PROJECTS--> 
 <ProjectList />
-
+<!--
+<Faq />
+-->
 <!--PROJECTS--> 
 
 
