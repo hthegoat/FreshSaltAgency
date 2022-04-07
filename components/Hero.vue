@@ -5,7 +5,7 @@
       Fresh Salt <span class="block w-full text-transparent bg-clip-text text-accent lg:inline">Agency</span> 
     </h1>
     <p class="px-0 py-4 mb-6 text-lg text-gray-600 md:text-xl lg:px-24">
-Fresh Salt Agency is a multidisciplinary group of marketers and strategists working to create integrated, measurable, and engaging digital marketing campaigns. We've worked with clients in the: SMB, Tradtional Retail, Ecom, Web3/Crypto , SaSS, Crowdfunding, and Music & Entertainment verticals. </p>
+Fresh Salt Agency is a multidisciplinary group of marketers and strategists working to create integrated, measurable, and engaging digital marketing campaigns. We've worked with clients in the: SMB, Traditional Retail, Ecommerce, Web3/Crypto , SaSS, Crowdfunding, and Music & Entertainment verticals. </p>
     <div class="mb-4 space-x-0 md:space-x-2 md:mb-8">
      <div class="inline-flex items-center -space-x-px text-xs rounded-md">
   <button
