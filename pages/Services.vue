@@ -61,7 +61,6 @@
     
     </p>
 
-<marquee />
 
     <blockquote class="text-gray-500 sm:text-lg italic border-l-4 pl-4 md:pl-6 mb-6 md:mb-8">“It’s hard to find things that won’t sell online.” – Jeff Bezos</blockquote>
 
