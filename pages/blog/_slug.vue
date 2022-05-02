@@ -26,7 +26,6 @@
   </div>
 </template>
 <script>
-import Prism from "~/plugins/prism";
 export default {
   data() {
     return {
@@ -45,9 +44,7 @@ export default {
       return new Date(date).toLocaleDateString("en", options);
     },
   },
-  mounted() {
-    Prism.highlightAll();
-  },
+
   head() {
     //console.log(this.article.title);
     return {
