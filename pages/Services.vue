@@ -61,22 +61,7 @@
     
     </p>
 
-    <ul class="list-disc list-inside text-gray-500 sm:text-lg mb-6 md:mb-8">
-      <li class="space-y-1">Bury The Hatchet</li>
-      <li>Amazing Escape Room</li>
-      <li>SelfGrowth.com</li>
-      <li>Bubble Truck</li>
-      <li>Stress Factory Comedy Club</li>
-      <li>LXY Boutique</li>
-      <li>Digitalax.xyz</li>
-      <li>Marietta Trophy</li>
-      <li>The Ultimate Caterer</li>
-      <li>Freeway Ricky Ross</li>
-      <li>Friday's Marine</li>
-      <li>Cyndrom.com</li>
-      <li>Arjay Soul</li>
- 
-    </ul>
+<marquee />
 
     <blockquote class="text-gray-500 sm:text-lg italic border-l-4 pl-4 md:pl-6 mb-6 md:mb-8">“It’s hard to find things that won’t sell online.” – Jeff Bezos</blockquote>
 

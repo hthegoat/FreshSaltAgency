@@ -27,7 +27,6 @@ Fresh Salt Agency is a multidisciplinary group of marketers and strategists work
 
     </div>
   </div>
- 
 </section>
 
 </template>

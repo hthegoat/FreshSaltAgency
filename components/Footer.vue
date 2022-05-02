@@ -112,7 +112,8 @@
         </a>
       </p>
 --> 
-      <p class="text-xs font-medium">2022 Fresh Salt Agency LLC</p>
+
+      <p class="text-xs font-medium">2022 Fresh Salt Agency LLC <br> <a href="https://HarrisonKugler.com/" target="_blank"><p class="text-xs font-medium">HarrisonKugler.com</p></a></p>
     </div>
   </div>
 </footer>

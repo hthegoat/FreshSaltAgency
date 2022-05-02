@@ -1,5 +1,6 @@
 <template>
 <section class="px-4 py-12 mx-auto max-w-7xl">
+
   <div class="grid items-center grid-cols-1 mb-24 md:grid-cols-2 gap-y-10 md:gap-y-32 gap-x-10 md:gap-x-24">
     <div>
       <h2 class="mb-4 text-2xl font-extrabold tracking-tight text-black md:leading-tight sm:text-left md:text-4xl">Paid Customer Acquisiton</h2>
