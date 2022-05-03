@@ -34,7 +34,11 @@ export default {
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
 
+<<<<<<< HEAD
     '~/plugins/alpinejs.js',
+=======
+    '~/plugins/alpinejs.js', 
+>>>>>>> parent of 9dc48bc (commit)
 
   ],
 
@@ -49,7 +53,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
-    '@nuxt/content', '@nuxtjs/google-fonts', '@nuxtjs/sitemap', ['@nuxtjs/gtm', { 
+    '@nuxtjs/google-fonts', '@nuxtjs/sitemap', ['@nuxtjs/gtm', { 
       id: 'GTM-WJQ5XKJ' }],
 
     
@@ -63,9 +67,7 @@ export default {
         }],
        
       ],
-content: {
 
-},
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
