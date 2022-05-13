@@ -1,6 +1,6 @@
 <template>
 <div>
- <Hero />
+ <Hero/>
 <Hero2 />
 <Testimonial />
 
