@@ -1,0 +1,81 @@
+:root {
+          --primary: #edeef1,
+          --secondary: #252329,
+          --accent: #0067e4,
+          --green: #00FF00,
+          --mint: #05CE78,
+          --aerogreen: #05CE78
+}
+
+
+
+
+
+
+.nuxt-content a {
+  @apply text-gray-800 dark:text-gray-300;
+  text-decoration: underline;
+}
+.nuxt-content a:hover {
+  @apply text-gray-800;
+}
+
+.nuxt-content p {
+  @apply mb-2 mx-4
+}
+h2 {
+  @apply font-semibold text-2xl mb-4
+}
+
+
+.layout-enter-active,
+.layout-leave-active,
+.page-enter-active,
+.page-leave-active {
+  transition-duration: 0.3s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+.layout-enter,
+.layout-leave-active,
+.page-enter,
+.page-leave-active {
+  opacity: 0;
+}
+
+/* highlight page in corner of code */
+.nuxt-content-highlight {
+  @apply relative;
+}
+.nuxt-content-highlight .filename {
+  @apply absolute right-0 top-0 text-gray-400 font-light z-10 mr-2 mt-1 text-sm;
+}
+
+.nuxt-content .token.comment {
+  color: #acb5b9;
+}
+.dark .prose,
+.dark .prose h1,
+.dark .prose h2,
+.dark .prose h3 {
+  color: white;
+}
+code {
+  color: inherit;
+}
+
+/* purgecss end ignore */
+pre,
+code {
+  overflow: auto;
+  width: auto;
+  max-width: 95vw;
+  color: inherit;
+}
+.prose {
+  max-width: 85ch;
+}
+
+.prose code {
+  color: inherit;
+}

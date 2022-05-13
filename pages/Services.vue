@@ -1,187 +1,227 @@
 <template>
-  
-<section class="h-1/2 bg-primary  flex flex-col justify-center items-center px-4 py-24 mx-auto max-w-7xl">
-<section class="px-4 py-32 mx-auto max-w-7xl">
-  <div class="w-full mx-auto text-left md:w-11/12 xl:w-8/12 md:text-center">
-    <h1 class="mb-3 text-5xl font-bold text-gray-900 md:text-5xl md:leading-tight md:font-extrabold"> Our Services</h1>
-    <p class="mb-6 text-lg text-gray-500 md:text-xl md:leading-normal">
-      We provide marketing services to both large and small businesses to make their presence known in the digital world. 
-    </p>
-    
-     <NuxtLink to="contact">  <button
-    class="px-5 py-3 font-bold border-2 rounded-md hover:z-10 focus:outline-none focus:border-indigo-600 focus:z-10 hover:bg-gray-50 active:opacity-75"
-    type="button"
-  >Request A Proposal</button> </NuxtLink>
 
-    <div class="flex flex-col justify-start mb-3 mt-3 space-x-0 space-y-2 text-xs text-gray-600 md:flex-row md:justify-center md:space-x-8 md:space-y-0">
-      <div class="flex items-center">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 mr-1 text-green-600">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        No Contract 
+<section class="h-1/2 bg-primary  flex flex-col justify-center items-center px-4 py-2 mx-auto max-w-7xl">
+<div class="bg-white py-6 sm:py-8 lg:py-12">
+  <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
+    <!-- text - start -->
+    <div class="mb-10 md:mb-16">
+      <h2 class="text-gray-800 text-5xl lg:text-6xl font-mr font-bold text-center mb-4 md:mb-6">3 Distinct Services</h2>
+
+      <p class="max-w-screen-sm text-gray-700 font-rfl md:text-lg text-center mx-auto">"Advertising is like salt, it magnifies the taste of the dish, it empowers it.
+But if the food is not good, adding salt won't make it good."</p>
+    </div>
+    <!-- text - end -->
+
+    <div class="grid sm:grid-cols-1 xl:grid-cols-3 gap-12 xl:gap-16">
+      <!-- feature - start -->
+      <div class="flex flex-col items-center">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+          </svg>
+        </div>
+
+        <h3 class="text-xl md:text-xl font-bold text-center mb-2">Paid Customer Acquisition</h3>
+        <p class="text-gray-500 text-center mb-2">We Run ROI Positive Advertising Campaigns</p>
+
       </div>
-      <div class="flex items-center">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 mr-1 text-green-600">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        No BS Agency Pricing
+      <!-- feature - end -->
+
+      <!-- feature - start -->
+      <div class="flex flex-col items-center">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+          </svg>
+        </div>
+
+        <h3 class="text-xl md:text-xl font-bold text-center mb-2">Web Design</h3>
+        <p class="text-gray-500 text-center mb-2">We Design Simple Frontend Websites For Clients</p>
       </div>
-      <div class="flex items-center">
-        <svg viewBox="0 0 20 20" fill="currentColor" class="w-4 h-4 mr-1 text-green-600">
-          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
-        </svg>
-        Free Audits
+      <!-- feature - end -->
+
+      <!-- feature - start -->
+      <div class="flex flex-col items-center">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
+          </svg>
+        </div>
+
+        <h3 class="text-xl md:text-xl font-bold text-center mb-2">Marketing Strategy</h3>
+        <p class="text-gray-500 text-center mb-2">Need Some Strategy Validation? We Can Help. </p>
+      </div>
+      <!-- feature - end -->
+
+
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+<!-- Filler Text Section -->
+<section>
+  <div class="max-w-screen-xl px-4 bg-slate-100 rounded-md py-16 mx-auto sm:px-6 lg:px-8">
+    <div class="grid grid-cols-1  gap-8 lg:gap-16 lg:grid-cols-2">
+      <div
+        class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:h-full lg:order-last"
+      >
+        <img
+          class="absolute inset-0 object-contain w-full h-full"
+          src="~/assets/rockets.png"
+          alt="Man using a computer"
+        />
+      </div>
+
+      <div class="text-center lg:py-24">
+        <h1 class="text-4xl font-extrabold sm:text-6xl mb-2">1</h1>
+        <h2 class="text-3xl font-bold sm:text-4xl">Paid Customer Acquisition</h2>
+
+        <p class="mt-4 text-gray-600">
+         Paid customer acquisition helps you win customers through paid marketing channels and grow your business faster. We help companies to optimize their advertising campaigns and maximize ROI by analyzing all available data and finding the best way of targeting potential customers.
+        </p>
+
+
+      </div>
+    </div>
+  </div>
+</section>
+<!--End Filler Text Section-->
+<section class="my-4">
+  <div class="max-w-screen-xl bg-slate-100 px-4 py-16 mx-auto sm:px-6 lg:px-8">
+    <div class="grid grid-cols-1 gap-8 lg:gap-16 lg:grid-cols-2">
+      <div
+        class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:h-full lg:order-last"
+      >
+        <img
+          class="absolute inset-0 object-contain w-full h-full"
+          src="~/assets/step2.png"
+          alt="Man using a computer"
+        />
+      </div>
+      <div class="text-center lg:py-24">
+                <h1 class="text-4xl font-extrabold sm:text-6xl mb-2">2</h1>
+
+        <h2 class="text-3xl font-bold sm:text-4xl">Website Design</h2>
+
+        <p class="mt-4 text-gray-600">
+         We create web experiences that drive engagement, generate leads, and boost revenue. With over 12 years of website design experience at your fingertips, you get powerful web design + strategy + SEO services. We help you stand out online and reach your highest potential online.
+        </p>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+</section>
+<!--End Filler Text Section-->
+<section class="my-4">
+  <div class="max-w-screen-xl bg-slate-100 px-4 py-16 mx-auto sm:px-6 lg:px-8">
+    <div class="grid grid-cols-1 gap-8 lg:gap-16 lg:grid-cols-2">
+      <div
+        class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:h-full lg:order-last"
+      >
+        <img
+          class="absolute inset-0 object-contain w-full h-full"
+          src="~/assets/dollar.png"
+          alt="Man using a computer"
+        />
+      </div>
+      <div class="text-center lg:py-24">
+                <h1 class="text-4xl font-extrabold sm:text-6xl mb-2">3</h1>
+
+        <h2 class="text-3xl text-center font-bold sm:text-4xl">Marketing Strategy</h2>
+
+        <p class="mt-4 text-gray-600">
+         Great marketing strategies can make a huge difference for your business. They drive online sales, create brand awareness, and increase customer loyalty. They can help you turn strangers into customers.
+        </p>
+
+
+      </div>
+
+
+
+    </div>
+  </div>
+</section>
+<section class="w-full my-4">
+<Stats />
+</section>
+
+<!-- SERVICES -->
+<section class="max-w-7xl px-4 pt-24 pb-12 mx-auto">
+  <div class="w-full mx-auto text-center md:w-11/12 xl:w-9/12 md:text-center">
+    <h1 class="block pb-2 mb-5 text-5xl font-extrabold leading-none tracking-normal text-transparent md:text-6xl md:tracking-tight bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">
+      Simple, Transparent Pricing.
+    </h1>
+    <p class="px-0 mb-10 text-lg text-gray-500 md:text-xl lg:px-24">Pricing that works for companies of any size.</p>
+  </div>
+  <div class="w-full mx-auto xl:w-full">
+    <div class="grid grid-cols-1 gap-16 lg:grid-cols-3 sm:gap-8">
+      <div class="border-0 bg-slate-100 text-center rounded-none shadow-none card sm:rounded-lg md:border">
+        <div class="flex flex-col justify-between p-6 border-gray-200">
+          <p class="mb-1 text-xl font-semibold text-yellow-600">Paid Customer Acquisition </p>
+          <p class="pb-0 my-2 font-mono text-4xl font-extrabold text-gray-900">$750</p>
+          <p class="text-sm text-gray-500">For Organizations Brand New To Advertising / 4-6 Week Starter</p>
+           <!-- Base -->
+
+   <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+        Sign Up
+      </NuxtLink>
+
+<!-- Border -->
+
+
+        </div>
+
+      </div>
+      <div class="border-0 bg-slate-200 rounded-none shadow-none card sm:rounded-lg md:border">
+        <div class="flex flex-col justify-between text-center  p-6 border-b border-gray-200">
+          <div>
+            <div class="flex items-center justify-between">
+              <p class="mb-1 text-xl font-semibold text-purple-700">Marketing Strategy</p>
+<strong class="border-2 text-white bg-blue-400 border-black uppercase px-5 py-1.5 rounded-full text-[10px] tracking-wide">
+  Most Popular
+</strong>
+
+
+            </div>
+            <p class="my-2 font-mono text-4xl font-extrabold text-gray-900">$999</p>
+            <p class="text-sm text-gray-500">Designed for smaller organizations looking to offload all of "that digital stuff". </p>
+          </div>
+         <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+        Sign Up
+      </NuxtLink>
+        </div>
+
+      </div>
+      <div class="border-0 bg-slate-100 rounded-none shadow-none card sm:rounded-lg md:border">
+        <div class="flex flex-col text-center justify-between p-6  border-gray-200">
+          <div>
+            <p class="mb-1 text-xl font-semibold text-pink-600">Website Design/CRO </p>
+            <p class="my-2 text-4xl font-bold text-gray-900">$1550</p>
+            <p class="text-sm text-gray-500">Competitive Pricing & Offers Available. We love a good challenging web project.</p>
+          </div>
+        <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+        Sign Up
+      </NuxtLink>
+        </div>
+
       </div>
     </div>
   </div>
 </section>
 
-
-
-
-
-
-<!-- Filler Text Section --> 
-<div class="bg-white py-6 sm:py-8 lg:py-12">
-  <div class="max-w-screen-md px-4 md:px-8 mx-auto">
-    <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center mb-4 md:mb-6">Our competitive advantage</h1>
-
-    <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
-     We might be new kids on the block, but we‘re ready to lead your business to the next level. Marketing is our passion and we‘re experts at creating brand awareness, engaging with customers, and driving sales. Let us take on some of that weight and watch your company soar.<br /><br />
-
-    We‘ve learned that there is no one-size-fits-all formula for marketing success. We don‘t believe in shortcuts, we believe in getting the job done right. Let us help you differentiate from your competition and get the results you're looking for with a strategic approach that works for you.
-    </p>
- <div class="bg-gray-100 overflow-hidden rounded-lg shadow-lg relative mb-6 md:mb-8">
-      <img src="https://images.unsplash.com/photo-1600469984476-c713650f1b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" loading="lazy" alt="Photo by Minh Pham" class="w-full h-full object-cover object-center" />
-    </div>
-
-    <h2 class="text-gray-800 text-xl sm:text-2xl font-semibold mb-2 md:mb-4">New But Not Really</h2>
-
-    <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">Here are a few of the clients we've worked with in the past.<br /> 
-    
-    </p>
-
-<<<<<<< HEAD
-=======
-    <ul class="list-disc list-inside text-gray-500 sm:text-lg mb-6 md:mb-8">
-      <li class="space-y-1">Bury The Hatchet</li>
-      <li>Amazing Escape Room</li>
-      <li>SelfGrowth.com</li>
-      <li>Bubble Truck</li>
-      <li>Stress Factory Comedy Club</li>
-      <li>LXY Boutique</li>
-      <li>Digitalax.xyz</li>
-      <li>Marietta Trophy</li>
-      <li>The Ultimate Caterer</li>
-      <li>Freeway Ricky Ross</li>
-      <li>Friday's Marine</li>
-      <li>Cyndrom.com</li>
-      <li>Arjay Soul</li>
- 
-    </ul>
->>>>>>> parent of 9dc48bc (commit)
-
-    <blockquote class="text-gray-500 sm:text-lg italic border-l-4 pl-4 md:pl-6 mb-6 md:mb-8">“It’s hard to find things that won’t sell online.” – Jeff Bezos</blockquote>
-
-    
-
-  </div>
-</div>
-
-<!--End Filler Text Section--> 
-
-
-
-<Stats />
-
-<!-- SERVICES --> 
-<div class="w-2/3 h-full bg-white pt-4 pb-6 sm:pb-8 lg:pb-12">
-   
-
-    <section class="min-h-96 w-full flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
-      <!-- image - start -->
-      <img src="~/assets/google4.jpg" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center opacity-60 absolute inset-0" />
-      <!-- image - end -->
-
-      <!-- overlay - start -->
-      <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
-      <!-- overlay - end -->
-
-      <!-- text start -->
-      <div class="sm:max-w-xl flex flex-col items-center relative p-4">
-     
-        <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Google Ads</h1>
-
-        <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
-          <NuxtLink to="services/google" class="inline border-2 bg-glass hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Learn More</NuxtLink>
-
-          
-        </div>
-      </div>
-      <!-- text end -->
-    </section>
-  </div>
-<div class="w-2/3 h-full bg-white pt-4 pb-6 sm:pb-8 lg:pb-12">
-   
-
-    <section class="min-h-96 w-full flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
-      <!-- image - start -->
-      <img src="~/assets/Facebook1.jpg" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center opacity-60 absolute inset-0" />
-      <!-- image - end -->
-
-      <!-- overlay - start -->
-      <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
-      <!-- overlay - end -->
-
-      <!-- text start -->
-      <div class="sm:max-w-xl flex flex-col items-center relative p-4">
-     
-        <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Facebook Ads</h1>
-
-        <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
-          <NuxtLink to="services/facebook" class="bg-glass inline border-2 bg-glass hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Learn More</NuxtLink>
-
-          
-        </div>
-      </div>
-      <!-- text end -->
-    </section>
-  
-  
-  
-  </div>
-<div class="w-2/3 h-full bg-white pt-4 pb-6 sm:pb-8 lg:pb-12">
-   
-
-    <section class="min-h-96 w-full flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
-      <!-- image - start -->
-      <img src="~/assets/kick2.jpg" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center opacity-60 absolute inset-0" />
-      <!-- image - end -->
-
-      <!-- overlay - start -->
-      <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
-      <!-- overlay - end -->
-
-      <!-- text start -->
-      <div class="sm:max-w-xl flex flex-col items-center relative p-4">
-     
-        <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Kickstarter</h1>
-
-        <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
-          <NuxtLink to="services/kickstarter" class="inline border-2 bg-glass hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Learn More</NuxtLink>
-
-          
-        </div>
-      </div>
-      <!-- text end -->
-    </section>
-  
-  
-  
-  </div>
 
   <Contact />
 </section>
-   
-</template>  
+
+</template>
 

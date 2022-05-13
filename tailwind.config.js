@@ -1,23 +1,25 @@
-const plugin = require('tailwindcss/plugin')
+
 
 
 module.exports = {
-    mode: 'jit',
-    purge: [
-        './components/**/*.{vue,js}',
-        './layouts/**/*.vue',
-        './plugins/**/*.{js,ts}',
-        './nuxt.config.{js,ts}',
-        './public/**/*.html',
-        './src/**/*.{js,jsx,ts,tsx,vue}',
-    ],
+  content: ['./**.{vue,js}'],
+   
     darkMode: 'class', // or 'media' or 'class'
     theme: {
+      typography: {
+        DEFAULT: {
+          css: {
+            'code::before': { content: '' },
+            'code::after': { content: '' }
+          }
+        },
         colors: {
           primary: '#edeef1',
           secondary: '#252329',
           accent: '#0067e4', 
-          green: '#00FF00'
+          green: '#00FF00',
+          mint: '#05CE78',
+          aerogreen: '#05CE78' 
         },
 
 
@@ -36,8 +38,15 @@ module.exports = {
     
           '2xl': '1536px',
           // => @media (min-width: 1536px) { ... }
-        }
-      
+        },
+        
+
+     extend: {
+       fontFamily: {
+         mr: ['Work Sans', 'sans-serif'],
+         
+       }
+     }
     },
       
     variants: {
@@ -45,8 +54,8 @@ module.exports = {
     },
     plugins: [
       
-       
+      require('@tailwindcss/typography')
     ],
     
 
-  }
+    }}
