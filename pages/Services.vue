@@ -7,49 +7,48 @@
     <div class="mb-10 md:mb-16">
       <h2 class="text-gray-800 text-5xl lg:text-6xl font-mr font-bold text-center mb-4 md:mb-6">3 Distinct Services</h2>
 
-      <p class="max-w-screen-sm text-gray-700 font-rfl md:text-lg text-center mx-auto">"Advertising is like salt, it magnifies the taste of the dish, it empowers it.
-But if the food is not good, adding salt won't make it good."</p>
+      <blockquote class="max-w-screen-sm text-gray-700 font-rfl md:text-lg text-center mx-auto">"Advertising is like salt, it magnifies the taste of the dish, it empowers it.
+But if the food is not good, adding salt won't make it good."</blockquote>
     </div>
     <!-- text - end -->
 
     <div class="grid sm:grid-cols-1 xl:grid-cols-3 gap-12 xl:gap-16">
       <!-- feature - start -->
-      <div class="flex flex-col items-center">
+       <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
         <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
-          </svg>
+         <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z" />
+</svg>
         </div>
 
-        <h3 class="text-xl md:text-xl font-bold text-center mb-2">Paid Customer Acquisition</h3>
-        <p class="text-gray-500 text-center mb-2">We Run ROI Positive Advertising Campaigns</p>
+        <h3 class="text-xl md:text-xl font-bold text-center mb-2">Paid Customer Acqusition</h3>
 
       </div>
       <!-- feature - end -->
 
       <!-- feature - start -->
-      <div class="flex flex-col items-center">
+       <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
         <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
-          </svg>
+       <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+</svg>
         </div>
 
-        <h3 class="text-xl md:text-xl font-bold text-center mb-2">Web Design</h3>
-        <p class="text-gray-500 text-center mb-2">We Design Simple Frontend Websites For Clients</p>
+        <h3 class="text-xl md:text-xl font-bold text-center mb-2">Website Design</h3>
+
       </div>
       <!-- feature - end -->
 
       <!-- feature - start -->
-      <div class="flex flex-col items-center">
+      <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
         <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
-          <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
-          </svg>
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122" />
+</svg>
         </div>
 
         <h3 class="text-xl md:text-xl font-bold text-center mb-2">Marketing Strategy</h3>
-        <p class="text-gray-500 text-center mb-2">Need Some Strategy Validation? We Can Help. </p>
+
       </div>
       <!-- feature - end -->
 

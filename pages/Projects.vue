@@ -3,7 +3,7 @@
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Case Studies</h2>
+      <h2 class="text-gray-800 text-5xl lg:text-6xl font-bold text-center mb-4 md:mb-6">Case Studies</h2>
 
     </div>
     <!-- text - end -->
@@ -78,7 +78,7 @@
   <div class="bg-primary py-6 sm:py-8 lg:py-24">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
      <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Websites</h2>
+      <h2 class="text-gray-800 text-5xl lg:text-6xl font-bold text-center mb-4 md:mb-6">Websites</h2>
 
     </div>
 
@@ -130,7 +130,7 @@
       Fresh Salt Crowdfunding
     </p>
 
-    <p class="mt-2 text-3xl font-bold sm:text-5xl">
+    <p class="mt-2 text-4xl font-bold sm:text-5xl">
       We've Helped Raise Over $400k In 2022 For Crowdfunding Projects
     </p>
 
@@ -140,10 +140,10 @@
       </NuxtLink>
 
       <NuxtLink
-        to=""
+        to="Services"
         class="block px-5 py-3 mt-4 font-medium text-blue-500 rounded-lg hover:text-blue-600 sm:mt-0"
       >
-        Apply To Work With Us
+        Our Services
       </NuxtLink>
     </div>
   </div>

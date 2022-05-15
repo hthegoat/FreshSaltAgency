@@ -68,13 +68,14 @@
 
         <ul class="divide-y font-sans">
           <li><NuxtLink to="/" class="my-4 inline-block">Home</NuxtLink></li>
-                    <li><NuxtLink to="/team" class="my-4 inline-block">Team</NuxtLink></li>
+                    <li><NuxtLink to="/team" class="my-4 inline-block">About</NuxtLink></li>
+                    <li><NuxtLink to="Projects" class="my-4 inline-block">Projects</NuxtLink></li>
 
           <li><NuxtLink to="/services" class="my-4 inline-block">Services</NuxtLink></li>
           <li><NuxtLink to="/kickstarter" class="my-4 inline-block">Kickstarter</NuxtLink></li>
 
 
-          <li><NuxtLink to="contact" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-accent hover:bg-blue-600 px-3 py-2 rounded text-white">Contact</NuxtLink></li>
+          <li><NuxtLink to="contact" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-black hover:bg-blue-600 px-3 py-2 rounded text-white">Contact</NuxtLink></li>
         </ul>
 
         <div class="follow">

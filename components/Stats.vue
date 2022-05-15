@@ -9,17 +9,17 @@
 
     <ul class="grid grid-cols-1 text-center gap-8 mt-8 sm:grid-cols-1 lg:grid-cols-3">
       <li class="p-8 bg-slate-100 border-4 border-black shadow-xl rounded-xl">
-        <p class="text-5xl text-primary font-extrabold">$50k+ </p>
+        <p class="text-3xl md:text-5xl text-primary font-extrabold">$50k+ </p>
         <p class="mt-1 text-xl font-medium">Spent In Advertising 2022</p>
       </li>
 
       <li class="p-8 bg-slate-100 border-black border-4 shadow-xl rounded-xl">
-        <p class="text-5xl text-primary font-extrabold">100% </p>
+        <p class="text-3xl md:text-5xl text-primary font-extrabold">100% </p>
         <p class="mt-1 text-xl font-medium">Successful KS Projects</p>
       </li>
 
       <li class="p-8 bg-slate-100 border-black border-4 shadow-xl rounded-xl">
-        <p class="text-5xl text-primary font-extrabold">3.7x </p>
+        <p class="text-3xl md:text-5xl text-primary font-extrabold">3.7x </p>
         <p class="mt-1 text-xl font-medium">Average ROI</p>
       </li>
 

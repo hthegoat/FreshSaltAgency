@@ -1,9 +1,10 @@
 <template>
   <footer class="bg-gray-50">
-  <div class="max-w-screen-xl justify-center px-4 py-16 mx-auto space-y-12 sm:px-6 lg:px-8">
-    <div class="sm:items-center sm:justify-between sm:flex">
-      <img class="w-32" src="~/assets/logo.png" alt="">
-
+  <div class="  max-w-screen-xl justify-center px-4 py-16 mx-auto space-y-12 sm:px-6 lg:px-8">
+    <div class="flex flex-col sm:items-center object-center items-center sm:justify-between sm:flex">
+      <div class="mb-8">
+      <NuxtLink to="/"><img class="w-32" src="~/assets/logo.png" alt=""></NuxtLink>
+      </div>
       <div class="flex mt-8 space-x-6 text-gray-500 sm:mt-0">
         <a class="hover:opacity-75" href="" target="_blank" rel="noreferrer">
           <span class="sr-only"> Facebook </span>
@@ -47,7 +48,7 @@
       </div>
     </div>
 
-    <div class="grid grid-cols-1 gap-8 pt-12 border-t border-gray-100 sm:grid-cols-2 lg:grid-cols-4">
+    <div class="grid grid-cols-1 text-center gap-8 pt-12 border-t border-gray-100 sm:grid-cols-2 lg:grid-cols-4">
       <div>
         <p class="font-medium">
           Company
@@ -102,8 +103,8 @@
 
 
 
-    </div>
-    <p class="text-xs text-gray-500">
+
+    <p class="text-xs text-center text-gray-500">
       &copy; 2022 Fresh Salt Agency
     </p>
   </div>

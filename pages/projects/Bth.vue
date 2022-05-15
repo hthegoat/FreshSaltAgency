@@ -42,29 +42,29 @@
             <h1 class="text-gray-800 text-5xl sm:text-5xl font-bold text-center mb-4 md:mb-6">Three Areas Of Focus:</h1>
       </div>
     </div>
-    <div class="flex flex-col items-center py-6 mx-auto mb-2 prose border-b border-gray-200 sm:flex-row lg:w-1/2">
-      <div class="inline-flex items-center flex-grow mt-6 text-left sm:mt-0">
-        <span class="pr-12 text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> Paid Customer Acquisition </span>
-        <span class="ml-auto text-blue-600 hover:text-neutral-600">»</span>
+    <div class="flex flex-col items-center justify-center py-6 mx-auto mb-2 prose border-b border-gray-200 sm:flex-row lg:w-full">
+      <div class="items-center flex-grow mt-6 text-center sm:mt-0">
+        <span class=" text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> Paid Customer Acquisition </span>
+
       </div>
     </div>
-    <div class="flex flex-col items-center py-6 mx-auto mb-2 border-b border-gray-200 sm:flex-row lg:w-1/2">
-      <div class="inline-flex items-center flex-grow mt-6 text-left sm:mt-0">
-        <span class="pr-12 text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> Content Production </span>
-        <span class="ml-auto text-blue-600 hover:text-neutral-600">»</span>
+    <div class="flex flex-col items-center justify-center py-6 mx-auto mb-2 prose border-b border-gray-200 sm:flex-row lg:w-full">
+      <div class="items-center flex-grow mt-6 text-center sm:mt-0">
+       <h1 class="text-xl text-center font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600">Content Production </h1>
+
       </div>
     </div>
-    <div class="flex flex-col items-center py-6 mx-auto mb-2 border-b border-gray-200 sm:flex-row lg:w-1/2">
-      <div class="inline-flex items-center flex-grow mt-6 text-left sm:mt-0">
-        <span class="pr-12 text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> Social Listening </span>
-        <span class="ml-auto text-blue-600 hover:text-neutral-600">»</span>
+    <div class="flex flex-col items-center py-6 mx-auto mb-2 border-b prose border-gray-200 sm:flex-row lg:w-full ">
+      <div class=" items-center flex-grow mt-6 text-center sm:mt-0">
+        <span class=" text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> Social Listening </span>
+
       </div>
     </div>
   </div>
 </section>
 <!--Paid Customer Acquisition-->
-<div class="bg-slate-100 py-6 sm:py-8 lg:py-12">
-  <div class="max-w-screen-md px-4 md:px-8 mx-auto">
+<div class="bg-slate-100 mt-10 py-6 sm:py-8 lg:py-12">
+  <div class="max-w-screen-md text-center px-4 md:px-8 mx-auto">
     <h1 class="text-gray-800 text-3xl sm:text-5xl underline font-bold text-center mb-4 md:mb-6">Paid Customer Acqusition</h1>
 
     <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
@@ -75,7 +75,7 @@
 
     </p>
 
-    <h2 class="text-gray-800 text-xl sm:text-2xl font-semibold mb-2 md:mb-4">Approach</h2>
+    <h2 class="text-gray-800 text-center text-xl sm:text-2xl font-semibold mb-2 md:mb-4">Approach</h2>
 
     <p class="text-gray-500 sm:text-lg mb-6 md:mb-8"> Working without an ads manager infrastructure, we devised a workflow for the 12+ locations. </p>
 
@@ -413,6 +413,7 @@ Social listening is a fancy word for keeping an eye on what people are saying ab
     </div>
   </div>
 </div>
+<Wow />
                 <Contact />
 	</section>
 

@@ -2,6 +2,7 @@
 <div>
  <Hero/>
 <Hero2 />
+<ClientList />
 <Testimonial />
 
 </div>
