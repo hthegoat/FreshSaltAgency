@@ -55,11 +55,11 @@
         </p>
 
         <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
-          <NuxtLink class="hover:opacity-75" to="Home"> Home </NuxtLink>
-          <NuxtLink class="hover:opacity-75" to="Team"> About </NuxtLink>
-          <NuxtLink class="hover:opacity-75" to="Blog"> Blog </NuxtLink>
-          <NuxtLink class="hover:opacity-75" to="Services"> Services </NuxtLink>
-          <NuxtLink class="hover:opacity-75" to="Kickstarter"> Kickstarter </NuxtLink>
+          <NuxtLink to="/" class="hover:opacity-75"> Home </NuxtLink>
+          <NuxtLink to="about" class="hover:opacity-75" > About </NuxtLink>
+          <NuxtLink to="blog" class="hover:opacity-75"> Blog </NuxtLink>
+          <NuxtLink to="services" class="hover:opacity-75" > Services </NuxtLink>
+          <NuxtLink to="kickstarter" class="hover:opacity-75" > Kickstarter </NuxtLink>
         </nav>
       </div>
 
@@ -82,8 +82,8 @@
         </p>
 
         <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
-          <a class="hover:opacity-75" href=""> Contact </a>
-          <a class="hover:opacity-75" href=""> Live Chat </a>
+          <NuxtLink to="contact" class="hover:opacity-75" > Contact </NuxtLink>
+          <NuxtLink to="contact" class="hover:opacity-75" > Live Chat </NuxtLink>
         </nav>
       </div>
 

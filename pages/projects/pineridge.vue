@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-white pb-6 sm:pb-8 lg:pb-12">
+<div class="bg-white pb-6 sm:pb-8 lg:pb-12">
 
 
 
@@ -43,16 +43,16 @@
             <h1 class="text-gray-800 text-5xl sm:text-5xl font-bold text-center mb-4 md:mb-6">Areas Of Focus:</h1>
       </div>
     </div>
-    <div class="flex flex-col items-center py-6 mx-auto mb-2 prose border-b border-gray-200 sm:flex-row lg:w-1/2">
-      <div class="inline-flex items-center flex-grow mt-6 text-left sm:mt-0">
-        <span class="pr-12 text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> Paid Customer Acquisition </span>
-        <span class="ml-auto text-blue-600 hover:text-neutral-600">»</span>
+    <div class="flex flex-col items-center py-6 mx-auto mb-2 prose border-b border-gray-200 sm:flex-col lg:w-full">
+      <div class="items-center flex-grow mt-6 text-left sm:mt-0">
+        <span class=" text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> Paid Customer Acquisition </span>
+
       </div>
     </div>
-    <div class="flex flex-col items-center py-6 mx-auto mb-2 border-b border-gray-200 sm:flex-row lg:w-1/2">
-      <div class="inline-flex items-center flex-grow mt-6 text-left sm:mt-0">
-        <span class="pr-12 text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> SEO Strategy </span>
-        <span class="ml-auto text-blue-600 hover:text-neutral-600">»</span>
+    <div class="flex flex-col items-center py-6 mx-auto mb-2 border-b prose border-gray-200 sm:flex-row lg:w-full">
+      <div class=" items-center flex-grow mt-6 text-center sm:mt-0">
+        <span class="text-xl font-semibold tracking-widest text-blue-600 uppercase hover:text-neutral-600"> SEO Strategy </span>
+
       </div>
     </div>
 
@@ -86,7 +86,7 @@
 <a class="block" href="">
   <img
     class="object-cover w-full h-96"
-    src="https://www.hyperui.dev/photos/art-1.jpeg"
+    src="~/assets/prdr4.jpg"
     alt=""
   />
 
@@ -131,7 +131,7 @@
 <!--Paid Customer Acquisition-->
 <div class="bg-white py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-md px-4 md:px-8 mx-auto">
-    <h1 class="text-gray-800 underline text-3xl sm:text-3xl font-bold text-center mb-4 md:mb-6">Content Production</h1>
+    <h1 class="text-gray-800 underline text-3xl sm:text-3xl font-bold text-center mb-4 md:mb-6">SEO</h1>
 
     <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
       This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated. It may be used to display a sample of fonts or generate text for testing. Filler text is dummy text which has no meaning however looks very similar to real text. The important factor when using filler text is that the text looks realistic otherwise it will not look very good.<br /><br />

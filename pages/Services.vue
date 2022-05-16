@@ -5,7 +5,7 @@
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-5xl lg:text-6xl font-mr font-bold text-center mb-4 md:mb-6">3 Distinct Services</h2>
+      <h2 class="text-gray-800 text-3xl lg:text-6xl font-mr font-bold text-center mb-4 md:mb-6">You need a proactive, strategic, and customized marketing strategy to ensure your company is on a steady course toward success.</h2>
 
       <blockquote class="max-w-screen-sm text-gray-700 font-rfl md:text-lg text-center mx-auto">"Advertising is like salt, it magnifies the taste of the dish, it empowers it.
 But if the food is not good, adding salt won't make it good."</blockquote>
@@ -14,7 +14,7 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 
     <div class="grid sm:grid-cols-1 xl:grid-cols-3 gap-12 xl:gap-16">
       <!-- feature - start -->
-       <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
+       <div class="flex py-4 bg-slate-100  px-6 shadow-xl rounded-xl flex-col items-center">
         <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
          <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z" />
@@ -153,7 +153,10 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 <section class="w-full my-4">
 <Stats />
 </section>
-
+<!-- SERVICES -->
+<!-- SERVICES -->
+<!-- SERVICES -->
+<!-- SERVICES -->
 <!-- SERVICES -->
 <section class="max-w-7xl px-4 pt-24 pb-12 mx-auto">
   <div class="w-full mx-auto text-center md:w-11/12 xl:w-9/12 md:text-center">
