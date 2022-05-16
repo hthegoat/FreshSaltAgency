@@ -161,6 +161,17 @@ But if the food is not good, adding salt won't make it good."</blockquote>
       Simple, Transparent Pricing.
     </h1>
     <p class="px-0 mb-10 text-lg text-gray-500 md:text-xl lg:px-24">Pricing that works for companies of any size.</p>
+
+<strong class="inline-flex items-center bg-slate-200 border border-gray-200 rounded relative px-2.5 mb-6 py-1.5 text-xs font-medium">
+  <span class="animate-ping w-2.5 h-2.5 bg-green-600/75 rounded-full absolute -top-1 -left-1"></span>
+  <span class="w-2.5 h-2.5 bg-green-600 rounded-full absolute -top-1 -left-1"></span>
+
+  <span class="text-gray-700"> Limited Time: </span>
+
+  <span class="text-green-700 ml-1.5">
+    Sign Up Below & Save 10%
+  </span>
+</strong>
   </div>
   <div class="w-full mx-auto xl:w-full">
     <div class="grid grid-cols-1 gap-16 lg:grid-cols-3 sm:gap-8">
@@ -171,9 +182,9 @@ But if the food is not good, adding salt won't make it good."</blockquote>
           <p class="text-sm text-gray-500">For Organizations Brand New To Advertising / 4-6 Week Starter</p>
            <!-- Base -->
 
-   <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+   <a href="https://link.waveapps.com/s7xk9r-4s9c2q" target="_blank" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
         Sign Up
-      </NuxtLink>
+      </a>
 
 <!-- Border -->
 
@@ -195,9 +206,9 @@ But if the food is not good, adding salt won't make it good."</blockquote>
             <p class="my-2 font-mono text-4xl font-extrabold text-gray-900">$999</p>
             <p class="text-sm text-gray-500">Designed for smaller organizations looking to offload all of "that digital stuff". </p>
           </div>
-         <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+         <a href="https://link.waveapps.com/7jwz7j-9vpsjv" target="_blank" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
         Sign Up
-      </NuxtLink>
+      </a>
         </div>
 
       </div>
@@ -208,9 +219,9 @@ But if the food is not good, adding salt won't make it good."</blockquote>
             <p class="my-2 text-4xl font-bold text-gray-900">$1550</p>
             <p class="text-sm text-gray-500">Competitive Pricing & Offers Available. We love a good challenging web project.</p>
           </div>
-        <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+        <a href="https://link.waveapps.com/4xpk53-nd9g5s" target="_blank" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
         Sign Up
-      </NuxtLink>
+      </a>
         </div>
 
       </div>

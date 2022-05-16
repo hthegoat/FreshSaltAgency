@@ -71,12 +71,12 @@
           },
 
           // Test on: https://developers.facebook.com/tools/debug/ or https://socialsharepreview.com/
-          { property: 'og:site_name', content: 'Debbie Codes' },
+          { property: 'og:site_name', content: 'Fresh Salt Agency' },
           { hid: 'og:type', property: 'og:type', content: 'website' },
           {
             hid: 'og:url',
             property: 'og:url',
-            content: 'https://debbie.codes'
+            content: 'https://freshsaltagency.com'
           },
           {
             hid: 'og:title',
@@ -94,12 +94,12 @@
             content: this.page.image
           },
           // Test on: https://cards-dev.twitter.com/validator or https://socialsharepreview.com/
-          { name: 'twitter:site', content: '@debs_obrien' },
+          { name: 'twitter:site', content: '@harrisonkugler' },
           { name: 'twitter:card', content: 'summary_large_image' },
           {
             hid: 'twitter:url',
             name: 'twitter:url',
-            content: 'https://debbie.codes'
+            content: 'https://freshsaltagency.com'
           },
           {
             hid: 'twitter:title',
@@ -121,7 +121,7 @@
           {
             hid: 'canonical',
             rel: 'canonical',
-            href: `https://debbie.codes/blog/${this.$route.params.slug}`
+            href: `https://freshsaltagency.com/blog/${this.$route.params.slug}`
           }
         ]
       }
@@ -143,5 +143,5 @@
   code {
     color: inherit;
   }
-  
+
 </style>

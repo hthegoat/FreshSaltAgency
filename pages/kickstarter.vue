@@ -10,7 +10,7 @@
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-5xl lg:text-6xl font-bold text-center mb-4 md:mb-6">Crowdfunding Success Starts Here</h2>
+      <h2 class="text-gray-800 text-3xl lg:text-6xl font-bold text-center mb-4 md:mb-6">We specialize in creating attention-grabbing ads that turn social media users into qualified backers.</h2>
 
       <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto"></p>
     </div>
