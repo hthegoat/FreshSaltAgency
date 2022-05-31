@@ -545,7 +545,7 @@
   <section class="px-4 py-12 mx-auto max-w-7xl">
   <div class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4">
     <div class="card">
-      <div class="bg-gray-800 py-12 rounded-md p-5">
+      <div class="bg-blue-700 text-center shadow-xl rounded-xl py-12 p-5">
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Total Funding</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">$613,124</h2>
       </div>
@@ -553,19 +553,19 @@
     </div>
     <div class="card">
 
-      <div class="bg-gray-800 py-12 rounded-md p-5">
+      <div class="bg-blue-700 text-center py-12 shadow-xl rounded-xl p-5" text-center>
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Total Backers</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">5,950</h2>
       </div>
     </div>
     <div class="card">
-      <div class="bg-gray-800 py-12 rounded-md  p-5">
+      <div class="bg-blue-700 text-center py-12 shadow-xl rounded-xl   p-5">
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Average Client Percentage</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">507%</h2>
       </div>
     </div>
     <div class="card">
-      <div class="bg-gray-800 py-12 rounded-md p-5">
+      <div class="bg-blue-700 text-center py-12 rounded-xl shadow-xl p-5">
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Client Success Rate</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">100%</h2>
       </div>

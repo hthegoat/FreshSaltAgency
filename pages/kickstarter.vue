@@ -10,7 +10,7 @@
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-3xl lg:text-6xl font-bold text-center mb-4 md:mb-6">We specialize in creating attention-grabbing ads that turn social media users into qualified backers.</h2>
+      <h2 class="text-gray-800 text-3xl lg:text-6xl font-bold text-center mb-4 md:mb-6">We specialize in creating <span class="text-blue-700 text-3xl lg:text-6xl font-bold"> attention-grabbing ads</span> that turn social media users into qualified<span class="text-blue-700 text-3xl lg:text-6xl font-bold"> campaign backers.</span></h2>
 
       <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto"></p>
     </div>
@@ -19,7 +19,7 @@
     <div class="grid sm:grid-cols-1 xl:grid-cols-3 pb-8 gap-12 xl:gap-16">
       <!-- feature - start -->
       <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
 </svg>
@@ -32,7 +32,7 @@
 
       <!-- feature - start -->
       <div class="flex bg-slate-100 py-4 shadow-xl px-6 rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z" />
   <path stroke-linecap="round" stroke-linejoin="round" d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z" />
@@ -46,7 +46,7 @@
 
       <!-- feature - start -->
       <div class="flex bg-slate-100 py-4 shadow-xl px-6 rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-indigo-500 mb-2 sm:mb-4">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
        <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
 </svg>
@@ -72,7 +72,7 @@
       </div>
 
       <div class="md:pt-4">
-        <p class="text-indigo-500 font-bold text-center md:text-center">Launching On Kickstarter?</p>
+        <p class="text-blue-700 font-bold text-center md:text-center">Launching On Kickstarter?</p>
 
         <h1 class="text-gray-800 text-3xl sm:text-3xl font-bold text-center md:text-center mb-4 md:mb-6">We've Helped Crowdfund Over $450k For Crowdfunding Projects In 2022</h1>
 
@@ -109,7 +109,7 @@
 					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 
 						<span class="text-xl font-bold md:text-2xl">100% Success Rate (So Far)</span>
-						<span class="mt-4 text-coolGray-700">Every project we have worked on so far has gotten funded (5 for 5). Yes we are new to the industry, but our results speak for themselves.</span>
+						<span class="mt-4 text-coolGray-700">Every project we have worked on so far has gotten funded. Yes we are new to the industry, but our results speak for themselves.</span>
 					</div>
 				</div>
 
@@ -156,7 +156,7 @@
     <div class="mb-4 space-x-0 text-center md:space-x-2 md:mb-8">
 
      <NuxtLink to="Kickstarter" class="inline-block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-2 rounded-lg shadow-xl hover:bg-blue-600">
-        Sign Up
+        Work With Us
       </NuxtLink>
     </div>
   </div>

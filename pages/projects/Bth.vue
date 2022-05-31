@@ -34,7 +34,11 @@
   </div>
 </section>
 
-
+<!-- THREE AREAS OF FOCUS -->
+<!-- THREE AREAS OF FOCUS -->
+<!-- THREE AREAS OF FOCUS -->
+<!-- THREE AREAS OF FOCUS -->
+<!-- THREE AREAS OF FOCUS -->
 <section>
   <div class="container flex flex-col items-center px-5 py-4 mx-auto">
     <div class="flex flex-col w-full mb-12 prose text-left">
@@ -62,6 +66,18 @@
     </div>
   </div>
 </section>
+
+<!-- END THREE AREAS OF FOCUS -->
+<!-- END THREE AREAS OF FOCUS -->
+<!-- END THREE AREAS OF FOCUS -->
+<!-- END THREE AREAS OF FOCUS -->
+<!-- END THREE AREAS OF FOCUS -->
+
+
+<!--Paid Customer Acquisition-->
+<!--Paid Customer Acquisition-->
+<!--Paid Customer Acquisition-->
+<!--Paid Customer Acquisition-->
 <!--Paid Customer Acquisition-->
 <div class="bg-slate-100 mt-10 py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-md text-center px-4 md:px-8 mx-auto">

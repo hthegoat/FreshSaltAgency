@@ -14,8 +14,8 @@
       </li>
 
       <li class="p-8 bg-slate-100 border-black border-4 shadow-xl rounded-xl">
-        <p class="text-3xl md:text-5xl text-primary font-extrabold">100% </p>
-        <p class="mt-1 text-xl font-medium">Successful KS Projects</p>
+        <p class="text-3xl md:text-5xl text-primary font-extrabold">5 Stars </p>
+        <p class="mt-1 text-xl font-medium">Average Client Review</p>
       </li>
 
       <li class="p-8 bg-slate-100 border-black border-4 shadow-xl rounded-xl">
@@ -36,8 +36,8 @@
 
 
 
-      <a class="inline-flex items-center px-6 py-3 font-medium bg-black rounded-full hover:opacity-75" href="">
-        Get it now
+      <NuxtLink class="inline-flex items-center px-6 py-3 font-medium bg-black rounded-full hover:opacity-75" to="kickstarter">
+        Learn More
 
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -48,7 +48,7 @@
         >
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
         </svg>
-      </a>
+      </NuxtLink>
     </div>
   </div>
 

@@ -24,10 +24,11 @@
       <div class="hidden md:block">
         <ul class="flex space-x-16 text-sm font-bold font-sans">
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
+          <li><NuxtLink to="team" class="">Team</NuxtLink></li>
           <li><NuxtLink to="services" class="">Services</NuxtLink></li>
-          <li><NuxtLink to="/projects" class="">Projects</NuxtLink></li>
-          <li><NuxtLink to="/blog" class="">Blog</NuxtLink></li>
-          <li><NuxtLink to="/contact" class="">Contact</NuxtLink></li>
+          <li><NuxtLink to="projects" class="">Projects</NuxtLink></li>
+
+          <li><NuxtLink to="contact" class="">Contact</NuxtLink></li>
           <li>
       </li>
         </ul>
