@@ -45,18 +45,17 @@
           <NuxtLink to="team" class="hover:opacity-75" > About </NuxtLink>
           <NuxtLink to="blog" class="hover:opacity-75"> Blog </NuxtLink>
           <NuxtLink to="services" class="hover:opacity-75" > Services </NuxtLink>
-          <NuxtLink to="kickstarter" class="hover:opacity-75" > Kickstarter </NuxtLink>
+
         </nav>
       </div>
 
       <div>
         <p class="font-medium">
-          Projects
+          Crowdfunding
         </p>
 
         <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
-          <NuxtLink class="hover:opacity-75" to="Projects"> All Projects </NuxtLink>
-          <NuxtLink class="hover:opacity-75" to="projects/bth"> Case Study #1 </NuxtLink>
+          <NuxtLink to="kickstarter" class="hover:opacity-75" > Kickstarter </NuxtLink>
 
         </nav>
       </div>

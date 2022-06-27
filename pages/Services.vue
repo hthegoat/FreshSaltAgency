@@ -1,5 +1,5 @@
 <template>
-
+<section>
 <section class="h-1/2 bg-primary  flex flex-col justify-center items-center px-4 py-2 mx-auto max-w-7xl">
 <div class="bg-white py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
@@ -65,7 +65,7 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 
 <!-- Filler Text Section -->
 <section>
-  <div class="max-w-screen-xl px-4 bg-slate-100 rounded-xl py-16 mx-auto sm:px-6 lg:px-8">
+  <div class="max-w-screen-xl px-4 bg-slate-100 rounded-xl py-6 mx-auto sm:px-6 lg:px-8">
     <div class="grid grid-cols-1  gap-8 lg:gap-16 lg:grid-cols-2">
       <div
         class="relative h-64 overflow-hidden rounded-xl sm:h-80 lg:h-full lg:order-last"
@@ -233,8 +233,11 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 </section>
 
 
-  <Contact />
-</section>
 
+</section>
+<div>
+<Contact />
+</div>
+</section>
 </template>
 

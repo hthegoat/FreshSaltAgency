@@ -89,86 +89,84 @@
 </div>
 </section>
 
-    <div class="container pb-12 mx-auto flex flex-col p-6">
-			<h2 class="py-4 text-3xl font-bold text-center">Working With Us</h2>
-			<div class="divide-y divide-coolGray-300">
-				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
-					<div class="flex items-center justify-center lg:col-span-1 col-span-full">
-				<img class="h-auto w-1/2 object-contain" src="~/assets/Discord-1.png" alt="Kickstarter Marketing Agency Communications">
-					</div>
-					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
 
-						<span class="text-xl font-bold md:text-2xl"> Direct Chat Discord Communication</span>
-						<span class="mt-4 text-coolGray-700">Email is slow. We work fast. For that reason we choose to setup a direct line of communication for our Kickstarter clients using Discord.</span>
-					</div>
-				</div>
-				<div class="grid justify-center grid-cols-4 p-8 mx-auto space-y-8 lg:space-y-0">
-					<div class="flex items-center justify-center lg:col-span-1 col-span-full">
-							<img class="h-auto w-1/2 object-cover" src="~/assets/target.png" alt="Kickstarter Marketing Agency Communications">
-					</div>
-					<div class="flex flex-col justify-center max-w-3xl text-center col-span-full lg:col-span-3 lg:text-left">
-
-						<span class="text-xl font-bold md:text-2xl">100% Success Rate (So Far)</span>
-						<span class="mt-4 text-coolGray-700">Every project we have worked on so far has gotten funded. Yes we are new to the industry, but our results speak for themselves.</span>
-					</div>
-				</div>
-
-			</div>
-		</div>
   </div>
 </div>
 
-<!--PROJECTS
 
-<section>
-  <div class="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
-    <div class="grid grid-cols-1 gap-8 lg:gap-16 lg:grid-cols-2">
-      <div
-        class="relative h-64 overflow-hidden rounded-lg sm:h-80 lg:h-full lg:order-last"
-      >
-        <img
-          class="absolute inset-0 object-cover w-full h-full"
-          src="~/assets/funded.png"
-          alt="Man using a computer"
-        />
-      </div>
-
-      <div class="lg:py-24">
-        <h2 class="text-3xl font-bold text-center sm:text-4xl">We Are Not Kidding</h2>
-
-        <p class="mt-4 text-center text-gray-600">
-          So far every project we have had the pleasure of working with has gotten funded. We would love to take credit for all of their hardwork but we were merely a helpful strategic partner in their launch journey.
-        </p>
-
-
-      </div>
-    </div>
-  </div>
-</section>
--->
-<div class="w-full mx-auto bg-slate-200 pb-10 pt-10 rounded-md text-left md:w-11/12 xl:w-9/12 md:text-center">
-    <h1 class="mb-6 text-3xl text-center font-extrabold leading-none tracking-normal text-gray-900 md:text-6xl md:tracking-tight">
-      You Read That Right <span class="block w-full text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-purple-500 lg:inline"></span>
-    </h1>
-    <p class="px-6 text-center mb-6 text-lg text-gray-600 md:text-xl lg:px-24">
-     100% Success Rate. We would love to take credit where its due but this is more about the partners we work with then us.
-    </p>
-    <div class="mb-4 space-x-0 text-center md:space-x-2 md:mb-8">
-
-     <NuxtLink to="Kickstarter" class="inline-block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-2 rounded-lg shadow-xl hover:bg-blue-600">
-        Work With Us
-      </NuxtLink>
-    </div>
-  </div>
-  <!--
- <div class="h-auto md:h-auto bg-gray-100 overflow-hidden content-center rounded-lg shadow-lg">
-          <img src="~/assets/funded.png" loading="lazy" alt="Kickstarter Marketing Agency" class="w-2/3 h-2/3 object-contain object-center" />
-        </div>
--->
-
-<!--PROJECTS-->
 <ProjectList2 />
 
+<!--
+  This component uses @tailwindcss/aspect-ratio
+
+  yarn add @tailwindcss/aspect-ratio
+  npm install @tailwindcss/aspect-ratio
+
+  plugins: [require('@tailwindcss/aspect-ratio')]
+-->
+
+<div class="max-w-5xl px-4 py-8 mx-auto">
+  <section class="p-8 bg-gray-100 rounded-lg">
+    <div class="grid grid-cols-1 gap-12 sm:grid-cols-3 sm:items-center">
+      <div class="relative">
+        <div class="aspect-w-1 aspect-h-1">
+          <img
+            src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.18169-9/1394441_10151734925685732_1275280101_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeF-nbCenFR5172JPERQTOHsu2oyIWB2rUS7ajIhYHatRDHWXEmgR5QcGzRcTIjpyCQ&_nc_ohc=jnBN3lBkL2sAX-9LfvZ&_nc_ht=scontent-lga3-1.xx&oh=00_AT-Uuoeitn3xck4ib3BGm2MiBGGcr-gj_LLlktWh0sKl2w&oe=62DC8571"
+            alt=""
+            class="object-cover rounded-lg"
+          />
+        </div>
+
+
+      </div>
+
+      <blockquote class="sm:col-span-2">
+        <p class="text-xl font-medium sm:text-2xl">
+Harrison has been absolutely amazing to work with.  He's flexible, very knowledgeable and was available whenever I needed him.  Harrison helped me to get my first Kickstarter funded and I couldn't have done it without him.
+
+        </p>
+
+        <cite class="inline-flex items-center mt-8 not-italic">
+          <span class="hidden w-6 h-px bg-gray-400 sm:inline-block"></span>
+          <p class="text-sm text-gray-500 uppercase sm:ml-3">
+            <strong>Michael Riley</strong>, Uh Oh Games
+          </p>
+        </cite>
+      </blockquote>
+    </div>
+  </section>
+</div>
+
+<div class="max-w-5xl px-4 py-8 mx-auto">
+  <section class="p-8 bg-gray-100 rounded-lg">
+    <div class="grid grid-cols-1 gap-12 sm:grid-cols-3 sm:items-center">
+      <div class="relative">
+        <div class="aspect-w-1 aspect-h-1">
+          <img
+            src="https://dailyworkerplacement.com/wp-content/uploads/2022/02/Naming-Ceremony-1475x1140.png"
+            alt=""
+            class="object-cover rounded-lg"
+          />
+        </div>
+
+      </div>
+
+      <blockquote class="sm:col-span-2">
+        <p class="text-xl font-medium sm:text-2xl">
+         I worked with Harrison on marketing my board game Kickstarter campaign through Facebook. Harrison routinely designed and updated advertisements that attracted both mailing subscriptions and customer orders. He was transparent and communicative, and adopted my feedback quickly. Thanks Harrison!
+
+        </p>
+
+        <cite class="inline-flex items-center mt-8 not-italic">
+          <span class="hidden w-6 h-px bg-gray-400 sm:inline-block"></span>
+          <p class="text-sm text-gray-500 uppercase sm:ml-3">
+            <strong>Elli Amir</strong>, Worldbreakers
+          </p>
+        </cite>
+      </blockquote>
+    </div>
+  </section>
+</div>
 
 <section class="max-w-7xl px-4 pt-12 pb-12 mx-auto">
   <div class="w-full mx-auto text-center md:w-11/12 xl:w-9/12 md:text-center">
@@ -188,7 +186,7 @@
 
 
           <p class="pb-0 my-2 font-mono text-4xl font-extrabold text-gray-900">$550</p>
-          <p class="text-sm text-gray-500">Organization / month</p>
+          <p class="text-sm text-gray-500">Prices Starting At</p>
            <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
         Sign Up
       </NuxtLink>
