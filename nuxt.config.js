@@ -8,7 +8,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'FreshSaltAgency',
+    title: 'Fresh Salt Agency',
     htmlAttrs: {
       lang: 'en'
     },
@@ -35,7 +35,7 @@ export default {
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
 
-   '~/plugins/alpinejs.js' 
+   '~/plugins/alpinejs.js'
 
   ],
 
@@ -51,10 +51,10 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     '@nuxtjs/axios',
-    '@nuxt/content', '@nuxtjs/google-fonts', '@nuxtjs/sitemap', ['@nuxtjs/gtm', { 
+    '@nuxt/content', '@nuxtjs/google-fonts', '@nuxtjs/sitemap', ['@nuxtjs/gtm', {
       id: 'GTM-WJQ5XKJ' }],
 
-    
+
 
         ['nuxt-facebook-pixel-module', {
           /* module options */
@@ -63,7 +63,7 @@ export default {
           autoPageView: true,
           disabled: false
         }],
-       
+
       ],
       content: {
         markdown: {
@@ -76,12 +76,12 @@ export default {
         'content:file:beforeInsert': document => {
           if (document.extension === '.md') {
             const { time } = require('reading-time')(document.text)
-    
+
             document.readingTime = time
           }
         }
       },
-    
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
