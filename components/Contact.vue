@@ -3,12 +3,13 @@
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
 <!-- Calendly inline widget begin -->
+<h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-12 md:mb-6">Schedule A Call</h2>
 <div class="calendly-inline-widget" data-url="https://calendly.com/harrisonkug/meeting?hide_gdpr_banner=1" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
     <div class="mt-24 mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-12 md:mb-6">Get In Touch</h2>
+      <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-12 md:mb-6">Request A Proposal</h2>
 
 
     </div>
@@ -34,6 +35,10 @@
         <input name="email" class="w-full bg-slate-200 text-gray-800 border-4 rounded-xl focus:ring border-black ring-indigo-300 rounded outline-none transition duration-100 px-3 py-2" />
       </div>
 
+   <div class="sm:col-span-2">
+        <label for="email" class="inline-block text-gray-800 text-sm sm:text-base mb-2">Project Name</label>
+        <input name="email" class="w-full bg-slate-200 text-gray-800 border-4 rounded-xl focus:ring border-black ring-indigo-300 rounded outline-none transition duration-100 px-3 py-2" />
+      </div>
 
       <div class="sm:col-span-2">
         <label for="message" class="inline-block text-gray-800 text-sm sm:text-base mb-2">Message*</label>

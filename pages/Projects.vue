@@ -85,8 +85,8 @@
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-x-4 md:gap-x-6 gap-y-6">
       <!-- product - start -->
       <div>
-        <a href="#" class="group h-96 block bg-gray-100 rounded-lg overflow-hidden shadow-lg mb-2 lg:mb-3">
-          <img src="~/assets/malisemarine.png" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+        <a href="https://malisemarine.com" target="_blank" class="group h-96 block bg-gray-100 rounded-lg overflow-hidden shadow-lg mb-2 lg:mb-3">
+          <img src="~/assets/malisemarine.png" loading="lazy" alt="Web Design 1 By Fresh Salt Agency New Jersey" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
         </a>
 
         <div class="flex flex-col">
@@ -98,8 +98,8 @@
 
       <!-- product - start -->
       <div>
-        <a href="#" class="group h-96 block bg-gray-100 rounded-lg overflow-hidden shadow-lg mb-2 lg:mb-3">
-          <img src="~/assets/5.png" loading="lazy" alt="Photo by engin akyurt" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+        <a target="_blank" href="https://ExpoEquipmentSales.com" class="group h-96 block bg-gray-100 rounded-lg overflow-hidden shadow-lg mb-2 lg:mb-3">
+          <img src="~/assets/5.png" loading="lazy" alt="Web Design 2 By Fresh Salt Agency New Jersey" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
         </a>
 
         <div class="flex flex-col">
@@ -110,8 +110,8 @@
 
       <!-- product - start -->
       <div>
-        <a href="#" class="group h-96 block bg-gray-100 rounded-lg overflow-hidden shadow-lg mb-2 lg:mb-3">
-          <img src="~/assets/7.png" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
+        <a href="https://SafetyFirstFirearms.com" target="_blank" class="group h-96 block bg-gray-100 rounded-lg overflow-hidden shadow-lg mb-2 lg:mb-3">
+          <img src="~/assets/7.png" loading="lazy" alt="Web Design 3 By Fresh Salt Agency New Jersey" class="w-full h-full object-cover object-center group-hover:scale-110 transition duration-200" />
         </a>
 
         <div class="flex flex-col">
@@ -143,7 +143,7 @@
         to="Services"
         class="block px-5 py-3 mt-4 font-medium text-blue-500 rounded-lg hover:text-blue-600 sm:mt-0"
       >
-        Our Services
+        Schedule A Call
       </NuxtLink>
     </div>
   </div>

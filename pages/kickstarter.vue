@@ -1,25 +1,26 @@
 
 <template>
     <section>
-<div class="bg-white pb-6 sm:pb-4 lg:pb-6">
+<div class=" bg-white pb-6 sm:pb-4 lg:pb-6">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
 
 
 <section class="flex flex-col pb-2 items-center">
-      <div class="bg-white py-6 sm:py-8 lg:py-12">
+      <div class="bg-white border-emerald-600 border-4  py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-3xl lg:text-6xl font-bold text-center mb-4 md:mb-6">We specialize in creating <span class="text-blue-700 text-3xl lg:text-6xl font-bold"> attention-grabbing ads</span> that turn social media users into qualified<span class="text-blue-700 text-3xl lg:text-6xl font-bold"> campaign backers.</span></h2>
+      <h2 class="text-gray-800 text-3xl lg:text-5xl font-bold text-center mb-4 md:mb-6">We specialize in creating <span class="text-emerald-600 text-3xl lg:text-5xl font-bold"> attention-grabbing ads</span> that turn social media users into qualified<span class="text-emerald-600 text-3xl lg:text-5xl font-bold"> campaign backers.</span></h2>
 
-      <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto"></p>
+      <blockquote class="max-w-screen-sm italic text-gray-700 font-rfl md:text-lg text-center mx-auto">"When I see Kickstarter, I don't see a company. Instead, I see a social movement. I see people doing things for people." <span class="font-bold">Om Malik</span></blockquote>
+
     </div>
     <!-- text - end -->
 
     <div class="grid sm:grid-cols-1 xl:grid-cols-3 pb-8 gap-12 xl:gap-16">
       <!-- feature - start -->
       <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-emerald-600 mb-2 sm:mb-4">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
 </svg>
@@ -32,7 +33,7 @@
 
       <!-- feature - start -->
       <div class="flex bg-slate-100 py-4 shadow-xl px-6 rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-emerald-600 mb-2 sm:mb-4">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z" />
   <path stroke-linecap="round" stroke-linejoin="round" d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z" />
@@ -46,7 +47,7 @@
 
       <!-- feature - start -->
       <div class="flex bg-slate-100 py-4 shadow-xl px-6 rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-emerald-600 mb-2 sm:mb-4">
        <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" />
 </svg>
@@ -72,7 +73,7 @@
       </div>
 
       <div class="md:pt-4">
-        <p class="text-blue-700 font-bold text-center md:text-center">Launching On Kickstarter?</p>
+        <p class="text-emerald-600 font-bold text-center md:text-center">Launching On Kickstarter?</p>
 
         <h1 class="text-gray-800 text-3xl sm:text-3xl font-bold text-center md:text-center mb-4 md:mb-6">We've Helped Crowdfund Over $450k For Crowdfunding Projects In 2022</h1>
 
@@ -170,7 +171,7 @@ Harrison has been absolutely amazing to work with.  He's flexible, very knowledg
 
 <section class="max-w-7xl px-4 pt-12 pb-12 mx-auto">
   <div class="w-full mx-auto text-center md:w-11/12 xl:w-9/12 md:text-center">
-    <h1 class="block pb-2 mb-5 text-4xl font-extrabold leading-none tracking-normal text-transparent md:text-6xl md:tracking-tight bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">
+    <h1 class="block pb-2 mb-5 text-4xl font-extrabold leading-none tracking-normal text-transparent md:text-6xl md:tracking-tight bg-clip-text bg-gradient-to-r from-emerald-500 to-emerald-600">
       Crowdfunding Pricing
     </h1>
     <p class="px-0 mb-10 text-lg text-gray-500 md:text-xl lg:px-24">Pricing that works for companies of any size.</p>
@@ -179,7 +180,7 @@ Harrison has been absolutely amazing to work with.  He's flexible, very knowledg
     <div class="grid grid-cols-1 gap-16 lg:grid-cols-2 sm:gap-8">
       <div class="border-0 bg-slate-200 rounded-none shadow-none card sm:rounded-lg md:border">
         <div class="flex flex-col text-center  justify-between p-6 border-b border-gray-200">
-          <p class="mb-1 text-lg font-semibold text-yellow-600">Take Flight Crowdfunding</p>
+          <p class="mb-1 text-lg font-semibold text-emerald-800">Take Flight Crowdfunding</p>
 
 
 
@@ -187,7 +188,7 @@ Harrison has been absolutely amazing to work with.  He's flexible, very knowledg
 
           <p class="pb-0 my-2 font-mono text-4xl font-extrabold text-gray-900">$550</p>
           <p class="text-sm text-gray-500">Prices Starting At</p>
-           <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+           <NuxtLink to="/contact" class="block px-5 py-3 mt-6 font-medium text-black bg-green-100 border-white border-4 rounded-xl shadow-xl hover:bg-emerald-800">
         Sign Up
       </NuxtLink>
         </div>
@@ -197,11 +198,11 @@ Harrison has been absolutely amazing to work with.  He's flexible, very knowledg
       <div class="border-0 bg-slate-200 rounded-none shadow-none card sm:rounded-lg md:border">
         <div class="flex flex-col text-center justify-between p-6 border-b border-gray-200">
           <div>
-            <p class="mb-1 text-lg font-semibold text-pink-600">Enterprise Crowdfunding</p>
+            <p class="mb-1 text-lg font-semibold text-green-600">Enterprise Crowdfunding</p>
             <p class="my-2 text-4xl font-bold text-gray-900">Custom</p>
             <p class="text-sm text-gray-500">Organization / month</p>
           </div>
-            <NuxtLink to="Kickstarter" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-2 rounded-lg shadow-xl hover:bg-blue-600">
+            <NuxtLink to="/contact" class="block px-5 py-3 mt-6 font-medium text-black bg-green-100 border-white border-4 rounded-xl shadow-xl hover:bg-emerald-800">
         Sign Up
       </NuxtLink>
         </div>

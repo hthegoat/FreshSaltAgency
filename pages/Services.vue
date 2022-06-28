@@ -1,54 +1,54 @@
 <template>
 <section>
 <section class="h-1/2 bg-primary  flex flex-col justify-center items-center px-4 py-2 mx-auto max-w-7xl">
-<div class="bg-white py-6 sm:py-8 lg:py-12">
+<div class="bg-slate-100 border-blue-500 border-4 rounded-xl mb-4 py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
-    <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-3xl lg:text-6xl font-mr font-bold text-center mb-4 md:mb-6">You need a <span class="text-blue-700 text-3xl lg:text-6xl font-bold"> proactive, strategic, and customized marketing strategy </span> to ensure your company is on a <span class="text-blue-700 text-3xl lg:text-6xl font-bold"> steady course towards success.</span></h2>
+    <div class=" mb-10 md:mb-16">
+      <h2 class="text-gray-800 text-3xl lg:text-5xl font-mr font-bold text-center mb-4 md:mb-6">You need a <span class="text-blue-500 text-3xl lg:text-5xl font-bold"> proactive, strategic, and customized marketing strategy </span> to ensure your company is on a <span class="text-blue-500 text-3xl lg:text-5xl font-bold"> steady course towards success.</span></h2>
 
-      <blockquote class="max-w-screen-sm text-gray-700 font-rfl md:text-lg text-center mx-auto">"Advertising is like salt, it magnifies the taste of the dish, it empowers it.
-But if the food is not good, adding salt won't make it good."</blockquote>
+      <blockquote class="max-w-screen-sm italic text-gray-700 font-rfl md:text-lg text-center mx-auto">"Advertising is like salt, it magnifies the taste of the dish, it empowers it.
+But if the food is not good, adding salt won't make it good." <span class="font-bold">Fresh Salt Agency</span></blockquote>
     </div>
     <!-- text - end -->
 
     <div class="grid sm:grid-cols-1 xl:grid-cols-3 gap-12 xl:gap-16">
       <!-- feature - start -->
-       <div class="flex py-4 bg-slate-100  px-6 shadow-xl rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
+       <div class="flex py-4 bg-blue-100  px-6 shadow-xl rounded-xl flex-col items-center">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-500 mb-2 sm:mb-4">
          <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z" />
 </svg>
         </div>
-
+<a href="#PCA">
         <h3 class="text-xl md:text-xl font-bold text-center mb-2">Paid Customer Acqusition</h3>
-
+</a>
       </div>
       <!-- feature - end -->
 
       <!-- feature - start -->
-       <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
+       <div class="flex py-4 bg-blue-100 px-6 shadow-xl rounded-xl flex-col items-center">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-500 mb-2 sm:mb-4">
        <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
 </svg>
         </div>
-
+<a href="#WD">
         <h3 class="text-xl md:text-xl font-bold text-center mb-2">Website Design</h3>
-
+</a>
       </div>
       <!-- feature - end -->
 
       <!-- feature - start -->
-      <div class="flex py-4 bg-slate-100 px-6 shadow-xl rounded-xl flex-col items-center">
-        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-700 mb-2 sm:mb-4">
+      <div class="flex py-4 bg-blue-100 px-6 shadow-xl rounded-xl flex-col items-center">
+        <div class="w-12 md:w-14 h-12 md:h-14 flex justify-center items-center text-blue-500 mb-2 sm:mb-4">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-full w-full" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
   <path stroke-linecap="round" stroke-linejoin="round" d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122" />
 </svg>
         </div>
-
+<a href="#MS">
         <h3 class="text-xl md:text-xl font-bold text-center mb-2">Marketing Strategy</h3>
-
+</a>
       </div>
       <!-- feature - end -->
 
@@ -67,7 +67,7 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 <section>
   <div class="max-w-screen-xl px-4 bg-slate-100 rounded-xl py-6 mx-auto sm:px-6 lg:px-8">
     <div class="grid grid-cols-1  gap-8 lg:gap-16 lg:grid-cols-2">
-      <div
+      <div id="PCA"
         class="relative h-64 overflow-hidden rounded-xl sm:h-80 lg:h-full lg:order-last"
       >
         <img
@@ -77,7 +77,7 @@ But if the food is not good, adding salt won't make it good."</blockquote>
         />
       </div>
 
-      <div class="text-center lg:py-24">
+      <div  class="text-center lg:py-24">
         <h1 class="text-4xl font-extrabold sm:text-6xl mb-2">1</h1>
         <h2 class="text-3xl font-bold sm:text-4xl">Paid Customer Acquisition</h2>
 
@@ -94,7 +94,7 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 <section class="my-4">
   <div class="max-w-screen-xl rounded-xl bg-slate-100 px-4 py-16 mx-auto sm:px-6 lg:px-8">
     <div class="grid grid-cols-1 gap-8 lg:gap-16 lg:grid-cols-2">
-      <div
+      <div id="WD"
         class="relative h-64 overflow-hidden rounded-xl sm:h-80 lg:h-full lg:order-last"
       >
         <img
@@ -124,7 +124,7 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 <section class="my-4">
   <div class="max-w-screen-xl rounded-xl bg-slate-100 px-4 py-16 mx-auto sm:px-6 lg:px-8">
     <div class="grid grid-cols-1 gap-8 lg:gap-16 lg:grid-cols-2">
-      <div
+      <div id="MS"
         class="relative h-64 overflow-hidden rounded-xl sm:h-80 lg:h-full lg:order-last"
       >
         <img
@@ -153,6 +153,8 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 <section class="w-full my-4">
 <Stats />
 </section>
+
+<ClientList />
 <!-- SERVICES -->
 <!-- SERVICES -->
 <!-- SERVICES -->
@@ -160,34 +162,35 @@ But if the food is not good, adding salt won't make it good."</blockquote>
 <!-- SERVICES -->
 <section class="max-w-7xl px-4 pt-24 pb-12 mx-auto">
   <div class="w-full mx-auto text-center md:w-11/12 xl:w-9/12 md:text-center">
-    <h1 class="block pb-2 mb-5 text-5xl font-extrabold leading-none tracking-normal text-transparent md:text-6xl md:tracking-tight bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">
+    <h1 class="block pb-2 mb-5 text-5xl font-extrabold leading-none tracking-normal text-transparent md:text-6xl md:tracking-tight bg-clip-text bg-gradient-to-r from-blue-500 to-blue-700">
       Simple, Transparent Pricing.
     </h1>
     <p class="px-0 mb-10 text-lg text-gray-500 md:text-xl lg:px-24">Pricing that works for companies of any size.</p>
 
 <strong class="inline-flex items-center bg-slate-200 border border-gray-200 rounded relative px-2.5 mb-6 py-1.5 text-xs font-medium">
-  <span class="animate-ping w-2.5 h-2.5 bg-green-600/75 rounded-full absolute -top-1 -left-1"></span>
-  <span class="w-2.5 h-2.5 bg-green-600 rounded-full absolute -top-1 -left-1"></span>
+  <span class="animate-ping w-2.5 h-2.5 bg-purple-600/75 rounded-full absolute -top-1 -left-1"></span>
+  <span class="w-2.5 h-2.5 bg-purple-600 rounded-full absolute -top-1 -left-1"></span>
 
-  <span class="text-gray-700"> Limited Time: </span>
-
-  <span class="text-green-700 ml-1.5">
-    Sign Up Below & Save 10%
+  <span class="text-gray-700"> Chat With Us On Discord:  </span>
+<a href="https://discord.gg/8m59X4sACq" target="_blank">
+  <span class="text-purple-500 ml-1.5">
+    Join Our Server
   </span>
+</a>
 </strong>
   </div>
   <div class="w-full mx-auto xl:w-full">
     <div class="grid grid-cols-1 gap-16 lg:grid-cols-3 sm:gap-8">
       <div class="border-0 bg-slate-100 text-center rounded-none shadow-none card sm:rounded-xl md:border">
         <div class="flex flex-col justify-between p-6 rounded-xl">
-          <p class="mb-1 text-xl font-semibold text-yellow-600">Paid Customer Acquisition </p>
+          <p class="mb-1 text-xl font-semibold text-slate-600">Paid Customer Acquisition </p>
           <p class="pb-0 my-2 font-mono text-4xl font-extrabold text-gray-900">$750</p>
           <p class="text-sm text-gray-500">For Organizations Brand New To Advertising / 4-6 Week Starter</p>
            <!-- Base -->
 
-   <a href="https://link.waveapps.com/s7xk9r-4s9c2q" target="_blank" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-4 rounded-xl shadow-xl hover:bg-blue-600">
+   <NuxtLink to="/contact"  class="block px-5 py-3 mt-6 font-medium text-blue-500 bg-blue-100 border-white border-4 rounded-xl shadow-xl hover:bg-blue-600">
         Sign Up
-      </a>
+      </NuxtLink>
 
 <!-- Border -->
 
@@ -195,23 +198,21 @@ But if the food is not good, adding salt won't make it good."</blockquote>
         </div>
 
       </div>
-      <div class="border-0 bg-slate-200 rounded-none shadow-none card sm:rounded-xl md:border">
+      <div class="border-0 bg-slate-200 text-center rounded-none shadow-none card sm:rounded-xl md:border">
         <div class="flex flex-col justify-between text-center  p-6 border-b border-gray-200">
           <div>
-            <div class="flex items-center justify-between">
+            <div class="flex flex-col items-center justify-between">
               <p class="mb-1 text-xl font-semibold text-purple-700">Marketing Strategy</p>
-<strong class="border-2 text-white bg-blue-400 border-black uppercase px-5 py-1.5 rounded-full text-[10px] tracking-wide">
-  Most Popular
-</strong>
+
 
 
             </div>
             <p class="my-2 font-mono text-4xl font-extrabold text-gray-900">$999</p>
             <p class="text-sm text-gray-500">Designed for smaller organizations looking to offload all of "that digital stuff". </p>
           </div>
-         <a href="https://link.waveapps.com/7jwz7j-9vpsjv" target="_blank" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-4 rounded-xl shadow-xl hover:bg-blue-600">
+         <NuxtLink to="/contact"  class="block px-5 py-3 mt-6 font-medium text-blue-700 bg-blue-100 border-white border-4 rounded-xl shadow-xl hover:bg-blue-600">
         Sign Up
-      </a>
+      </NuxtLink>
         </div>
 
       </div>
@@ -222,9 +223,9 @@ But if the food is not good, adding salt won't make it good."</blockquote>
             <p class="my-2 text-4xl font-bold text-gray-900">$1550</p>
             <p class="text-sm text-gray-500">Competitive Pricing & Offers Available. We love a good challenging web project.</p>
           </div>
-        <a href="https://link.waveapps.com/4xpk53-nd9g5s" target="_blank" class="block px-5 py-3 mt-6 font-medium text-white bg-blue-500 border-black border-4 rounded-xl shadow-xl hover:bg-blue-600">
+        <NuxtLink to="/contact"  class="block px-5 py-3 mt-6 font-medium text-blue-500 bg-blue-100 border-white border-4 rounded-xl shadow-xl hover:bg-blue-600">
         Sign Up
-      </a>
+      </NuxtLink>
         </div>
 
       </div>

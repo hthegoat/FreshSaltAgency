@@ -1,12 +1,11 @@
 <template>
-	<div class="bg-white py-6 sm:py-8 lg:py-12">
+	<div class="bg-green-100 rounded-xl py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">
-      <h2 class="text-gray-800 text-3xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Kickstarter Projects</h2>
+      <h2 class="text-gray-800 text-3xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Kickstarter Projects We've Helped</h2>
 
-      <p class="max-w-screen-md text-gray-500 md:text-lg text-center mx-auto">Some Projects We've Had The Pleasure Of Working With </p>
-    </div>
+      </div>
     <!-- text - end -->
 
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-4 md:gap-6 xl:gap-8">
@@ -14,7 +13,7 @@
 
       <!-- article - start -->
       <a
-  href=""
+  href="https://www.kickstarter.com/projects/uhoh/word-explosion" target="_blank"
   class="block p-4 rounded-lg shadow-sm bg-slate-200 shadow-indigo-100"
 >
   <img
@@ -100,7 +99,7 @@
 
       <!-- article - start -->
      <a
-  href=""
+  href="https://www.kickstarter.com/projects/ovb/league-of-dungeoneers" target="_blank"
   class="block p-4 rounded-lg shadow-sm bg-slate-200 shadow-indigo-100"
 >
   <img
@@ -126,7 +125,7 @@
       <div>
 
         <dt class="sr-only">
-          Address
+          Kickstarter Funding Total
         </dt>
 
         <dd class="font-medium">
@@ -191,7 +190,7 @@
 
       <!-- article - start -->
       <a
-  href=""
+  href="https://www.kickstarter.com/projects/cytress/cytress-an-emersive-cyberpunk-world?ref=discovery&term=cytress%20" target="_blank"
   class="block p-4 rounded-lg shadow-sm bg-slate-200  shadow-indigo-100"
 >
   <img
@@ -208,13 +207,13 @@
 </svg>
 
         <dd class="text-2xl font-black text-secondary">
-          $50,000
+          $69,000
         </dd>
       </div>
 
       <div>
         <dt class="sr-only">
-          Address
+          Kickstarter Funding Total
         </dt>
 
         <dd class="font-medium">
@@ -236,7 +235,7 @@
           </dt>
 
           <dd class="font-md">
-            2 Hours
+            3 Hours
           </dd>
         </div>
       </div>
@@ -252,7 +251,7 @@
           </dt>
 
           <dd class="font-medium">
-            256
+            1,090
           </dd>
         </div>
       </div>
@@ -278,7 +277,7 @@
       <!-- article - end -->
       <!-- article - start -->
       <a
-  href=""
+  href="https://www.kickstarter.com/projects/elli-amir/worldbreakers-advent-of-the-khanate" target="_blank"
   class="block p-4 rounded-lg shadow-sm bg-slate-200 shadow-indigo-100"
 >
   <img
@@ -295,14 +294,14 @@
 </svg>
 
         <dd class="text-2xl font-black text-secondary">
-          $50,000
+          $29,857
         </dd>
       </div>
 
 
       <div>
         <dt class="sr-only">
-          Address
+          Kickstarter Funding Total
         </dt>
 
         <dd class="font-medium">
@@ -367,7 +366,7 @@
 
       <!-- article - start -->
      <a
-  href=""
+  href="https://www.kickstarter.com/projects/prometheus-gamelabs/micro-dojo-expansion" target="_blank"
   class="block p-4 rounded-lg shadow-sm bg-slate-200 shadow-indigo-100"
 >
   <img
@@ -384,13 +383,13 @@
 </svg>
 
         <dd class="text-2xl font-black text-secondary">
-          $240,000
+          $16,905
         </dd>
       </div>
 
       <div>
         <dt class="sr-only">
-          Address
+          Kickstarter Funding Total
         </dt>
 
         <dd class="font-medium">
@@ -428,7 +427,7 @@
           </dt>
 
           <dd class="font-medium">
-            256
+            1,151
           </dd>
         </div>
       </div>
@@ -455,7 +454,7 @@
 
       <!-- article - start -->
       <a
-  href=""
+  href="https://www.kickstarter.com/projects/rednettle/clay-the-moving-city-an-art-book" target="_blank"
   class="block p-4 rounded-lg shadow-sm bg-slate-200 shadow-indigo-100"
 >
   <img
@@ -472,13 +471,13 @@
 </svg>
 
         <dd class="text-2xl ml-1 font-black text-secondary">
-          $3,500
+          $3,219
         </dd>
       </div>
 
       <div>
         <dt class="sr-only">
-          Address
+          Kickstarter Funding Total
         </dt>
 
         <dd class="font-medium">
@@ -545,7 +544,7 @@
   <section class="px-4 py-12 mx-auto max-w-7xl">
   <div class="grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4">
     <div class="card">
-      <div class="bg-blue-700 text-center shadow-xl rounded-xl py-12 p-5">
+      <div class="bg-emerald-600 text-center shadow-xl rounded-xl py-12 p-5">
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Total Funding</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">$613,124</h2>
       </div>
@@ -553,19 +552,19 @@
     </div>
     <div class="card">
 
-      <div class="bg-blue-700 text-center py-12 shadow-xl rounded-xl p-5" text-center>
+      <div class="bg-emerald-600 text-center py-12 shadow-xl rounded-xl p-5" text-center>
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Total Backers</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">5,950</h2>
       </div>
     </div>
     <div class="card">
-      <div class="bg-blue-700 text-center py-12 shadow-xl rounded-xl   p-5">
+      <div class="bg-emerald-600 text-center py-12 shadow-xl rounded-xl   p-5">
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Average Client Percentage</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">507%</h2>
       </div>
     </div>
     <div class="card">
-      <div class="bg-blue-700 text-center py-12 rounded-xl shadow-xl p-5">
+      <div class="bg-emerald-600 text-center py-12 rounded-xl shadow-xl p-5">
         <p class="mb-2 text-sm font-semibold leading-none tracking-wide text-white uppercase">Client Success Rate</p>
         <h2 class="text-3xl font-extrabold leading-none text-white truncate">100%</h2>
       </div>

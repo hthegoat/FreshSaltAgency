@@ -3,8 +3,8 @@
     <div class="flex items-center justify-between">
 
       <!-- Header logo -->
-      <div class="w-auto h-auto">
-      <NuxtLink to="/"><img src="~/assets/Asset 2.png" alt=""></NuxtLink>
+      <div class="w-16 h-auto">
+      <NuxtLink to="/"><img src="~/assets/2-ks.png" alt=""></NuxtLink>
       </div>
 
       <!-- Mobile toggle -->
@@ -26,7 +26,7 @@
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
           <li><NuxtLink to="/team" class="">Team</NuxtLink></li>
           <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
-          <li><NuxtLink to="/kickstarter" class="">Kickstarter</NuxtLink></li>
+          <li><NuxtLink to="/kickstarter" class="">Crowdfunding</NuxtLink></li>
           <li><NuxtLink to="/contact" class="">Contact</NuxtLink></li>
           <li>
       </li>
