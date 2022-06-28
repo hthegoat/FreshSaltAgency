@@ -175,6 +175,17 @@ Harrison has been absolutely amazing to work with.  He's flexible, very knowledg
       Crowdfunding Pricing
     </h1>
     <p class="px-0 mb-10 text-lg text-gray-500 md:text-xl lg:px-24">Pricing that works for companies of any size.</p>
+    <strong class="inline-flex items-center bg-slate-200 border border-gray-200 rounded relative px-2.5 mb-6 py-1.5 text-xs font-medium">
+  <span class="animate-ping w-2.5 h-2.5 bg-purple-600/75 rounded-full absolute -top-1 -left-1"></span>
+  <span class="w-2.5 h-2.5 bg-purple-600 rounded-full absolute -top-1 -left-1"></span>
+
+  <span class="text-gray-700"> Chat With Us On Discord:  </span>
+<a href="https://discord.gg/8m59X4sACq" target="_blank">
+  <span class="text-purple-500 ml-1.5">
+    Join Our Server
+  </span>
+</a>
+</strong>
   </div>
   <div class="w-full mx-auto xl:w-4/5">
     <div class="grid grid-cols-1 gap-16 lg:grid-cols-2 sm:gap-8">

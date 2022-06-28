@@ -34,7 +34,7 @@
 						<div class="flex">
 							<div class="flex-shrink-0">
 
-<div class="flex justify-center items-center -space-x-4 hover:space-x-1">
+<div class="flex justify-center items-center align-items-center -space-x-4 hover:space-x-1">
 <div>
   <a href="https://twitter.com/HarrisonKugler" target="_blank">
   <button
@@ -215,7 +215,7 @@
           class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
           href="/accountant"
         >
-         <img src="~/assets/kickstarter-logo-2.png" alt="">
+         <img src="~/assets/Kickstarter-Logo-2.png" alt="">
         </a>
 
         <a
