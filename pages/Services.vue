@@ -198,7 +198,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
         </div>
 
       </div>
-      <div class="border-0 bg-slate-200 text-center rounded-none shadow-none card sm:rounded-xl md:border">
+      <div class="border-0 bg-slate-200 text-center rounded-xl shadow-none card sm:rounded-xl md:border">
         <div class="flex flex-col justify-between text-center  p-6 border-b border-gray-200">
           <div>
             <div class="flex flex-col items-center justify-between">
@@ -216,7 +216,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
         </div>
 
       </div>
-      <div class="border-0 bg-slate-100 rounded-none shadow-none card sm:rounded-xl md:border">
+      <div class="border-0 bg-slate-100 rounded-xl shadow-none card sm:rounded-xl md:border">
         <div class="flex flex-col text-center justify-between p-6  border-gray-200">
           <div>
             <p class="mb-1 text-xl font-semibold text-pink-600">Website Design/CRO </p>
@@ -238,6 +238,41 @@ But if the food is not good, adding salt won't make it good." <span class="font-
 </section>
 <div>
 <Contact />
+
+<section class="relative bg-slate-700">
+  <img
+    class="absolute inset-0 object-[75%] sm:object-[25%] object-cover w-full h-full opacity-25 sm:opacity-100"
+    src="~/assets/wait.jpg"
+    alt="Harrison Kugler Image - Fresh Salt Marketing Agency"
+  />
+
+  <div class="hidden sm:block sm:inset-0 sm:absolute sm:bg-gradient-to-r sm:from-slate-700 sm:to-transparent"></div>
+
+  <div class="relative max-w-screen-xl px-4 py-32 mx-auto lg:h-screen lg:items-center justify-center lg:flex">
+    <div class="max-w-xl text-center sm:text-center">
+      <h1 class="text-3xl font-extrabold sm:text-5xl">
+        WAIT!
+        <strong class="font-extrabold text-white sm:block">
+          Statistically if you made it this far down the page you are a rare breed. A trailblazer if you will.
+        </strong>
+      </h1>
+
+      <p class="max-w-lg mt-4 sm:leading-relaxed sm:text-xl">
+        We like trailblazers.
+      </p>
+
+      <div class="flex flex-wrap gap-4 mt-8 text-center">
+        <a href="https://discord.gg/8m59X4sACq" target="_blank" class="block w-full px-12 py-3 text-sm font-medium text-blue-700 rounded shadow bg-blue-100 sm:w-auto active:bg-blue-500 hover:bg-blue-500 focus:outline-none focus:ring" >
+          Join Our Discord & Chat Now
+        </a>
+
+        <NuxtLink to="/contact" class="block w-full px-12 py-3 text-sm font-medium bg-white rounded shadow text-blue-600 sm:w-auto hover:text-blue-700 active:text-blue-500 focus:outline-none focus:ring" >
+          Contact
+        </NuxtLink>
+      </div>
+    </div>
+  </div>
+</section>
 </div>
 </section>
 </template>

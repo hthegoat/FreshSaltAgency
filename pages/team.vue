@@ -7,28 +7,28 @@
 			</div>
 			<div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
 				<div>
-					<h3 class="text-2xl text-center font-bold tracking-tight sm:text-3xl text-gray-900">Harrison Kugler <span class="text-blue-500">CEO, Founder</span></h3>
-					<p class="mt-3 text-lg text-center text-gray-600">Ads Management, Web Development, Ecommerce, Marketing Strategy, Google Analytics</p>
+					<h3 class="text-2xl font-bold tracking-tight sm:text-3xl text-gray-900">Harrison Kugler <span class="text-blue-500">CEO, Founder</span></h3>
+					<p class="mt-3 text-lg text-gray-600">Ads Management, Web Development, Ecommerce, Marketing Strategy, Google Analytics</p>
 					<div class="mt-12 space-y-12">
-						<div class="flex items-center justify-center ">
+						<div class="flex items-center justify-center">
 							<div class="flex-shrink-0">
 								<div class="flex items-center justify-center w-12 h-12 rounded-md bg-blue-100 text-blue-500 border-2 border-white">
 								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-info"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
 								</div>
 							</div>
 							<div class="ml-4">
-								<h4 class="text-lg font-medium leading-6 text-center text-gray-900">Who Am I? </h4>
-								<p class="mt-2 text-center text-gray-600">Previous to FSA I was a freelance marketer and worked with some really great clients. I launched Fresh Salt Agency in January 2022 to better serve my clients.</p>
+								<h4 class="text-lg font-medium leading-6 text-gray-900">Who Am I? </h4>
+								<p class="mt-2 text-gray-600">Previous to FSA I was a freelance marketer and worked with some really great clients. I launched Fresh Salt Agency in January 2022 to better serve my clients.</p>
 							</div>
 						</div>
-						<div class="flex items-center justify-center">
+						<div class="flex ">
 							<div class="flex-shrink-0">
 								<div class="flex items-center justify-center w-12 h-12 rounded-md bg-blue-100 text-blue-500 border-2 border-white">
 								<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-map-pin"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
 								</div>
 							</div>
-							<div class="flex items-center justify-center ml-4">
-								<h4 class="text-lg font-medium  leading-6 text-gray-900">Old Bridge, New Jersey</h4>
+							<div class=" ml-4 mt-2">
+								<h4 class="text-lg font-medium justify-center leading-1  text-gray-900">Old Bridge, New Jersey</h4>
 							</div>
 						</div>
 						<div class="flex">
@@ -263,8 +263,8 @@
 
   <div class="relative w-full h-64 sm:h-96 lg:w-1/2 lg:h-auto">
     <img
-      src="https://www.hyperui.dev/photos/women-2.jpeg"
-      alt="Women smiling at college"
+      src="~/assets/sales.jpg"
+      alt="Fresh Salt Marketing Agency New Jersey Sales"
       class="absolute inset-0 object-cover w-full h-full"
     />
   </div>
