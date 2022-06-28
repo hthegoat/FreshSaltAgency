@@ -78,6 +78,8 @@
 
 
           <li><NuxtLink to="/contact" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-black hover:bg-blue-600 px-3 py-2 rounded text-white">Contact</NuxtLink></li>
+
+          <li><a href="https://discord.gg/8m59X4sACq" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-black hover:bg-blue-600 px-3 py-2 rounded text-white">Join Our Discord</a></li>
         </ul>
 
         <div class="follow">

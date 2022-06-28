@@ -75,7 +75,7 @@
       <div class="md:pt-4">
         <p class="text-emerald-600 font-bold text-center md:text-center">Launching On Kickstarter?</p>
 
-        <h1 class="text-gray-800 text-3xl sm:text-3xl font-bold text-center md:text-center mb-4 md:mb-6">We've Helped Crowdfund Over $450k For Crowdfunding Projects In 2022</h1>
+        <h1 class="text-gray-800 text-3xl sm:text-3xl font-bold text-center md:text-center mb-4 md:mb-6">We've Helped Crowdfund Over $600k For Crowdfunding Projects In 2022</h1>
 
         <p class="text-gray-500 text-center sm:text-lg mb-6 md:mb-4">
         As a Kickstarter Marketing Agency we specialize in creating attention-grabbing Facebook ads that turn social media users into qualified leads. From ad creative and strategy to analytics and landing pages, we’ll take care of everything for you.<br /><br />
