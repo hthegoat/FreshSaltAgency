@@ -85,8 +85,8 @@
 			<div>
 				<div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
 					<div class="lg:col-start-2">
-						<h3 class="text-2xl font-bold tracking-tight sm:text-3xl text-gray-900">Usama Sufflan <span class="text-blue-500">VP Of Marketing</span></h3>
-						<p class="mt-3 text-lg text-gray-600">Per odio fabellas consulatu cu. Utroque detracto mel ea, quo te latine theophrastus. Ea his tale nibh dissentias, mei exerci tamquam euripidis cu.</p>
+						<h3 class="text-2xl font-bold tracking-tight sm:text-3xl text-gray-900">Usama Suffian <span class="text-blue-500">VP Of Marketing</span></h3>
+						<p class="mt-3 text-lg text-gray-600">Marketing Strategist, Facebook & Google Media Buyer, Google Tag Manager</p>
 							<div class="mt-12 space-y-12">
 						<div class="flex">
 							<div class="flex-shrink-0">
@@ -96,7 +96,7 @@
 							</div>
 							<div class="ml-4">
 								<h4 class="text-lg font-medium leading-6 text-gray-900">Who Am I? </h4>
-								<p class="mt-2 text-gray-600">Previous to FSA I was a freelance marketer and worked with some really great clients. I launched Fresh Salt Agency in January 2022 to better serve my clients.</p>
+								<p class="mt-2 text-gray-600">3+ Years Of Experience working with a variety of different clients led me to FSA.</p>
 							</div>
 						</div>
 						<div class="flex">
@@ -113,7 +113,7 @@
 							<div class="flex-shrink-0">
 
 <div class="flex items-center -space-x-4 hover:space-x-1">
-<a href="https://twitter.com/HarrisonKugler" target="_blank">
+<a href="twitter.com/SuffianUsama" target="_blank">
   <button
     class="z-10 block p-4 text-blue-500 transition-all bg-blue-100 border-2 border-white rounded-full active:bg-green-50 hover:scale-110 focus:outline-none focus:ring"
     type="button"
