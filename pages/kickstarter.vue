@@ -6,7 +6,7 @@
 
 
 <section class="flex flex-col pb-2 items-center">
-      <div class="bg-white border-emerald-600 border-4  py-6 sm:py-8 lg:py-12">
+      <div class="bg-white border-emerald-500 border-4 rounded-xl py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
     <!-- text - start -->
     <div class="mb-10 md:mb-16">

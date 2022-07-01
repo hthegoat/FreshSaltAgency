@@ -23,6 +23,10 @@ export default {
     ]
   },
 
+script: [
+{ src: 'https://selvogrj.use.stape.io/selvogrj.js'}
+],
+
   sitemap : {
     hostname: 'https://FreshSaltAgency.com'
   },
