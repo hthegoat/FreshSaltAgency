@@ -68,7 +68,7 @@
     <div class="grid md:grid-cols-2 gap-8 lg:gap-12">
       <div>
         <div class="h-64 md:h-auto bg-gray-100 overflow-hidden rounded-lg shadow-lg">
-          <img src="~/assets/kick.png" loading="lazy" alt="Kickstarter Marketing Agency" class="w-full h-full object-cover object-center" />
+          <img src="~/assets/bs.png" loading="lazy" alt="Kickstarter Marketing Agency" class="w-full h-full object-cover object-center" />
         </div>
       </div>
 
