@@ -40,7 +40,7 @@ script: [
   plugins: [
 
    '~/plugins/alpinejs.js',
-    '~/plugins/marquee.js'
+
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
