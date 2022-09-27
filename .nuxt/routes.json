@@ -1,0 +1,146 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "url": "/blog"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "url": "/contact"
+  },
+  {
+    "name": "kickstarter",
+    "path": "/kickstarter",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\kickstarter.vue",
+    "chunkName": "pages/kickstarter",
+    "url": "/kickstarter"
+  },
+  {
+    "name": "privacypolicy",
+    "path": "/privacypolicy",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\privacypolicy.vue",
+    "chunkName": "pages/privacypolicy",
+    "url": "/privacypolicy"
+  },
+  {
+    "name": "Projects",
+    "path": "/Projects",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\Projects.vue",
+    "chunkName": "pages/Projects",
+    "url": "/Projects"
+  },
+  {
+    "name": "Reviews",
+    "path": "/Reviews",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\Reviews.vue",
+    "chunkName": "pages/Reviews",
+    "url": "/Reviews"
+  },
+  {
+    "name": "Services",
+    "path": "/Services",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\Services.vue",
+    "chunkName": "pages/Services",
+    "url": "/Services"
+  },
+  {
+    "name": "team",
+    "path": "/team",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\team.vue",
+    "chunkName": "pages/team",
+    "url": "/team"
+  },
+  {
+    "name": "thank-you",
+    "path": "/thank-you",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\thank-you.vue",
+    "chunkName": "pages/thank-you",
+    "url": "/thank-you"
+  },
+  {
+    "name": "projects-Bth",
+    "path": "/projects/Bth",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\projects\\\\Bth.vue",
+    "chunkName": "pages/projects/Bth",
+    "url": "/projects/Bth"
+  },
+  {
+    "name": "projects-keystone",
+    "path": "/projects/keystone",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\projects\\\\keystone.vue",
+    "chunkName": "pages/projects/keystone",
+    "url": "/projects/keystone"
+  },
+  {
+    "name": "projects-pineridge",
+    "path": "/projects/pineridge",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\projects\\\\pineridge.vue",
+    "chunkName": "pages/projects/pineridge",
+    "url": "/projects/pineridge"
+  },
+  {
+    "name": "services-ads",
+    "path": "/services/ads",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\services\\\\ads.vue",
+    "chunkName": "pages/services/ads",
+    "url": "/services/ads"
+  },
+  {
+    "name": "services-facebook",
+    "path": "/services/facebook",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\services\\\\facebook.vue",
+    "chunkName": "pages/services/facebook",
+    "url": "/services/facebook"
+  },
+  {
+    "name": "services-google",
+    "path": "/services/google",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\services\\\\google.vue",
+    "chunkName": "pages/services/google",
+    "url": "/services/google"
+  },
+  {
+    "name": "services-seo",
+    "path": "/services/seo",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\services\\\\seo.vue",
+    "chunkName": "pages/services/seo",
+    "url": "/services/seo"
+  },
+  {
+    "name": "services-webdesign",
+    "path": "/services/webdesign",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\services\\\\webdesign.vue",
+    "chunkName": "pages/services/webdesign",
+    "url": "/services/webdesign"
+  },
+  {
+    "name": "blog-all-number",
+    "path": "/blog/all/:number",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\blog\\\\all\\\\_number\\\\index.vue",
+    "chunkName": "pages/blog/all/_number/index"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug"
+  },
+  {
+    "name": "blog-category-number",
+    "path": "/blog/:category/:number",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\blog\\\\_category\\\\_number\\\\index.vue",
+    "chunkName": "pages/blog/_category/_number/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\harri\\\\Desktop\\\\Coding\\\\Fresh Salt Agency Site\\\\FSA\\\\FreshSaltAgency\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/"
+  }
+]
