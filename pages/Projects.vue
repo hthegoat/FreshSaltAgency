@@ -11,13 +11,13 @@
     <div class="grid sm:grid-cols-2 pb-12 lg:grid-cols-3 xl:grid-cols-3 gap-4 md:gap-6 xl:gap-8">
       <!-- article - start -->
       <NuxtLink to="/projects/bth" class="group h-48 md:h-64 xl:h-96 flex flex-col bg-gray-100 rounded-lg shadow-lg overflow-hidden relative">
-        <img src="~/assets/goat2.png" loading="lazy" alt="Photo by Minh Pham" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+        <img src="~/assets/goat2.png" loading="lazy" alt="Bury The Hatchet Marketing Case Study" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
         <div class="bg-gradient-to-t from-blue-500 md:via-transparent to-transparent absolute inset-0 pointer-events-none"></div>
 
         <div class="relative p-4 mt-auto">
 
-          <h2 class="text-gray-100 text-4xl font-semibold transition duration-100 mb-4">Bury The Hatchet & Local Marketing</h2>
+          <h2 class="text-gray-100 text-4xl font-semibold transition duration-100 mb-4">Bury The Hatchet</h2>
 
           <strong class="bg-black border text-white text-primary px-3 mr-1 py-1.5 rounded text-[12px] font-medium">
   Facebook Ads
@@ -29,7 +29,23 @@
         </div>
       </NuxtLink>
       <!-- article - end -->
+<NuxtLink to="projects/bth" class="group h-48 md:h-64 xl:h-96 flex flex-col bg-gray-100 rounded-lg shadow-lg overflow-hidden relative">
+        <img src="~/assets/roof1.png" loading="lazy" alt="Photo by Magicle" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
+        <div class="bg-gradient-to-t from-blue-500 md:via-transparent to-transparent absolute inset-0 pointer-events-none"></div>
+
+        <div class="relative p-4 mt-auto">
+
+          <h2 class="text-gray-100 text-4xl font-semibold transition duration-100 mb-4">Keystone Roofing</h2>
+
+<strong class="bg-black border text-white text-primary px-3 mr-1 py-1.5 rounded text-[12px] font-medium">
+  Lead Generation
+</strong>
+
+<strong class="bg-gray-600 border text-white px-3 py-1.5 rounded text-[12px] font-medium">
+  Sales
+</strong>        </div>
+      </NuxtLink>
       <!-- article - start -->
       <NuxtLink to="projects/bth" class="group h-48 md:h-64 xl:h-96 flex flex-col bg-gray-100 rounded-lg shadow-lg overflow-hidden relative">
         <img src="~/assets/horse.png" loading="lazy" alt="Photo by Lorenzo Herrera" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
@@ -52,23 +68,7 @@
       <!-- article - end -->
 
       <!-- article - start -->
-      <NuxtLink to="projects/bth" class="group h-48 md:h-64 xl:h-96 flex flex-col bg-gray-100 rounded-lg shadow-lg overflow-hidden relative">
-        <img src="~/assets/roof1.png" loading="lazy" alt="Photo by Magicle" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-        <div class="bg-gradient-to-t from-blue-500 md:via-transparent to-transparent absolute inset-0 pointer-events-none"></div>
-
-        <div class="relative p-4 mt-auto">
-
-          <h2 class="text-gray-100 text-4xl font-semibold transition duration-100 mb-4">Coming Soon</h2>
-
-<strong class="bg-black border text-white text-primary px-3 mr-1 py-1.5 rounded text-[12px] font-medium">
-  Lead Generation
-</strong>
-
-<strong class="bg-gray-600 border text-white px-3 py-1.5 rounded text-[12px] font-medium">
-  Sales
-</strong>        </div>
-      </NuxtLink>
       <!-- article - end -->
 
       <!-- article - end -->

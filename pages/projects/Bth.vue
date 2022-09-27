@@ -8,9 +8,9 @@
     <div class="flex w-full mx-auto text-left">
       <div class="relative inline-flex items-center mx-auto align-middle">
         <div class="text-center">
-          <h1 class="max-w-5xl text-5xl mb-10 font-bold leading-none tracking-tighter text-neutral-600 md:text-5xl lg:text-6xl lg:max-w-7xl">
+          <h1 class="max-w-5xl text-5xl mb-10 font-bold leading-none tracking-tighter text-black md:text-5xl lg:text-6xl lg:max-w-7xl">
             A Blank Slate <br class="hidden lg:block">
-            With Bury The Hatchet
+            With <div class="text-blue-500">Bury The Hatchet</div>
           </h1>
           <strong class="bg-blue-500 border-blue-500 border text-white mx-4  normal px-3 py-1.5 rounded text-[12px] font-medium">
   Facebook Ads
@@ -25,10 +25,50 @@
       </div>
     </div>
     <section class="mb-2" id="intro">
-      <div class="flex flex-col items-center justify-center pt-24 mx-auto rounded-lg lg:px-10 max-w-7xl">
-        <img class="object-cover object-center w-full rounded-xl" alt="hero" src="~/assets/bth2.jpg">
+      <div class="flex flex-col items-center justify-center pt-12 mx-auto rounded-lg lg:px-10 max-w-7xl">
+        <img class="object-contain object-center w-full rounded-xl" alt="hero" src="~/assets/bth2.jpg">
+      </div>
+<!--Numbers-->
+<div class="bg-slate-100 mt-4 rounded-xl py-6 sm:py-8 lg:py-12">
+  <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
+    <!-- text - start -->
+    <div class="mb-8 md:mb-12">
+      <h2 class="text-secondary text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Our Work by the numbers</h2>
+
+    </div>
+    <!-- text - end -->
+
+    <div class="grid grid-cols-2 md:grid-cols-4 bg-primary rounded-lg gap-6 md:gap-8 p-6 md:p-8">
+      <!-- stat - start -->
+      <div class="flex flex-col items-center">
+        <div class="text-secondary text-4xl sm:text-2xl md:text-3xl font-bold">4x </div>
+        <div class="text-secondary text-sm sm:text-base">Return On Ad Spend</div>
+      </div>
+      <!-- stat - end -->
+
+      <!-- stat - start -->
+      <div class="flex flex-col items-center">
+        <div class="text-black text-4xl sm:text-2xl md:text-3xl font-bold">35k</div>
+        <div class="text-gray-700 text-sm sm:text-base">Interactions</div>
       </div>
 
+      <!-- stat - start -->
+      <div class="flex flex-col items-center">
+        <div class="text-black text-4xl sm:text-2xl md:text-3xl font-bold">4mil</div>
+        <div class="text-gray-700 text-sm sm:text-base">Impressions</div>
+      </div>
+      <!-- stat - end -->
+
+      <!-- stat - start -->
+      <div class="flex flex-col items-center">
+        <div class="text-black text-4xl sm:text-2xl md:text-3xl font-bold">12k</div>
+        <div class="text-gray-700 text-sm sm:text-base">PageViews</div>
+      </div>
+      <!-- stat - end -->
+    </div>
+  </div>
+</div>
+<!--Numbers-->
     </section>
 
   </div>
@@ -81,7 +121,7 @@
 <!--Paid Customer Acquisition-->
 <div class="bg-slate-100 mt-10 py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-md text-center px-4 md:px-8 mx-auto">
-    <h1 class="text-gray-800 text-3xl sm:text-5xl underline font-bold text-center mb-4 md:mb-6">Paid Customer Acqusition</h1>
+    <h1 class="text-gray-800 text-3xl sm:text-5xl underline font-bold text-center mb-6 md:mb-6">1. Paid Customer Acqusition</h1>
 
     <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
      Every marketer knows that businesses must have a steady stream of new customers if they want to grow. When you're running a business with multiple locations, this is even more important because your existing customer base is probably already fully acquainted with your brand and products. In order to reach people who haven't already heard of your brand, you'll need to put some money into paid advertising.
@@ -91,11 +131,11 @@
 
     </p>
 
-    <h2 class="text-gray-800 text-center text-xl sm:text-2xl font-semibold mb-2 md:mb-4">Approach</h2>
+    <h2 class="text-gray-800 text-center text-xl sm:text-2xl font-semibold mb-2 md:mb-4">Initial Approach</h2>
 
     <p class="text-gray-500 sm:text-lg mb-6 md:mb-8"> Working without an ads manager infrastructure, we devised a workflow for the 12+ locations. </p>
 
-    <ul class="list-disc list-inside text-gray-500 sm:text-lg mb-6 md:mb-8">
+    <ul class="list-disc  list-inside text-gray-500 sm:text-lg mb-6 md:mb-8">
       <li>Create Business Manager + Ad Accounts For Locations</li>
       <li>Facebook Pixel Setup For Individual Locations</li>
       <li>Developing Easy To Understand KPI’s to measure and explain results </li>
@@ -112,10 +152,15 @@
     alt=""
   />
 
-  <h5 class="mt-4 text-xl text-center font-bold text-gray-900">Rough Lifetime Value / Average Order Value</h5>
+  <h5 class="mt-4 text-xl text-center font-bold text-gray-900">Revenue Per Paying User/Average Order Value</h5>
 
   <p class=" mt-2 text-center text-gray-700">
-    The lifetime value of a customer is a key metric that every business should focus on. LTV helps us determine the most cost effective acquisition strategies for acquiring customers and estimating their value over time.
+    The image above is a metric we worked with regularly for this project. Using the customer list provided by BTH we were able to generate an AOV.
+
+    Below you can find the Cost Per Conversion for our Facebook Ad Campaigns.
+
+
+
   </p>
       </a>
 
@@ -129,10 +174,10 @@
     alt=""
   />
 
-  <h5 class="mt-4 text-xl font-bold text-center text-gray-900">Cost Per Conversion </h5>
+  <h5 class="mt-4 text-xl font-bold text-center text-gray-900">CPC < AOV </h5>
 
   <p class=" mt-2 text-center text-gray-700">
-    Acquisition cost is a key metric for measuring the effectiveness of Facebook ads.
+    In simple terms and skipping a few other variables we were Acquiring customers at $45 a pop that were buying $126.
   </p>
       </a>
 
@@ -142,7 +187,7 @@
    <h1 class="text-gray-800 text-3xl sm:text-3xl  font-bold text-center mb-4 mt-10 md:mb-6">Using Our Data</h1>
 
     <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
-     Using the data gathered, it was trivial to run hyper competitive ad campaigns and measure our results. Bundled with this was the next phase of our approach, the content production.
+     Using the data gathered, it was easy for us to run competitive ad campaigns and measure our results. Bundled with this was the next phase of our approach, the content production.
 
 
 
@@ -190,9 +235,9 @@
 
 <!--Paid Customer Acquisition-->
 <!--Paid Customer Acquisition-->
-<div class="bg-white py-6 sm:py-8 lg:py-12">
+<div class="bg-white mt-24 py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-md px-4 md:px-8 mx-auto">
-    <h1 class="text-gray-800 underline text-5xl sm:text-5xl font-extrabold text-center mb-4 md:mb-6">Content Production</h1>
+    <h1 class="text-gray-800 underline text-4xl sm:text-5xl font-extrabold text-center mb-4 md:mb-6">2. Content Production</h1>
  <p class="mb-5 text-base text-center text-gray-600 sm:text-left md:text-lg">
         Our Content Strategy Approach was two fold. We initially decided to utilize and encourage the employees to create content with customers/in their free time. Along with that we hired a local videographer to work with specific locations on video ideas.
       </p>
@@ -310,46 +355,6 @@ Social listening is a fancy word for keeping an eye on what people are saying ab
 	</section>
 
 
-  </div>
-</div>
-<!--Paid Customer Acquisition-->
-<div class="bg-white py-6 sm:py-8 lg:py-12">
-  <div class="max-w-screen-lg px-4 md:px-8 mx-auto">
-    <!-- text - start -->
-    <div class="mb-8 md:mb-12">
-      <h2 class="text-secondary text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Our Work by the numbers</h2>
-
-    </div>
-    <!-- text - end -->
-
-    <div class="grid grid-cols-2 md:grid-cols-4 bg-primary rounded-lg gap-6 md:gap-8 p-6 md:p-8">
-      <!-- stat - start -->
-      <div class="flex flex-col items-center">
-        <div class="text-secondary text-2xl sm:text-2xl md:text-3xl font-bold">4x </div>
-        <div class="text-secondary text-sm sm:text-base">Return On Ad Spend</div>
-      </div>
-      <!-- stat - end -->
-
-      <!-- stat - start -->
-      <div class="flex flex-col items-center">
-        <div class="text-black text-2xl sm:text-2xl md:text-3xl font-bold">250+</div>
-        <div class="text-gray-700 text-sm sm:text-base">Content Pieces</div>
-      </div>
-
-      <!-- stat - start -->
-      <div class="flex flex-col items-center">
-        <div class="text-black text-2xl sm:text-2xl md:text-3xl font-bold">3,100,000+</div>
-        <div class="text-gray-700 text-sm sm:text-base">Impressions</div>
-      </div>
-      <!-- stat - end -->
-
-      <!-- stat - start -->
-      <div class="flex flex-col items-center">
-        <div class="text-black text-2xl sm:text-2xl md:text-3xl font-bold">A couple</div>
-        <div class="text-gray-700 text-sm sm:text-base">Coffee breaks</div>
-      </div>
-      <!-- stat - end -->
-    </div>
   </div>
 </div>
 

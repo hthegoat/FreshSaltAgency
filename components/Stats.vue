@@ -9,18 +9,18 @@
 
     <ul class="grid grid-cols-1 text-center gap-8 mt-8 sm:grid-cols-1 lg:grid-cols-3">
       <li class="p-8 bg-slate-100 border-4 border-white shadow-xl rounded-xl">
-        <p class="text-3xl md:text-5xl text-primary font-extrabold">$50k+ </p>
-        <p class="mt-1 text-xl font-medium">Spent In Advertising 2022</p>
+        <p class="text-3xl md:text-5xl text-primary font-extrabold">$150k+ </p>
+        <p class="mt-1 text-xl font-medium">2022 Ad Spend</p>
+      </li>
+
+      <li class="p-8 bg-slate-100 border-white border-4 shadow-xl rounded-xl">
+        <p class="text-3xl md:text-5xl text-primary font-extrabold">3.7x </p>
+        <p class="mt-1 text-xl font-medium">Average Return On Ad Spend</p>
       </li>
 
       <li class="p-8 bg-slate-100 border-white border-4 shadow-xl rounded-xl">
         <p class="text-3xl md:text-5xl text-primary font-extrabold">5 Stars </p>
         <p class="mt-1 text-xl font-medium">Average Client Review</p>
-      </li>
-
-      <li class="p-8 bg-slate-100 border-white border-4 shadow-xl rounded-xl">
-        <p class="text-3xl md:text-5xl text-primary font-extrabold">3.7x </p>
-        <p class="mt-1 text-xl font-medium">Average ROI</p>
       </li>
 
 
@@ -30,14 +30,13 @@
   <div class="flex relative z-10 max-w-screen-xl px-4 py-24 mx-auto sm:px-6 lg:px-8">
     <div class="max-w-full space-y-8 text-center sm:text-center ">
       <h2 class="text-4xl text-center font-bold sm:text-5xl">
-        Crowdfunding Marketing
-
+Read Our Pitch Deck
       </h2>
 
 
 
-      <NuxtLink class="inline-flex items-center px-6 py-3 font-medium bg-blue-100 border-4 border-white text-blue-500 rounded-xl hover:opacity-75" to="kickstarter">
-        FSA Crowdfunding Division
+      <a href="http://link.freshsaltagency.com/Pitch-Deck" target="_blank" class="inline-flex items-center px-6 py-3 font-medium bg-blue-100 border-4 border-white text-blue-500 rounded-xl hover:opacity-75" to="kickstarter">
+        Read It
 
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -48,7 +47,7 @@
         >
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
         </svg>
-      </NuxtLink>
+      </a>
     </div>
   </div>
 

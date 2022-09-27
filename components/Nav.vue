@@ -24,13 +24,13 @@
       <div class="hidden md:block">
         <ul class="flex space-x-16 text-sm font-bold font-sans">
           <li><NuxtLink to="/" class="">Home</NuxtLink></li>
-          <li><NuxtLink to="/team" class="">Team</NuxtLink></li>
+          <li><NuxtLink to="/team" class="">About</NuxtLink></li>
           <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
-                    <li><NuxtLink to="/kickstarter" class="">Crowdfunding</NuxtLink></li>
           <li><NuxtLink to="/projects" class="">Projects</NuxtLink></li>
-
-          <li><NuxtLink to="/contact" class="">Contact</NuxtLink></li>
+          <li><NuxtLink to="/contact" class=" bg-gray-200 hover:bg-gray-300 focus-visible:ring border-2 border-blue-500 text-black active:text-gray-700 text-md md:text-black font-semibold text-center rounded-md outline-none transition duration-100 px-8 py-3">Get Started</NuxtLink></li>
           <li>
+
+
       </li>
         </ul>
       </div>
@@ -70,16 +70,16 @@
 
         <ul class="divide-y font-sans">
           <li><NuxtLink to="/" class="my-4 inline-block">Home</NuxtLink></li>
-                    <li><NuxtLink to="/team" class="my-4 inline-block">Team</NuxtLink></li>
-                    <li><NuxtLink to="/projects" class="my-4 inline-block">Projects</NuxtLink></li>
+                    <li><NuxtLink to="/team" class="my-4 inline-block">About</NuxtLink></li>
+
 
           <li><NuxtLink to="/services" class="my-4 inline-block">Services</NuxtLink></li>
-          <li><NuxtLink to="/kickstarter" class="my-4 inline-block">Crowdfunding</NuxtLink></li>
+
 
 
           <li><NuxtLink to="/contact" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-black hover:bg-blue-600 px-3 py-2 rounded text-white">Contact</NuxtLink></li>
 
-          <li><a href="https://discord.gg/8m59X4sACq" @click="isOpen = false" class="my-8 w-full text-center font-semibold cta inline-block bg-black hover:bg-blue-600 px-3 py-2 rounded text-white">Join Our Discord</a></li>
+
         </ul>
 
         <div class="follow">

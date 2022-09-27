@@ -39,8 +39,8 @@ script: [
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
 
-   '~/plugins/alpinejs.js'
-
+   '~/plugins/alpinejs.js',
+    '~/plugins/marquee.js'
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -56,7 +56,23 @@ script: [
   modules: [
     '@nuxtjs/axios',
     '@nuxt/content', '@nuxtjs/google-fonts', '@nuxtjs/sitemap', ['@nuxtjs/gtm', {
-      id: 'GTM-WJQ5XKJ' }],
+      id: 'GTM-WJQ5XKJ',
+      transport_url: 'https://selvogrj.use.stape.io',
+      scriptId: 'gtm-script',
+      scriptDefer: false,
+      scriptURL: 'https://selvogrj.use.stape.io',
+      crossOrigin: false,
+      noscript: true,
+      noscriptId: 'gtm-noscript',
+      noscriptURL: 'https://selvogrj.use.stape.io',
+      layer: 'dataLayer',
+      variables: {},
+
+
+
+      autoInit: true,
+      respectDoNotTrack: true,
+    }],
 
 
 

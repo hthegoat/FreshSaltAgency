@@ -42,8 +42,7 @@
 
         <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
           <NuxtLink to="/" class="hover:opacity-75"> Home </NuxtLink>
-          <NuxtLink to="team" class="hover:opacity-75" > About </NuxtLink>
-          <NuxtLink to="blog" class="hover:opacity-75"> Blog </NuxtLink>
+          <NuxtLink to="team" class="hover:opacity-75" > Who Are We </NuxtLink>
           <NuxtLink to="services" class="hover:opacity-75" > Services </NuxtLink>
 
         </nav>
@@ -51,11 +50,12 @@
 
       <div>
         <p class="font-medium">
-          Crowdfunding
+          Case Studies
         </p>
 
         <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
-          <NuxtLink to="kickstarter" class="hover:opacity-75" > Kickstarter </NuxtLink>
+          <NuxtLink to="projects/bth" class="hover:opacity-75" > Bury The Hatchet </NuxtLink>
+           <NuxtLink to="projects/keystone" class="hover:opacity-75" > Keystone Roofing </NuxtLink>
 
         </nav>
       </div>
@@ -78,7 +78,7 @@
 
         <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
           <a class="hover:opacity-75" href=""> Website Source Code </a>
-          <a class="hover:opacity-75" href=""> Downloads </a>
+          <a class="hover:opacity-75" href="http://link.freshsaltagency.com/Pitch-Deck"> Pitch Deck </a>
         </nav>
       </div>
 

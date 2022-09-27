@@ -1,9 +1,99 @@
 <template>
+
 	<section class="bg-gray-100 text-gray-800">
+
+
 		<div class="container max-w-xl p-6 py-12 mx-auto space-y-24 lg:px-8 lg:max-w-7xl">
+<div class="bg-white py-6 sm:py-8 lg:py-12">
+  <div class="max-w-screen-xl px-4 md:px-8 mx-auto">
+    <div class="grid md:grid-cols-2 gap-8 lg:gap-12">
+      <div>
+        <div class="h-64 md:h-auto bg-gray-100 overflow-hidden rounded-lg shadow-lg">
+          <img src="~/assets/about-4.png" loading="lazy" alt="Photo by Martin Sanchez" class="w-full h-full object-cover" />
+        </div>
+      </div>
+
+      <div class="md:pt-8">
+        <p class="text-indigo-500 font-bold text-center md:text-left">Who we are</p>
+
+        <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-left mb-4 md:mb-6">Dedicated Marketing Professionals</h1>
+
+        <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
+          I founded Fresh Salt Agency in 2022. Previously I was a self taught Freelance Marketing Specialist which allowed me to work with hands on Business Owners (and future friends) in a hands-on capacity.<br /><br />
+
+        </p>
+
+        <h2 class="text-gray-800 text-xl sm:text-2xl font-semibold text-center md:text-left mb-2 md:mb-4">About Fresh Salt</h2>
+
+        <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">We are a small (but mighty) marketing team helping all types of businesses with their end-to-end marketing needs.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section>
+  <div class="max-w-screen-xl px-4 py-6 sm:px-6 lg:px-8">
+    <div
+      class="grid grid-cols-1 lg:grid-cols-2 gap-y-8 lg:gap-x-16 lg:items-center"
+    >
+      <div class="max-w-lg mx-auto text-center lg:text-left lg:mx-0">
+        <h2 class="text-3xl font-bold sm:text-4xl">15+ Years Of Combined Experience</h2>
+
+
+
+
+      </div>
+
+      <div class="grid grid-cols-2 gap-4 sm:grid-cols-3">
+        <a
+          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
+          href="/accountant"
+        >
+         <img src="~/assets/Google-AdWords-logo.png" alt="">
+
+        </a>
+
+        <a
+          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
+          href="/accountant"
+        >
+<img src="~/assets/meta4.png" alt="">
+        </a>
+
+        <a
+          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
+          href="/accountant"
+        >
+         <img src="~/assets/ig.png" alt="">
+        </a>
+
+        <a
+          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
+          href="/accountant"
+        >
+         <img src="~/assets/Kickstarter-Logo-2.png" alt="">
+        </a>
+
+        <a
+          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
+          href="/accountant"
+        >
+         <img src="~/assets/klaviyo-logo.png" alt="">
+        </a>
+
+        <a
+          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
+          href="/accountant"
+        >
+          <img src="~/assets/google-analytics-logo-1.png" alt="">
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 			<div>
 				<h2 class="text-3xl font-bold tracking-tight text-center sm:text-5xl text-gray-900">Meet Our Team </h2>
-				<p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-600">We compete with agencies like 10x our size.</p>
+				<p class="max-w-3xl mx-auto mt-4 text-xl text-center text-gray-600">Small Team, Big Results</p>
 			</div>
 			<div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
 				<div>
@@ -79,7 +169,7 @@
 					</div>
 				</div>
 				<div aria-hidden="true" class="mt-10 lg:mt-0">
-					<img src="~/assets/harrisonk1.jpg" alt="" class="mx-auto h-50 w-full rounded-lg shadow-lg bg-gray-500">
+					<img src="~/assets/harrisonk1.jpg" alt="" class="mx-auto h-50 w-50 rounded-lg shadow-lg bg-gray-500">
 				</div>
 			</div>
 			<div>
@@ -155,108 +245,29 @@
 					</div>
 				</div>
 			</div>
-      <section>
-  <div class="max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
-    <div
-      class="grid grid-cols-1 lg:grid-cols-2 gap-y-8 lg:gap-x-16 lg:items-center"
-    >
-      <div class="max-w-lg mx-auto text-center lg:text-left lg:mx-0">
-        <h2 class="text-3xl font-bold sm:text-4xl">10+ Years Combined Experience</h2>
 
-
-
-        <NuxtLink
-          class="inline-flex items-center px-8 py-3 mt-8 text-blue-500 bg-blue-100 border-2 border-white rounded hover:bg-transparent hover:text-blue-500 active:text-blue-500 focus:outline-none focus:ring"
-          to="/contact"
-        >
-          <span class="text-sm font-medium"> Schedule A Call </span>
-
-          <svg
-            class="w-5 h-5 ml-3"
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M17 8l4 4m0 0l-4 4m4-4H3"
-            />
-          </svg>
-        </NuxtLink>
-      </div>
-
-      <div class="grid grid-cols-2 gap-4 sm:grid-cols-3">
-        <a
-          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
-          href="/accountant"
-        >
-         <img src="~/assets/Google-AdWords-logo.png" alt="">
-
-        </a>
-
-        <a
-          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
-          href="/accountant"
-        >
-<img src="~/assets/meta4.png" alt="">
-        </a>
-
-        <a
-          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
-          href="/accountant"
-        >
-         <img src="~/assets/ig.png" alt="">
-        </a>
-
-        <a
-          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
-          href="/accountant"
-        >
-         <img src="~/assets/Kickstarter-Logo-2.png" alt="">
-        </a>
-
-        <a
-          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
-          href="/accountant"
-        >
-         <img src="~/assets/klaviyo-logo.png" alt="">
-        </a>
-
-        <a
-          class="block p-4 border border-gray-100 shadow-sm rounded-xl focus:outline-none focus:ring hover:border-gray-200 hover:ring-1 hover:ring-gray-200"
-          href="/accountant"
-        >
-          <img src="~/assets/google-analytics-logo-1.png" alt="">
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
 <aside class="relative overflow-hidden text-black bg-blue-100 lg:flex">
   <div class="w-full p-12 text-center lg:w-1/2 sm:p-16 lg:p-24 lg:text-left">
     <div class="max-w-xl mx-auto lg:ml-0">
       <p class="text-sm font-medium">Fresh Salt Agency 2022</p>
 
       <p class="mt-2 text-5xl font-bold text-slate-700 sm:text-3xl">
-        We Suck At Sales.
+        Your Favorite Marketing Team's
       </p>
       <p class="mt-2 text-4xl font-bold text-light italic text-blue-500 sm:text-3xl">
-        Or Do We?
+        Favorite Marketing Team
       </p>
 
       <p class="mt-2 lg:mt-4 lg:block">
-        To be honest, I'm not sure, but this does have you paused thinking about our sales. Doesn't It? **awkward** 🫢😳
+        Click Below to learn about our services.
 
       </p>
 
       <NuxtLink
-        to="/contact"
+        to="/services"
         class="inline-block px-5 py-3 mt-8 text-sm font-medium text-white bg-blue-500 rounded-lg hover:bg-blue-600"
       >
-        Contact Us, Or Don't
+        What Do We Do?
       </NuxtLink>
     </div>
   </div>

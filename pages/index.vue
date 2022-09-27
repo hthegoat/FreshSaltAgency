@@ -1,10 +1,9 @@
 <template>
 <div>
  <Hero/>
-<Hero2 />
 
 <Testimonial />
-
+<HeroB />
 </div>
 </template>
 
