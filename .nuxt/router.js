@@ -15,7 +15,7 @@ const _6347766e = () => interopDefault(import('..\\pages\\team.vue' /* webpackCh
 const _5157a500 = () => interopDefault(import('..\\pages\\thank-you.vue' /* webpackChunkName: "pages/thank-you" */))
 const _428cc980 = () => interopDefault(import('..\\pages\\projects\\Bth.vue' /* webpackChunkName: "pages/projects/Bth" */))
 const _127eb6cc = () => interopDefault(import('..\\pages\\projects\\keystone.vue' /* webpackChunkName: "pages/projects/keystone" */))
-const _bf506f76 = () => interopDefault(import('..\\pages\\projects\\pineridge.vue' /* webpackChunkName: "pages/projects/pineridge" */))
+const _2203eb60 = () => interopDefault(import('..\\pages\\projects\\stressfactory.vue' /* webpackChunkName: "pages/projects/stressfactory" */))
 const _4e1ae956 = () => interopDefault(import('..\\pages\\services\\ads.vue' /* webpackChunkName: "pages/services/ads" */))
 const _58047d10 = () => interopDefault(import('..\\pages\\services\\facebook.vue' /* webpackChunkName: "pages/services/facebook" */))
 const _5c165383 = () => interopDefault(import('..\\pages\\services\\google.vue' /* webpackChunkName: "pages/services/google" */))
@@ -82,9 +82,9 @@ export const routerOptions = {
     component: _127eb6cc,
     name: "projects-keystone"
   }, {
-    path: "/projects/pineridge",
-    component: _bf506f76,
-    name: "projects-pineridge"
+    path: "/projects/stressfactory",
+    component: _2203eb60,
+    name: "projects-stressfactory"
   }, {
     path: "/services/ads",
     component: _4e1ae956,

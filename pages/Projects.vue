@@ -29,7 +29,7 @@
         </div>
       </NuxtLink>
       <!-- article - end -->
-<NuxtLink to="projects/bth" class="group h-48 md:h-64 xl:h-96 flex flex-col bg-gray-100 rounded-lg shadow-lg overflow-hidden relative">
+<NuxtLink to="projects/keystone" class="group h-48 md:h-64 xl:h-96 flex flex-col bg-gray-100 rounded-lg shadow-lg overflow-hidden relative">
         <img src="~/assets/roof1.png" loading="lazy" alt="Photo by Magicle" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
         <div class="bg-gradient-to-t from-blue-500 md:via-transparent to-transparent absolute inset-0 pointer-events-none"></div>

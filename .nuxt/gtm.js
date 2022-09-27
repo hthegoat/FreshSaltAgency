@@ -1,68 +1,11 @@
+// This is a mock version because gtm module is disabled
+// You can explicitly enable module using `gtm.enabled: true` in nuxt.config
 import { log } from './gtm.utils'
 
 const _layer = 'dataLayer'
 const _id = 'GTM-WJQ5XKJ'
 
-function gtmClient(ctx, initialized) {
-  return {
-    init(id = _id) {
-      if (initialized[id] || !window._gtm_inject) {
-        return
-      }
-      window._gtm_inject(id)
-      initialized[id] = true
-      log('init', id)
-    },
-    push(obj) {
-      if (!window[_layer]) {
-        window[_layer] = []
-      }
-      window[_layer].push(obj)
-      log('push', obj)
-    }
-  }
-}
-
-function gtmServer(ctx, initialized) {
-  const events = []
-  const inits = []
-
-  ctx.beforeNuxtRender(() => {
-    if (!inits.length && !events.length) {
-      return
-    }
-
-    const gtmScript = ctx.app.head.script.find(s => s.hid == 'gtm-script')
-    gtmScript.innerHTML = `window['${_layer}']=${JSON.stringify(events)};${gtmScript.innerHTML}`
-
-    if (inits.length) {
-      gtmScript.innerHTML += `;${JSON.stringify(inits)}.forEach(function(i){window._gtm_inject(i)})`
-    }
-
-    const gtmIframe = ctx.app.head.noscript.find(s => s.hid == 'gtm-noscript')
-    const renderIframe = id => `<iframe src="https://selvogrj.use.stape.io?id=${id}&" height="0" width="0" style="display:none;visibility:hidden" title="gtm"></iframe>`
-    if (inits.length) {
-      gtmIframe.innerHTML += inits.map(renderIframe)
-    }
-  })
-
-  return {
-    init(id = _id) {
-      if (initialized[id]) {
-        return
-      }
-      inits.push(id)
-      initialized[id] = true
-      log('init', id)
-    },
-    push(obj) {
-      events.push(obj)
-      log('push', JSON.stringify(obj))
-    }
-  }
-}
-
-function startPageTracking(ctx) {
+function startPageTracking (ctx) {
   ctx.app.router.afterEach((to) => {
     setTimeout(() => {
       ctx.$gtm.push(to.gtm || {
@@ -77,15 +20,19 @@ function startPageTracking(ctx) {
 }
 
 export default function (ctx, inject) {
-  const runtimeConfig = (ctx.$config && ctx.$config.gtm) || {}
-  const autoInit = true
-  const id = 'GTM-WJQ5XKJ'
-  const runtimeId = runtimeConfig.id
-  const initialized = autoInit && id ? {[id]: true} : {}
-  const $gtm = process.client ? gtmClient(ctx, initialized) : gtmServer(ctx, initialized)
-  if (autoInit && runtimeId && runtimeId !== id) {
-    $gtm.init(runtimeId)
+  log('Using mocked API. Real GTM events will not be reported.')
+  const gtm = {
+    init: (id) => {
+      log('init', id)
+    },
+    push: (event) => {
+      log('push', process.client ? event : JSON.stringify(event))
+      if (typeof event.eventCallback === 'function') {
+        event.eventCallback()
+      }
+    }
   }
-  ctx.$gtm = $gtm
-  inject('gtm', ctx.$gtm)
+
+  ctx.$gtm = gtm
+  inject('gtm', gtm)
 }

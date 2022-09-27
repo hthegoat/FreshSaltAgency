@@ -42,7 +42,7 @@
       <!-- stat - start -->
       <div class="flex flex-col items-center">
         <div class="text-secondary text-4xl sm:text-2xl md:text-3xl font-bold">4x </div>
-        <div class="text-secondary text-sm sm:text-base">Return On Ad Spend</div>
+        <div class="text-secondary text-sm sm:text-base">ROI</div>
       </div>
       <!-- stat - end -->
 
