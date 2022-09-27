@@ -7,10 +7,7 @@
       </h2>
 
       <p class="max-w-lg mx-auto mt-4 text-gring-offset-warm-gray-500">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-        praesentium natus sapiente commodi. Aliquid sunt tempore iste
-        repellendus explicabo dignissimos placeat, autem harum dolore
-        reprehenderit quis! Quo totam dignissimos earum.
+
       </p>
     </div>
 
