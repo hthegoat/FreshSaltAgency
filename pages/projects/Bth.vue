@@ -174,7 +174,7 @@
     alt=""
   />
 
-  <h5 class="mt-4 text-xl font-bold text-center text-gray-900">CPC < AOV </h5>
+  <h5 class="mt-4 text-xl font-bold text-center text-gray-900">CPC vs. AOV </h5>
 
   <p class=" mt-2 text-center text-gray-700">
     In simple terms and skipping a few other variables we were Acquiring customers at $45 a pop that were buying $126.
