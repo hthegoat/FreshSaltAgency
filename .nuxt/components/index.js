@@ -1,26 +1,26 @@
-export { default as AppBreadCrumb } from '../..\\components\\AppBreadCrumb.vue'
-export { default as ArticleCard } from '../..\\components\\ArticleCard.vue'
-export { default as ArticlePrevNext } from '../..\\components\\ArticlePrevNext.vue'
-export { default as Cf } from '../..\\components\\cf.vue'
-export { default as ClientList } from '../..\\components\\ClientList.vue'
-export { default as Contact } from '../..\\components\\Contact.vue'
-export { default as Faq } from '../..\\components\\Faq.vue'
-export { default as Footer } from '../..\\components\\Footer.vue'
-export { default as Hero } from '../..\\components\\Hero.vue'
-export { default as Hero2 } from '../..\\components\\Hero2.vue'
-export { default as HeroB } from '../..\\components\\HeroB.vue'
-export { default as Marquee } from '../..\\components\\marquee.vue'
-export { default as Nav } from '../..\\components\\Nav.vue'
-export { default as Nav2 } from '../..\\components\\Nav2.vue'
-export { default as Pagination } from '../..\\components\\Pagination.vue'
-export { default as PostsCard } from '../..\\components\\PostsCard.vue'
-export { default as ProjectList } from '../..\\components\\ProjectList.vue'
-export { default as ProjectList2 } from '../..\\components\\ProjectList2.vue'
-export { default as SearchInput } from '../..\\components\\SearchInput.vue'
-export { default as SocialHead } from '../..\\components\\SocialHead.vue'
-export { default as Stats } from '../..\\components\\Stats.vue'
-export { default as Testimonial } from '../..\\components\\Testimonial.vue'
-export { default as Wow } from '../..\\components\\Wow.vue'
+export const AppBreadCrumb = () => import('../..\\components\\AppBreadCrumb.vue' /* webpackChunkName: "components/app-bread-crumb" */).then(c => wrapFunctional(c.default || c))
+export const ArticleCard = () => import('../..\\components\\ArticleCard.vue' /* webpackChunkName: "components/article-card" */).then(c => wrapFunctional(c.default || c))
+export const ArticlePrevNext = () => import('../..\\components\\ArticlePrevNext.vue' /* webpackChunkName: "components/article-prev-next" */).then(c => wrapFunctional(c.default || c))
+export const Cf = () => import('../..\\components\\cf.vue' /* webpackChunkName: "components/cf" */).then(c => wrapFunctional(c.default || c))
+export const ClientList = () => import('../..\\components\\ClientList.vue' /* webpackChunkName: "components/client-list" */).then(c => wrapFunctional(c.default || c))
+export const Contact = () => import('../..\\components\\Contact.vue' /* webpackChunkName: "components/contact" */).then(c => wrapFunctional(c.default || c))
+export const Faq = () => import('../..\\components\\Faq.vue' /* webpackChunkName: "components/faq" */).then(c => wrapFunctional(c.default || c))
+export const Footer = () => import('../..\\components\\Footer.vue' /* webpackChunkName: "components/footer" */).then(c => wrapFunctional(c.default || c))
+export const Hero = () => import('../..\\components\\Hero.vue' /* webpackChunkName: "components/hero" */).then(c => wrapFunctional(c.default || c))
+export const Hero2 = () => import('../..\\components\\Hero2.vue' /* webpackChunkName: "components/hero2" */).then(c => wrapFunctional(c.default || c))
+export const HeroB = () => import('../..\\components\\HeroB.vue' /* webpackChunkName: "components/hero-b" */).then(c => wrapFunctional(c.default || c))
+export const Marquee = () => import('../..\\components\\marquee.vue' /* webpackChunkName: "components/marquee" */).then(c => wrapFunctional(c.default || c))
+export const Nav = () => import('../..\\components\\Nav.vue' /* webpackChunkName: "components/nav" */).then(c => wrapFunctional(c.default || c))
+export const Nav2 = () => import('../..\\components\\Nav2.vue' /* webpackChunkName: "components/nav2" */).then(c => wrapFunctional(c.default || c))
+export const Pagination = () => import('../..\\components\\Pagination.vue' /* webpackChunkName: "components/pagination" */).then(c => wrapFunctional(c.default || c))
+export const PostsCard = () => import('../..\\components\\PostsCard.vue' /* webpackChunkName: "components/posts-card" */).then(c => wrapFunctional(c.default || c))
+export const ProjectList = () => import('../..\\components\\ProjectList.vue' /* webpackChunkName: "components/project-list" */).then(c => wrapFunctional(c.default || c))
+export const ProjectList2 = () => import('../..\\components\\ProjectList2.vue' /* webpackChunkName: "components/project-list2" */).then(c => wrapFunctional(c.default || c))
+export const SearchInput = () => import('../..\\components\\SearchInput.vue' /* webpackChunkName: "components/search-input" */).then(c => wrapFunctional(c.default || c))
+export const SocialHead = () => import('../..\\components\\SocialHead.vue' /* webpackChunkName: "components/social-head" */).then(c => wrapFunctional(c.default || c))
+export const Stats = () => import('../..\\components\\Stats.vue' /* webpackChunkName: "components/stats" */).then(c => wrapFunctional(c.default || c))
+export const Testimonial = () => import('../..\\components\\Testimonial.vue' /* webpackChunkName: "components/testimonial" */).then(c => wrapFunctional(c.default || c))
+export const Wow = () => import('../..\\components\\Wow.vue' /* webpackChunkName: "components/wow" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
