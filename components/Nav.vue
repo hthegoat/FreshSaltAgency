@@ -27,7 +27,7 @@
           <li><NuxtLink to="/team" class="">About</NuxtLink></li>
           <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
           <li><NuxtLink to="/projects" class="">Projects</NuxtLink></li>
-          <li><NuxtLink to="/contact" class=" bg-gray-200 hover:bg-gray-300 focus-visible:ring border-2 border-blue-500 text-black active:text-gray-700 text-md md:text-black font-semibold text-center rounded-md outline-none transition duration-100 px-8 py-3">Get Started</NuxtLink></li>
+          <li><NuxtLink to="/contact" class=" bg-gray-200 hover:bg-gray-300 focus-visible:ring border-2 border-blue-500 text-black active:text-gray-700 text-md md:text-black font-semibold text-center rounded-md outline-none transition duration-100 px-8 py-3">Schedule A Consultation</NuxtLink></li>
           <li>
 
 

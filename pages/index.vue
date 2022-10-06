@@ -3,7 +3,7 @@
  <Hero/>
 
 <Testimonial />
-<HeroB />
+
 </div>
 </template>
 

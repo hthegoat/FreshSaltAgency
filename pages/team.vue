@@ -6,26 +6,22 @@
 		<div class="container max-w-xl p-6 py-12 mx-auto space-y-24 lg:px-8 lg:max-w-7xl">
 <div class="bg-white py-6 sm:py-8 lg:py-12">
   <div class="max-w-screen-xl px-4 md:px-8 mx-auto">
-    <div class="grid md:grid-cols-2 gap-8 lg:gap-12">
-      <div>
-        <div class="h-64 md:h-auto bg-gray-100 overflow-hidden rounded-lg shadow-lg">
-          <img src="~/assets/about-4.png" loading="lazy" alt="Photo by Martin Sanchez" class="w-full h-full object-cover" />
-        </div>
-      </div>
+    <div class="grid md:grid-cols-1 gap-8 lg:gap-12">
+
 
       <div class="md:pt-8">
-        <p class="text-indigo-500 font-bold text-center md:text-left">Who we are</p>
+        <p class="text-indigo-500 font-bold text-center md:text-center">About Us </p>
 
-        <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-left mb-4 md:mb-6">Dedicated Marketing Professionals</h1>
+        <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-center mb-4 md:mb-6">Dedicated Marketing Professionals</h1>
 
-        <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">
+        <p class="text-gray-500 text-center sm:text-lg mb-6 md:mb-8">
           I founded Fresh Salt Agency in 2022. Previously I was a self taught Freelance Marketing Specialist which allowed me to work with hands on Business Owners (and future friends) in a hands-on capacity.<br /><br />
 
         </p>
 
-        <h2 class="text-gray-800 text-xl sm:text-2xl font-semibold text-center md:text-left mb-2 md:mb-4">About Fresh Salt</h2>
+        <h2 class="text-gray-800 text-xl sm:text-2xl font-semibold text-center md:text-center mb-2 md:mb-4">About Fresh Salt</h2>
 
-        <p class="text-gray-500 sm:text-lg mb-6 md:mb-8">We are a small (but mighty) marketing team helping all types of businesses with their end-to-end marketing needs.</p>
+        <p class="text-gray-500 sm:text-lg text-center mb-6 md:mb-8">We are a small (but mighty) marketing team helping all types of businesses with their end-to-end marketing needs.</p>
       </div>
     </div>
   </div>
@@ -97,8 +93,8 @@
 			</div>
 			<div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
 				<div>
-					<h3 class="text-2xl font-bold tracking-tight sm:text-3xl text-gray-900">Harrison Kugler <span class="text-blue-500">CEO, Founder</span></h3>
-					<p class="mt-3 text-lg text-gray-600">Ads Management, Web Development, Ecommerce, Marketing Strategy, Google Analytics</p>
+					<h3 class="text-2xl font-bold text-center tracking-tight sm:text-3xl text-gray-900">Harrison Kugler <span class="text-blue-500">CEO, Founder</span></h3>
+					<p class="mt-3 text-lg text-center text-gray-600">Ads Management, Web Development, Ecommerce, Marketing Strategy, Google Analytics</p>
 					<div class="mt-12 space-y-12">
 						<div class="flex items-center justify-center">
 							<div class="flex-shrink-0">

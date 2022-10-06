@@ -17,6 +17,7 @@ You can directly use them in pages and other components without the need to impo
 - `<Hero>` | `<hero>` (components/Hero.vue)
 - `<Hero2>` | `<hero2>` (components/Hero2.vue)
 - `<HeroB>` | `<hero-b>` (components/HeroB.vue)
+- `<Marquee>` | `<marquee>` (components/marquee.vue)
 - `<Nav>` | `<nav>` (components/Nav.vue)
 - `<Nav2>` | `<nav2>` (components/Nav2.vue)
 - `<Pagination>` | `<pagination>` (components/Pagination.vue)

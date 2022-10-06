@@ -7,6 +7,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _a65d5d98 = () => interopDefault(import('..\\pages\\blog\\index.vue' /* webpackChunkName: "pages/blog/index" */))
 const _59f52038 = () => interopDefault(import('..\\pages\\contact.vue' /* webpackChunkName: "pages/contact" */))
 const _991ff666 = () => interopDefault(import('..\\pages\\kickstarter.vue' /* webpackChunkName: "pages/kickstarter" */))
+const _14f84c1a = () => interopDefault(import('..\\pages\\PPC-Ads-Explained.vue' /* webpackChunkName: "pages/PPC-Ads-Explained" */))
 const _1db0e07e = () => interopDefault(import('..\\pages\\privacypolicy.vue' /* webpackChunkName: "pages/privacypolicy" */))
 const _f21662f4 = () => interopDefault(import('..\\pages\\Projects.vue' /* webpackChunkName: "pages/Projects" */))
 const _f3cd1b82 = () => interopDefault(import('..\\pages\\Reviews.vue' /* webpackChunkName: "pages/Reviews" */))
@@ -17,6 +18,7 @@ const _428cc980 = () => interopDefault(import('..\\pages\\projects\\Bth.vue' /* 
 const _127eb6cc = () => interopDefault(import('..\\pages\\projects\\keystone.vue' /* webpackChunkName: "pages/projects/keystone" */))
 const _2203eb60 = () => interopDefault(import('..\\pages\\projects\\stressfactory.vue' /* webpackChunkName: "pages/projects/stressfactory" */))
 const _4e1ae956 = () => interopDefault(import('..\\pages\\services\\ads.vue' /* webpackChunkName: "pages/services/ads" */))
+const _1b722a44 = () => interopDefault(import('..\\pages\\services\\end-to-end-marketing.vue' /* webpackChunkName: "pages/services/end-to-end-marketing" */))
 const _58047d10 = () => interopDefault(import('..\\pages\\services\\facebook.vue' /* webpackChunkName: "pages/services/facebook" */))
 const _5c165383 = () => interopDefault(import('..\\pages\\services\\google.vue' /* webpackChunkName: "pages/services/google" */))
 const _07c78e83 = () => interopDefault(import('..\\pages\\services\\seo.vue' /* webpackChunkName: "pages/services/seo" */))
@@ -49,6 +51,10 @@ export const routerOptions = {
     path: "/kickstarter",
     component: _991ff666,
     name: "kickstarter"
+  }, {
+    path: "/PPC-Ads-Explained",
+    component: _14f84c1a,
+    name: "PPC-Ads-Explained"
   }, {
     path: "/privacypolicy",
     component: _1db0e07e,
@@ -89,6 +95,10 @@ export const routerOptions = {
     path: "/services/ads",
     component: _4e1ae956,
     name: "services-ads"
+  }, {
+    path: "/services/end-to-end-marketing",
+    component: _1b722a44,
+    name: "services-end-to-end-marketing"
   }, {
     path: "/services/facebook",
     component: _58047d10,
