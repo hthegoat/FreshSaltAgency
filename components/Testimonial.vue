@@ -1,8 +1,12 @@
 <template>
 
  <section class="px-4 py-24 mx-auto max-w-7xl">
-  <h1 class="mb-3 text-3xl font-bold leading-tight text-center text-gray-900 md:text-4xl">Trusted by 40+ Organizations</h1>
-  <p class="mb-16 text-lg text-center text-gray-600">Organizations of all sizes trust Fresh Salt Agency to manage their marketing efforts.</p>
+  <h1 class="mb-3 text-3xl md:text-4xl font-bold leading-tight text-center text-gray-900 ">Trusted by 40+ Organizations</h1>
+  <p class="mb-16 text-lg text-center text-gray-600">Organizations of all sizes trust Fresh Salt Agency as their end-to-end marketing partner.</p>
+
+
+  <Marquee />
+  <!--
   <div class="grid grid-cols-2 gap-16 mb-16 text-center lg:grid-cols-6">
     <div class="flex items-center justify-center">
       <img src="~/assets/bth.png" alt="Bury The Hatchet, Previous Marketing Client " class="block object-contain h-16" />
@@ -41,12 +45,13 @@
       <img src="~/assets/keystone.png" alt="Previous Marketing Client" class="block object-contain h-16" />
     </div>
   </div>
+  -->
   <div class="text-center">
 
 
-<div class="bg-white py-6 sm:py-8 lg:py-12">
+<div class="bg-white py-6 mt-10 sm:py-8 lg:py-12">
   <div class="max-w-screen-xl px-4 md:px-8 mx-auto">
-    <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-8 md:mb-12">What others say about us</h2>
+    <h2 class="text-gray-800 text-3xl md:text-4xl font-bold text-center mb-8 md:mb-12">What Our Clients Are Saying</h2>
 
     <div class="grid md:grid-cols-2 gap-4 md:gap-8">
       <!-- quote - start -->
@@ -133,7 +138,7 @@
 
         <div class="flex flex-col sm:flex-row items-center gap-2 md:gap-3">
           <div class="w-12 md:w-14 h-12 md:h-14 bg-gray-100 border-2 border-indigo-100 rounded-full overflow-hidden">
-            <img src="https://images.unsplash.com/photo-1567515004624-219c11d31f2e??auto=format&q=75&fit=crop&w=112" loading="lazy" alt="Fresh Salt Marketing Agency Testimonial 2" class="w-full h-full object-cover object-center" />
+            <img src="https://images.unsplash.com/photo-1567515004624-219c11d31f2e??auto=format&q=75&fit=crop&w=112" loading="lazy" alt="Fresh Salt New Jersey Marketing Agency Testimonial 2" class="w-full h-full object-cover object-center" />
           </div>
 
           <div>
@@ -152,7 +157,7 @@
 
         <div class="flex flex-col sm:flex-row items-center gap-2 md:gap-3">
           <div class="w-12 md:w-14 h-12 md:h-14 bg-gray-100 border-2 border-indigo-100 rounded-full overflow-hidden">
-            <img src="~/assets/marty.jpg" loading="lazy" alt="Fresh Salt Marketing Agency Testimonial" class="w-full h-full object-cover object-center" />
+            <img src="~/assets/marty.jpg" loading="lazy" alt="Fresh Salt New Jersey Marketing Agency Testimonial 4" class="w-full h-full object-cover object-center" />
           </div>
 
           <div>
