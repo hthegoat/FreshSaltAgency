@@ -29,7 +29,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
           class="mx-auto w-48"
           src="~/assets/Macbook.png"
           alt="Fresh Salt Agency, Digital Marketing Agency, New Jersey Web Design"
-          loading="lazy"
+
         />
         <h3 class="text-2xl font-bold text-gray-800 dark:text-white">Web Design</h3>
 
@@ -62,7 +62,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
           class="mx-auto w-48"
           src="~/assets/iMac.png"
           alt="Fresh Salt Agency, Digital Marketing Agency, New Jersey Web Design + SEO"
-          loading="lazy"
+
         />
         <h3 class="text-2xl font-bold text-gray-800 dark:text-white">SEO</h3>
 
