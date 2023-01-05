@@ -13,6 +13,7 @@ const _f21662f4 = () => interopDefault(import('..\\pages\\Projects.vue' /* webpa
 const _f3cd1b82 = () => interopDefault(import('..\\pages\\Reviews.vue' /* webpackChunkName: "pages/Reviews" */))
 const _646a346a = () => interopDefault(import('..\\pages\\Services.vue' /* webpackChunkName: "pages/Services" */))
 const _6347766e = () => interopDefault(import('..\\pages\\team.vue' /* webpackChunkName: "pages/team" */))
+const _0578048e = () => interopDefault(import('..\\pages\\team2.vue' /* webpackChunkName: "pages/team2" */))
 const _5157a500 = () => interopDefault(import('..\\pages\\thank-you.vue' /* webpackChunkName: "pages/thank-you" */))
 const _428cc980 = () => interopDefault(import('..\\pages\\projects\\Bth.vue' /* webpackChunkName: "pages/projects/Bth" */))
 const _127eb6cc = () => interopDefault(import('..\\pages\\projects\\keystone.vue' /* webpackChunkName: "pages/projects/keystone" */))
@@ -75,6 +76,10 @@ export const routerOptions = {
     path: "/team",
     component: _6347766e,
     name: "team"
+  }, {
+    path: "/team2",
+    component: _0578048e,
+    name: "team2"
   }, {
     path: "/thank-you",
     component: _5157a500,

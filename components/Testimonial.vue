@@ -1,6 +1,6 @@
 <template>
 
- <section class="px-4 py-24 mx-auto max-w-7xl">
+ <section class="px-4 py-12 mx-auto container max-w-screen-2xl max-w-7xl">
   <h1 class="mb-3 text-3xl md:text-4xl font-bold leading-tight text-center text-gray-900 ">Trusted by 40+ Organizations</h1>
   <p class="mb-16 text-lg text-center text-gray-600">Organizations of all sizes trust Fresh Salt Agency as their end-to-end marketing partner.</p>
 
@@ -128,51 +128,20 @@
       </div>
       <!-- quote - end -->
     </div>
-    <div class="grid md:grid-cols-2 gap-4 mt-8 md:gap-8">
-      <!-- quote - start -->
-      <div class="flex flex-col items-center bg-slate-100 rounded-lg gap-4 md:gap-6 px-8 py-6">
-        <div class="max-w-md text-black lg:text-md text-center">“I worked with Harrison on marketing my board game Kickstarter campaign through Facebook. Harrison routinely designed and updated advertisements that attracted both mailing subscriptions and customer orders. He was transparent and communicative, and adopted my feedback quickly. Thanks Harrison! ”
 
-
-</div>
-
-        <div class="flex flex-col sm:flex-row items-center gap-2 md:gap-3">
-          <div class="w-12 md:w-14 h-12 md:h-14 bg-gray-100 border-2 border-indigo-100 rounded-full overflow-hidden">
-            <img src="https://images.unsplash.com/photo-1567515004624-219c11d31f2e??auto=format&q=75&fit=crop&w=112" loading="lazy" alt="Fresh Salt New Jersey Marketing Agency Testimonial 2" class="w-full h-full object-cover object-center" />
-          </div>
-
-          <div>
-            <div class="text-slate-700 text-sm md:text-base font-bold text-center sm:text-left">Elli Amir</div>
-            <p class="text-blue-500 text-sm md:text-sm text-center sm:text-left">CEO / Worldbreakers</p>
-          </div>
-        </div>
-      </div>
-      <!-- quote - end -->
-
-      <!-- quote - start -->
-      <div class="flex flex-col items-center bg-slate-100 rounded-lg gap-4 md:gap-6 px-8 py-6">
-        <div class="max-w-md text-black lg:text-md text-center">“Harrison was a resource to our marketing team while working for me on a few projects. His attention and data driven approach is unique, which gave us a tremendous advantage over the competition. I would recommend him highly to any team looking to improve there marketing performance! ”
-
-</div>
-
-        <div class="flex flex-col sm:flex-row items-center gap-2 md:gap-3">
-          <div class="w-12 md:w-14 h-12 md:h-14 bg-gray-100 border-2 border-indigo-100 rounded-full overflow-hidden">
-            <img src="~/assets/marty.jpg" loading="lazy" alt="Fresh Salt New Jersey Marketing Agency Testimonial 4" class="w-full h-full object-cover object-center" />
-          </div>
-
-          <div>
-            <div class="text-slate-700 text-sm md:text-base font-bold text-center sm:text-left">Marty Parker</div>
-            <p class="text-blue-500 text-sm md:text-sm text-center sm:text-left">CEO / BubbleTruck & Throw Nation</p>
-          </div>
-        </div>
-      </div>
-      <!-- quote - end -->
     </div>
   </div>
 </div>
-  </div>
+
+
+
+<marquee2 />
+
+
+
 </section>
 
 
 
 </template>
+

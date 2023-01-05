@@ -22,12 +22,13 @@
 
       <!-- Navbar -->
       <div class="hidden md:block">
-        <ul class="flex space-x-16 text-sm font-bold font-sans">
-          <li><NuxtLink to="/" class="">Home</NuxtLink></li>
-          <li><NuxtLink to="/team" class="">About</NuxtLink></li>
-          <li><NuxtLink to="/services" class="">Services</NuxtLink></li>
-          <li><NuxtLink to="/projects" class="">Projects</NuxtLink></li>
-          <li><NuxtLink to="/contact" class=" bg-gray-200 hover:bg-gray-300 focus-visible:ring border-2 border-blue-500 text-black active:text-gray-700 text-md md:text-black font-semibold text-center rounded-md outline-none transition duration-100 px-8 py-3">Schedule A Consultation</NuxtLink></li>
+        <ul class="flex space-x-16 text-md font-semibold font-sans">
+          <li><NuxtLink to="/" class="hover:text-blue-500">Home</NuxtLink></li>
+          <li><NuxtLink to="/team2" class="hover:text-blue-500">About</NuxtLink></li>
+          <li><NuxtLink to="/services" class="hover:text-blue-500">Services</NuxtLink></li>
+
+          <li><NuxtLink to="contact" class="bg-blue-500 hover:bg-blue-900 active:bg-blue-900 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Get Started Free</NuxtLink>
+</li>
           <li>
 
 
@@ -70,7 +71,7 @@
 
         <ul class="divide-y font-sans">
           <li><NuxtLink to="/" class="my-4 inline-block">Home</NuxtLink></li>
-                    <li><NuxtLink to="/team" class="my-4 inline-block">About</NuxtLink></li>
+          <li><NuxtLink to="/team2" class="my-4 inline-block">About</NuxtLink></li>
 
 
           <li><NuxtLink to="/services" class="my-4 inline-block">Services</NuxtLink></li>

@@ -42,7 +42,7 @@
 
         <nav class="flex flex-col mt-4 space-y-2 text-sm text-gray-500">
           <NuxtLink to="/" class="hover:opacity-75"> Home </NuxtLink>
-          <NuxtLink to="team" class="hover:opacity-75" > Who Are We </NuxtLink>
+          <NuxtLink to="team2" class="hover:opacity-75" > Who Are We </NuxtLink>
           <NuxtLink to="services" class="hover:opacity-75" > Services </NuxtLink>
 
         </nav>

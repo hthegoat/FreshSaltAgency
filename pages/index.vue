@@ -3,7 +3,7 @@
  <Hero/>
 
 <Testimonial />
-
+<HomeCards />
 </div>
 </template>
 

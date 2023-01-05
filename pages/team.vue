@@ -14,7 +14,7 @@
 
         <h1 class="text-gray-800 text-2xl sm:text-3xl font-bold text-center md:text-center mb-4 md:mb-6">Dedicated Marketing Professionals</h1>
 
-        <p class="text-gray-500 text-center sm:text-lg mb-6 md:mb-8">
+        <p class="text-gray-500 max-w-l text-center sm:text-lg mb-6 md:mb-8">
           I founded Fresh Salt Agency in 2022. Previously I was a self taught Freelance Marketing Specialist which allowed me to work with hands on Business Owners (and future friends) in a hands-on capacity.<br /><br />
 
         </p>

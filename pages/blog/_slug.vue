@@ -1,5 +1,5 @@
 <template>
-  <div class="flex mt-4">
+  <div class="max-w-screen-md flex mt-4">
     <SocialHead
       :title="page.title"
       :description="page.description"
@@ -9,7 +9,7 @@
       <!-- <SearchInput search-item="articles" /> -->
       <AppBreadCrumb link="blog" :title="page.title" />
       <article
-        class="md:p-8 prose dark:prose-invert prose-md lg:prose-lg mx-auto"
+        class="md:p-8 max-w-screen-md prose dark:prose-invert prose-md lg:prose-lg mx-auto"
       >
         <h1 class="title">
           {{ page.title }}
@@ -21,7 +21,7 @@
         />
 
         <!-- {{ stats.text }} -->
-        <nuxt-content :document="page" class="" />
+        <nuxt-content :document="page" class="article" />
       </article>
       <h3 class="border-solid border-t-4 border-gray-600 pt-4">
         Check out some of my other posts:
@@ -130,6 +130,10 @@
 </script>
 
 <style lang="postcss" scoped>
+.article {
+  max-width: 100ch;
+  text-align: center;
+}
   .title {
     font-size: 2.1428571em;
     margin-top: 0;
@@ -138,7 +142,9 @@
     font-weight: 800;
     margin-left: auto;
     margin-right: auto;
-    max-width: 65ch;
+    max-width: 100ch;
+
+
   }
   code {
     color: inherit;

@@ -19,6 +19,7 @@ import nuxt_plugin_pluginclient_69e41669 from 'nuxt_plugin_pluginclient_69e41669
 import nuxt_plugin_pluginserver_60c4f01e from 'nuxt_plugin_pluginserver_60c4f01e' // Source: .\\content\\plugin.server.js (mode: 'server')
 import nuxt_plugin_axios_4e49efd6 from 'nuxt_plugin_axios_4e49efd6' // Source: .\\axios.js (mode: 'all')
 import nuxt_plugin_alpinejs_215d539d from 'nuxt_plugin_alpinejs_215d539d' // Source: ..\\plugins\\alpinejs.js (mode: 'all')
+import nuxt_plugin_flowbite_9f20004a from 'nuxt_plugin_flowbite_9f20004a' // Source: ..\\plugins\\flowbite.js (mode: 'client')
 
 // Component: <ClientOnly>
 Vue.component(ClientOnly.name, ClientOnly)
@@ -68,7 +69,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"Fresh Salt Agency","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Fresh Salt Marketing Agency"},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[{"hid":"gtm-script","innerHTML":"if(!window._gtm_init){window._gtm_init=1;(function(w,n,d,m,e,p){w[d]=(w[d]==1||n[d]=='yes'||n[d]==1||n[m]==1||(w[e]&&w[e][p]&&w[e][p]()))?1:0})(window,navigator,'doNotTrack','msDoNotTrack','external','msTrackingProtectionEnabled');(function(w,d,s,l,x,y){w[x]={};w._gtm_inject=function(i){if(w.doNotTrack||w[x][i])return;w[x][i]=1;w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src='https:\u002F\u002Fselvogrj.use.stape.io?id='+i;f.parentNode.insertBefore(j,f);};w[y]('GTM-WJQ5XKJ')})(window,document,'script','dataLayer','_gtm_ids','_gtm_inject')}"}],"noscript":[{"hid":"gtm-noscript","pbody":true,"innerHTML":"\u003Ciframe src=\"https:\u002F\u002Fselvogrj.use.stape.io?id=GTM-WJQ5XKJ&\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\" title=\"gtm\"\u003E\u003C\u002Fiframe\u003E"}],"__dangerouslyDisableSanitizersByTagID":{"gtm-script":["innerHTML"],"gtm-noscript":["innerHTML"]}},
+    head: {"title":"Fresh Salt Agency","htmlAttrs":{"lang":"en"},"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"description","name":"description","content":"Fresh Salt Marketing Agency"},{"name":"format-detection","content":"telephone=no"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","href":"\u002Ffavicon.ico"}],"style":[],"script":[]},
 
     router,
     nuxt: {
@@ -208,6 +209,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_alpinejs_215d539d === 'function') {
     await nuxt_plugin_alpinejs_215d539d(app.context, inject)
+  }
+
+  if (process.client && typeof nuxt_plugin_flowbite_9f20004a === 'function') {
+    await nuxt_plugin_flowbite_9f20004a(app.context, inject)
   }
 
   // Lock enablePreview in context

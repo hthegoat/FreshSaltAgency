@@ -90,7 +90,7 @@ body {
 
 .marquee-item img {
   display: block;
-  width: 100%;
+  width: 75%;
 /*   padding: 0 20px; */
 }
 

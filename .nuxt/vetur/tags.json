@@ -32,8 +32,14 @@
   "HeroB": {
     "description": "Auto imported from components/HeroB.vue"
   },
+  "HomeCards": {
+    "description": "Auto imported from components/HomeCards.vue"
+  },
   "Marquee": {
     "description": "Auto imported from components/marquee.vue"
+  },
+  "Marquee2": {
+    "description": "Auto imported from components/marquee2.vue"
   },
   "Nav": {
     "description": "Auto imported from components/Nav.vue"
