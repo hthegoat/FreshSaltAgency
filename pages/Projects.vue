@@ -60,11 +60,11 @@
 </strong>
 
 <strong class="bg-gray-600 border text-white text-primary border border-current px-3 py-1.5 rounded text-[12px] font-medium">
-  Marketing Strategy
+  Marketing Strategy1
 </strong>
 
         </div>
-      </NuxtLink>
+      </NuxtLink>j
       <!-- article - end -->
 
       <!-- article - start -->
