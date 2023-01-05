@@ -27,7 +27,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/macbook.png"
+          src="~/assets/Macbook.png"
           alt="Fresh Salt Agency, Digital Marketing Agency, New Jersey Web Design"
           loading="lazy"
         />
@@ -38,7 +38,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/folder.png"
+          src="~/assets/Folder.png"
           alt="Paid Social Media, Fresh Salt Agency New Jersey"
           loading="lazy"
         />
@@ -50,7 +50,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/processor.png"
+          src="~/assets/Processor.png"
           alt="email marketing agency new jersey"
           loading="lazy"
         />
@@ -60,7 +60,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border  border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/imac.png"
+          src="~/assets/iMac.png"
           alt="Fresh Salt Agency, Digital Marketing Agency, New Jersey Web Design + SEO"
           loading="lazy"
         />

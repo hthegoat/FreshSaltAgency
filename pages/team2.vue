@@ -197,7 +197,7 @@ If you are interested in hiring us for your next project or want more informatio
 
   <img
     alt="Fresh Salt Agency, Digital Marketing Agency, New Jersey"
-    src="~/assets/fsa.png"
+    src="~/assets/FSA.png"
     class="h-56 w-full object-cover sm:h-2/3"
   />
 </section>
