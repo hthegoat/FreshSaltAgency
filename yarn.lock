@@ -1541,13 +1541,14 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@tailwindcss/typography@tailwindcss/typography":
-  version "0.5.4"
-  resolved "git+ssh://git@github.com/tailwindcss/typography.git#23e04c6bc4330a6b493fe3698be11ff287f4d7bc"
+"@tailwindcss/typography@github:tailwindcss/typography":
+  version "0.5.8"
+  resolved "git+ssh://git@github.com/tailwindcss/typography.git#5231af5bdd392404025330256f3797f8572d8067"
   dependencies:
     lodash.castarray "^4.4.0"
     lodash.isplainobject "^4.0.6"
     lodash.merge "^4.6.2"
+    postcss-selector-parser "6.0.10"
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -8495,7 +8496,7 @@ postcss-selector-parser@^5.0.0-rc.4:
     indexes-of "^1.0.1"
     uniq "^1.0.1"
 
-postcss-selector-parser@^6.0.0, postcss-selector-parser@^6.0.10, postcss-selector-parser@^6.0.2, postcss-selector-parser@^6.0.4, postcss-selector-parser@^6.0.6:
+postcss-selector-parser@^6.0.0, postcss-selector-parser@^6.0.10, postcss-selector-parser@^6.0.2, postcss-selector-parser@^6.0.4, postcss-selector-parser@^6.0.6, postcss-selector-parser@6.0.10:
   version "6.0.10"
   resolved "https://registry.npmjs.org/postcss-selector-parser/-/postcss-selector-parser-6.0.10.tgz"
   integrity sha512-IQ7TZdoaqbT+LCpShg46jnZVlhWD2w6iQYAcYXfHARZ7X1t/UGhhceQDs5X0cGqKvYlHNOuv7Oa1xmb0oQuA3w==

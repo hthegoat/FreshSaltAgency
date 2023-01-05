@@ -29,7 +29,7 @@
   "devDependencies": {
     "@nuxtjs/google-fonts": "^1.3.0",
     "@nuxtjs/tailwindcss": "^4.2.0",
-    "@tailwindcss/typography": "tailwindcss/typography",
+    "@tailwindcss/typography": "github:tailwindcss/typography",
     "postcss": "^8.4.13",
     "sass": "^1.49.9",
     "sass-loader": "^10.2.1"
