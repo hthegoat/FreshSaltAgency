@@ -40,7 +40,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
           class="mx-auto w-48"
           src="~/assets/Folder.png"
           alt="Paid Social Media, Fresh Salt Agency New Jersey"
-          loading="lazy"
+
         />
         <h3 class="text-2xl font-bold text-gray-800 dark:text-white">Paid Ads</h3>
 
@@ -52,7 +52,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
           class="mx-auto w-48"
           src="~/assets/Processor.png"
           alt="email marketing agency new jersey"
-          loading="lazy"
+
         />
         <h3 class="text-2xl font-bold text-gray-800 dark:text-white">Email & SMS </h3>
 
