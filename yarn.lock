@@ -1541,15 +1541,6 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
-"@tailwindcss/typography@github:tailwindcss/typography":
-  version "0.5.8"
-  resolved "git+ssh://git@github.com/tailwindcss/typography.git#5231af5bdd392404025330256f3797f8572d8067"
-  dependencies:
-    lodash.castarray "^4.4.0"
-    lodash.isplainobject "^4.0.6"
-    lodash.merge "^4.6.2"
-    postcss-selector-parser "6.0.10"
-
 "@tootallnate/once@1":
   version "1.1.2"
   resolved "https://registry.npmjs.org/@tootallnate/once/-/once-1.1.2.tgz"
