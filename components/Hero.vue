@@ -1,7 +1,7 @@
 <template>
 <section>
      <section class="flex flex-col items-center">
-      <div class="max-w-xl flex flex-col items-center text-center pt-8 lg:pt-32 pb-16 lg:pb-48">
+      <div class="max-w-xl flex flex-col items-center text-center pt-8 lg:pt-32 pb-8 lg:pb-10">
         <img src="~/assets/logo.png" class="h-20" alt="Fresh Salt Agency Logo">
         <p class="text-Blue-600 md:text-lg xl:text-xl font-semibold mb-4 md:mb-6">Fresh Salt Agency </p>
 
@@ -19,7 +19,7 @@
       <!-- social - end -->
     </section>
 <section
-  class="relative bg-[url('~/assets/Mockup.png')] bg-cover bg-center bg-no-repeat"
+  class="relative bg-[url('~/assets/mockup.png')] bg-cover bg-center bg-no-repeat"
 >
   <div
     class="absolute inset-0 bg-white/75 sm:bg-transparent sm:bg-gradient-to-r sm:from-white/95 sm:to-white/0"
