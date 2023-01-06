@@ -27,7 +27,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/Macbook.png"
+          src="~/assets/macbook.png"
           alt="Fresh Salt Agency, Digital Marketing Agency, New Jersey Web Design"
 
         />
@@ -38,7 +38,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/Folder.png"
+          src="~/assets/folder.png"
           alt="Paid Social Media, Fresh Salt Agency New Jersey"
 
         />
@@ -50,7 +50,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/Processor.png"
+          src="~/assets/processor.png"
           alt="email marketing agency new jersey"
 
         />
@@ -60,7 +60,7 @@ But if the food is not good, adding salt won't make it good." <span class="font-
       <div class="group space-y-6 border  border-gray-100 dark:border-gray-700 rounded-3xl bg-white dark:bg-gray-800 px-8 py-12 text-center shadow-2xl shadow-gray-600/10 dark:shadow-none">
         <img
           class="mx-auto w-48"
-          src="~/assets/iMac.png"
+          src="~/assets/imac.png"
           alt="Fresh Salt Agency, Digital Marketing Agency, New Jersey Web Design + SEO"
 
         />
