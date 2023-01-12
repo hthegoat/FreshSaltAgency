@@ -15,10 +15,10 @@
 
           <div class="mt-4 md:mt-8">
             <NuxtLink
-              to="contact"
+              to="services"
               class="inline-block rounded-lg border border-white bg-white px-12 py-3 text-sm font-medium text-blue-500 transition hover:bg-transparent hover:text-white focus:outline-none focus:ring focus:ring-yellow-400"
             >
-              Get Started Free
+              Learn More
             </NuxtLink>
           </div>
         </div>
